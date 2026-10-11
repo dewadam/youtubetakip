@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>YouTube Kanal Takip Paneli</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <header class="top">
+    <div>
+      <h1>📺 YouTube Kanal Takip Paneli</h1>
+      <p class="subtitle" id="lastUpdated">Yükleniyor...</p>
+    </div>
+    <button id="refreshBtn" class="btn secondary">🔄 Yenile</button>
+  </header>
+
+  <section id="summary" class="summary"></section>
+
+  <section>
+    <h2 class="section-title">Kanallar</h2>
+    <div id="channelsGrid" class="channels-grid"></div>
+  </section>
+
+  <section>
+    <h2 class="section-title">Videolar</h2>
+    <div class="controls">
+      <input type="text" id="search" placeholder="🔍 Video veya kanal ara...">
+      <select id="channelFilter"><option value="all">Tüm kanallar</option></select>
+      <select id="periodFilter">
+        <option value="0">Tüm zamanlar</option>
+        <option value="24">Son 24 saat</option>
+        <option value="72">Son 3 gün</option>
+        <option value="168">Son 7 gün</option>
+        <option value="720">Son 30 gün</option>
+      </select>
+      <span id="videoCount" class="badge"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table id="videoTable">
+        <thead>
+          <tr>
+            <th data-sort="thumbnail" class="no-sort"></th>
+            <th data-sort="title">Başlık</th>
+            <th data-sort="channelTitle">Kanal</th>
+            <th data-sort="published" class="num">Yayın</th>
+            <th data-sort="views" class="num sorted">İzlenme</th>
+            <th data-sort="velocity" class="num">İzlenme/saat</th>
+            <th data-sort="likes" class="num">Beğeni</th>
+            <th data-sort="comments" class="num">Yorum</th>
+            <th data-sort="engagement" class="num">Etkileşim</th>
+          </tr>
+        </thead>
+        <tbody id="videoBody">
+          <tr><td colspan="9" class="empty">Veri yükleniyor...</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer><p>Veriler GitHub Actions ile ~15 dakikada bir güncellenir.</p></footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
