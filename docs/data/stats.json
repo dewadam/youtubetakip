@@ -1,5 +1,89 @@
 {
-  "channels": {},
-  "videos": [],
-  "lastUpdated": null
+  "channels": {
+    "UC578HZm7EzPbGp8hJKOUHbw": {
+      "id": "UC578HZm7EzPbGp8hJKOUHbw",
+      "title": "VİP Magazin Gündemi",
+      "thumbnail": "https://yt3.ggpht.com/C2X7CekV995IegbH_P7NrAUKVHPG8HNhemmGcG1JvvP4-1d-biuK2sKHsdoeEe90sltPSAMF=s88-c-k-c0x00ffffff-no-rj",
+      "history": [
+        {
+          "ts": "2026-10-11T12:16:57Z",
+          "subs": 0,
+          "views": 0,
+          "videos": 1
+        }
+      ],
+      "lastSnapshot": {
+        "ts": "2026-10-11T12:16:57Z",
+        "subs": 0,
+        "views": 0,
+        "videos": 1
+      }
+    },
+    "UCHQHkJNRPYtJtEgdtxCPeZQ": {
+      "id": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "title": "Yol Masrafı",
+      "thumbnail": "https://yt3.ggpht.com/WcWvtiU5xUGm9l7xURzn7s8Q2b-uTw1upsUTq4DWKNWsuLuVTRVnL2FNF_kEBZ5Tg6-KLMwz-g=s88-c-k-c0x00ffffff-no-rj",
+      "history": [
+        {
+          "ts": "2026-10-11T12:16:57Z",
+          "subs": 1,
+          "views": 0,
+          "videos": 3
+        }
+      ],
+      "lastSnapshot": {
+        "ts": "2026-10-11T12:16:57Z",
+        "subs": 1,
+        "views": 0,
+        "videos": 3
+      }
+    }
+  },
+  "videos": [
+    {
+      "videoId": "eObOF28VPj8",
+      "title": "Okan Bayülgen'in 17 yaşındaki kızı İstanbul'dan büyük başarı #Shorts",
+      "published": "2026-10-11T10:13:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/eObOF28VPj8/mqdefault.jpg",
+      "views": 3,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "fvaXevUrlAc",
+      "title": "11 Ekim güncel akaryakıt fiyatları #Shorts",
+      "published": "2026-10-11T06:27:41Z",
+      "thumbnail": "https://i.ytimg.com/vi/fvaXevUrlAc/mqdefault.jpg",
+      "views": 137,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "channelTitle": "Yol Masrafı"
+    },
+    {
+      "videoId": "qmtC1XdHKjs",
+      "title": "ZES ve Trugo şarj fiyatları: 10 Ekim AC ve DC kWh ücreti #Shorts",
+      "published": "2026-10-10T19:09:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/qmtC1XdHKjs/mqdefault.jpg",
+      "views": 209,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "channelTitle": "Yol Masrafı"
+    },
+    {
+      "videoId": "NAV-XPUvMQY",
+      "title": "Benzinde indirim ve Motorine zam! 10 Ekim akaryakıt fiyatları #Shorts",
+      "published": "2026-10-10T18:09:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/NAV-XPUvMQY/mqdefault.jpg",
+      "views": 368,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "channelTitle": "Yol Masrafı"
+    }
+  ],
+  "lastUpdated": "2026-10-11T12:16:57Z"
 }
