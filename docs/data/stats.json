@@ -53,12 +53,18 @@
           "subs": 2,
           "views": 787,
           "videos": 4
+        },
+        {
+          "ts": "2026-10-12T16:09:06Z",
+          "subs": 2,
+          "views": 805,
+          "videos": 4
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-12T06:33:46Z",
+        "ts": "2026-10-12T16:09:06Z",
         "subs": 2,
-        "views": 787,
+        "views": 805,
         "videos": 4
       }
     }
@@ -80,7 +86,7 @@
       "title": "12 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-12T05:48:43Z",
       "thumbnail": "https://i.ytimg.com/vi/K2pU5D09k5w/mqdefault.jpg",
-      "views": 1,
+      "views": 130,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -102,7 +108,7 @@
       "title": "ZES ve Trugo şarj fiyatları: 10 Ekim AC ve DC kWh ücreti #Shorts",
       "published": "2026-10-10T19:09:43Z",
       "thumbnail": "https://i.ytimg.com/vi/qmtC1XdHKjs/mqdefault.jpg",
-      "views": 230,
+      "views": 234,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -120,5 +126,5 @@
       "channelTitle": "Yol Masrafı"
     }
   ],
-  "lastUpdated": "2026-10-12T06:33:46Z"
+  "lastUpdated": "2026-10-12T16:09:06Z"
 }
