@@ -41,10 +41,16 @@
           "subs": 2,
           "views": 364,
           "videos": 3
+        },
+        {
+          "ts": "2026-10-12T00:32:27Z",
+          "subs": 2,
+          "views": 364,
+          "videos": 3
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-11T21:04:20Z",
+        "ts": "2026-10-12T00:32:27Z",
         "subs": 2,
         "views": 364,
         "videos": 3
@@ -68,7 +74,7 @@
       "title": "11 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-11T06:27:41Z",
       "thumbnail": "https://i.ytimg.com/vi/fvaXevUrlAc/mqdefault.jpg",
-      "views": 198,
+      "views": 199,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -79,7 +85,7 @@
       "title": "ZES ve Trugo şarj fiyatları: 10 Ekim AC ve DC kWh ücreti #Shorts",
       "published": "2026-10-10T19:09:43Z",
       "thumbnail": "https://i.ytimg.com/vi/qmtC1XdHKjs/mqdefault.jpg",
-      "views": 228,
+      "views": 233,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -90,12 +96,12 @@
       "title": "Benzinde indirim ve Motorine zam! 10 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-10T18:09:16Z",
       "thumbnail": "https://i.ytimg.com/vi/NAV-XPUvMQY/mqdefault.jpg",
-      "views": 372,
+      "views": 373,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
       "channelTitle": "Yol Masrafı"
     }
   ],
-  "lastUpdated": "2026-10-11T21:04:20Z"
+  "lastUpdated": "2026-10-12T00:32:27Z"
 }
