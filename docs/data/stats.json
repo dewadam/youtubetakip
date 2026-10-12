@@ -59,10 +59,16 @@
           "subs": 2,
           "views": 805,
           "videos": 4
+        },
+        {
+          "ts": "2026-10-12T22:59:27Z",
+          "subs": 2,
+          "views": 805,
+          "videos": 4
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-12T16:09:06Z",
+        "ts": "2026-10-12T22:59:27Z",
         "subs": 2,
         "views": 805,
         "videos": 4
@@ -108,7 +114,7 @@
       "title": "ZES ve Trugo şarj fiyatları: 10 Ekim AC ve DC kWh ücreti #Shorts",
       "published": "2026-10-10T19:09:43Z",
       "thumbnail": "https://i.ytimg.com/vi/qmtC1XdHKjs/mqdefault.jpg",
-      "views": 234,
+      "views": 236,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -119,12 +125,12 @@
       "title": "Benzinde indirim ve Motorine zam! 10 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-10T18:09:16Z",
       "thumbnail": "https://i.ytimg.com/vi/NAV-XPUvMQY/mqdefault.jpg",
-      "views": 365,
+      "views": 367,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
       "channelTitle": "Yol Masrafı"
     }
   ],
-  "lastUpdated": "2026-10-12T16:09:06Z"
+  "lastUpdated": "2026-10-12T22:59:27Z"
 }
