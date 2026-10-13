@@ -16,13 +16,19 @@
           "subs": 4,
           "views": 1159,
           "videos": 10
+        },
+        {
+          "ts": "2026-10-13T10:59:07Z",
+          "subs": 4,
+          "views": 1159,
+          "videos": 11
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-13T06:01:07Z",
+        "ts": "2026-10-13T10:59:07Z",
         "subs": 4,
         "views": 1159,
-        "videos": 10
+        "videos": 11
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -83,10 +89,16 @@
           "subs": 2,
           "views": 805,
           "videos": 5
+        },
+        {
+          "ts": "2026-10-13T10:59:07Z",
+          "subs": 2,
+          "views": 805,
+          "videos": 5
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-13T06:01:07Z",
+        "ts": "2026-10-13T10:59:07Z",
         "subs": 2,
         "views": 805,
         "videos": 5
@@ -99,7 +111,7 @@
       "title": "13 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-13T02:50:20Z",
       "thumbnail": "https://i.ytimg.com/vi/hevVbl3k7N8/mqdefault.jpg",
-      "views": 5,
+      "views": 28,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -150,6 +162,17 @@
       "channelTitle": "Yol Masrafı"
     },
     {
+      "videoId": "i84rMTAdQ_0",
+      "title": "'Breaking Bad' dizisinin yıldızı RJ Mitte hayatını kaybetti! RJ Mitte kimdir, kaç yaşındaydı? #Short",
+      "published": "2026-10-13T09:08:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/i84rMTAdQ_0/mqdefault.jpg",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "KEcpZROxG-0",
       "title": "Oyuncu Deniz Işın, yaşadığı sözlü tacizi anlattı: Her kimse ne kendi gücüne ne de karşısındakinin",
       "published": "2026-10-12T18:09:36Z",
@@ -176,7 +199,7 @@
       "title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\" #Shorts",
       "published": "2026-10-12T15:53:17Z",
       "thumbnail": "https://i.ytimg.com/vi/EQTmhLLp-Ak/mqdefault.jpg",
-      "views": 4,
+      "views": 8,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -198,7 +221,7 @@
       "title": "Acılı anne baba Cindy Crawford ve Rande Gerber oğullarının ölümünden sonra ilk kez görüntülendi #Sho",
       "published": "2026-10-12T09:34:00Z",
       "thumbnail": "https://i.ytimg.com/vi/Df_UbDTQSMc/mqdefault.jpg",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -209,7 +232,7 @@
       "title": "Kırgın Çiçekler'le tanınan İpek Karapınar'dan karnı burnunda pozlar: “Birkaç haftamız kaldı” #Shorts",
       "published": "2026-10-12T09:33:45Z",
       "thumbnail": "https://i.ytimg.com/vi/_73K9ANezjQ/mqdefault.jpg",
-      "views": 1110,
+      "views": 1115,
       "likes": 11,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -220,7 +243,7 @@
       "title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret #Shorts",
       "published": "2026-10-12T09:29:29Z",
       "thumbnail": "https://i.ytimg.com/vi/3GmTJ2qav7I/mqdefault.jpg",
-      "views": 725,
+      "views": 729,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -242,7 +265,7 @@
       "title": "Çağatay Ulusoy, Anne ve Babasıyla Bulgaristan’daki Köylerini Ziyaret Etti #Shorts",
       "published": "2026-10-11T18:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/6re4riwNu5M/mqdefault.jpg",
-      "views": 1126,
+      "views": 1133,
       "likes": 17,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -260,5 +283,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-13T06:01:07Z"
+  "lastUpdated": "2026-10-13T10:59:07Z"
 }
