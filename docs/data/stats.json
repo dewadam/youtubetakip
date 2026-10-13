@@ -10,13 +10,19 @@
           "subs": 0,
           "views": 0,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-13T06:01:07Z",
+          "subs": 4,
+          "views": 1159,
+          "videos": 10
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-11T12:16:57Z",
-        "subs": 0,
-        "views": 0,
-        "videos": 1
+        "ts": "2026-10-13T06:01:07Z",
+        "subs": 4,
+        "views": 1159,
+        "videos": 10
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -71,10 +77,16 @@
           "subs": 2,
           "views": 805,
           "videos": 5
+        },
+        {
+          "ts": "2026-10-13T06:01:07Z",
+          "subs": 2,
+          "views": 805,
+          "videos": 5
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-13T03:29:27Z",
+        "ts": "2026-10-13T06:01:07Z",
         "subs": 2,
         "views": 805,
         "videos": 5
@@ -83,22 +95,11 @@
   },
   "videos": [
     {
-      "videoId": "eObOF28VPj8",
-      "title": "Okan Bayülgen'in 17 yaşındaki kızı İstanbul'dan büyük başarı #Shorts",
-      "published": "2026-10-11T10:13:14Z",
-      "thumbnail": "https://i.ytimg.com/vi/eObOF28VPj8/mqdefault.jpg",
-      "views": 3,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
       "videoId": "hevVbl3k7N8",
       "title": "13 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-13T02:50:20Z",
       "thumbnail": "https://i.ytimg.com/vi/hevVbl3k7N8/mqdefault.jpg",
-      "views": 1,
+      "views": 5,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -147,7 +148,117 @@
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
       "channelTitle": "Yol Masrafı"
+    },
+    {
+      "videoId": "KEcpZROxG-0",
+      "title": "Oyuncu Deniz Işın, yaşadığı sözlü tacizi anlattı: Her kimse ne kendi gücüne ne de karşısındakinin",
+      "published": "2026-10-12T18:09:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/KEcpZROxG-0/mqdefault.jpg",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "OA_wRbGncLE",
+      "title": "Serbest bırakılan Berna Laçin dostlarıyla poz verdi: İyiyim #Shorts",
+      "published": "2026-10-12T18:09:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/OA_wRbGncLE/mqdefault.jpg",
+      "views": 3,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "EQTmhLLp-Ak",
+      "title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\" #Shorts",
+      "published": "2026-10-12T15:53:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/EQTmhLLp-Ak/mqdefault.jpg",
+      "views": 4,
+      "likes": 1,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "2zlAGyhy1pI",
+      "title": "\"Kuzuma nazar değdi\" diyerek duyurdu! Demet Akalın'ın eşi Okan Kurt acillik oldu! #Shorts",
+      "published": "2026-10-12T15:53:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/2zlAGyhy1pI/mqdefault.jpg",
+      "views": 9,
+      "likes": 1,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "Df_UbDTQSMc",
+      "title": "Acılı anne baba Cindy Crawford ve Rande Gerber oğullarının ölümünden sonra ilk kez görüntülendi #Sho",
+      "published": "2026-10-12T09:34:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/Df_UbDTQSMc/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "_73K9ANezjQ",
+      "title": "Kırgın Çiçekler'le tanınan İpek Karapınar'dan karnı burnunda pozlar: “Birkaç haftamız kaldı” #Shorts",
+      "published": "2026-10-12T09:33:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/_73K9ANezjQ/mqdefault.jpg",
+      "views": 1110,
+      "likes": 11,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "3GmTJ2qav7I",
+      "title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret #Shorts",
+      "published": "2026-10-12T09:29:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/3GmTJ2qav7I/mqdefault.jpg",
+      "views": 725,
+      "likes": 6,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "B3xl3swFBGs",
+      "title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\" #Shorts",
+      "published": "2026-10-12T09:29:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/B3xl3swFBGs/mqdefault.jpg",
+      "views": 1156,
+      "likes": 4,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "6re4riwNu5M",
+      "title": "Çağatay Ulusoy, Anne ve Babasıyla Bulgaristan’daki Köylerini Ziyaret Etti #Shorts",
+      "published": "2026-10-11T18:00:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/6re4riwNu5M/mqdefault.jpg",
+      "views": 1126,
+      "likes": 17,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "eObOF28VPj8",
+      "title": "Okan Bayülgen'in 17 yaşındaki kızı İstanbul'dan büyük başarı #Shorts",
+      "published": "2026-10-11T10:13:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/eObOF28VPj8/mqdefault.jpg",
+      "views": 1176,
+      "likes": 5,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-13T03:29:27Z"
+  "lastUpdated": "2026-10-13T06:01:07Z"
 }
