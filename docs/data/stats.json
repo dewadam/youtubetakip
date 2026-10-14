@@ -34,11 +34,17 @@
           "subs": 5,
           "views": 5310,
           "videos": 13
+        },
+        {
+          "ts": "2026-10-14T01:26:20Z",
+          "subs": 4,
+          "views": 5310,
+          "videos": 13
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-13T22:44:46Z",
-        "subs": 5,
+        "ts": "2026-10-14T01:26:20Z",
+        "subs": 4,
         "views": 5310,
         "videos": 13
       }
@@ -119,13 +125,19 @@
           "subs": 2,
           "views": 933,
           "videos": 5
+        },
+        {
+          "ts": "2026-10-14T01:26:20Z",
+          "subs": 2,
+          "views": 933,
+          "videos": 6
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-13T22:44:46Z",
+        "ts": "2026-10-14T01:26:20Z",
         "subs": 2,
         "views": 933,
-        "videos": 5
+        "videos": 6
       }
     },
     "UC0faIhjf4Is3plnq0zEoQoQ": {
@@ -138,10 +150,16 @@
           "subs": 0,
           "views": 0,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-14T01:26:20Z",
+          "subs": 0,
+          "views": 0,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-13T22:44:46Z",
+        "ts": "2026-10-14T01:26:20Z",
         "subs": 0,
         "views": 0,
         "videos": 1
@@ -150,11 +168,22 @@
   },
   "videos": [
     {
+      "videoId": "i15HUJGDPyA",
+      "title": "14 Ekim güncel akaryakıt fiyatları #Shorts",
+      "published": "2026-10-14T00:51:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/i15HUJGDPyA/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "channelTitle": "Yol Masrafı"
+    },
+    {
       "videoId": "hevVbl3k7N8",
       "title": "13 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-13T02:50:20Z",
       "thumbnail": "https://i.ytimg.com/vi/hevVbl3k7N8/mqdefault.jpg",
-      "views": 77,
+      "views": 76,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -220,7 +249,7 @@
       "title": "Hülya Avşar'dan Erkan Petekkaya'ya yanıt: Sakın üzülme, ben çok eğlendim #Shorts",
       "published": "2026-10-13T19:30:54Z",
       "thumbnail": "https://i.ytimg.com/vi/kKFQ4cD4GAE/mqdefault.jpg",
-      "views": 437,
+      "views": 823,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -231,7 +260,7 @@
       "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında? #Shorts",
       "published": "2026-10-13T14:29:38Z",
       "thumbnail": "https://i.ytimg.com/vi/dRIRfFGVLt8/mqdefault.jpg",
-      "views": 892,
+      "views": 949,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -264,7 +293,7 @@
       "title": "Serbest bırakılan Berna Laçin dostlarıyla poz verdi: İyiyim #Shorts",
       "published": "2026-10-12T18:09:32Z",
       "thumbnail": "https://i.ytimg.com/vi/OA_wRbGncLE/mqdefault.jpg",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -308,7 +337,7 @@
       "title": "Kırgın Çiçekler'le tanınan İpek Karapınar'dan karnı burnunda pozlar: “Birkaç haftamız kaldı” #Shorts",
       "published": "2026-10-12T09:33:45Z",
       "thumbnail": "https://i.ytimg.com/vi/_73K9ANezjQ/mqdefault.jpg",
-      "views": 1122,
+      "views": 1115,
       "likes": 11,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -319,7 +348,7 @@
       "title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret #Shorts",
       "published": "2026-10-12T09:29:29Z",
       "thumbnail": "https://i.ytimg.com/vi/3GmTJ2qav7I/mqdefault.jpg",
-      "views": 733,
+      "views": 730,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -359,5 +388,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-13T22:44:46Z"
+  "lastUpdated": "2026-10-14T01:26:20Z"
 }
