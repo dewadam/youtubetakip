@@ -40,11 +40,17 @@
           "subs": 4,
           "views": 5310,
           "videos": 13
+        },
+        {
+          "ts": "2026-10-14T06:33:48Z",
+          "subs": 5,
+          "views": 5310,
+          "videos": 13
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-14T01:26:20Z",
-        "subs": 4,
+        "ts": "2026-10-14T06:33:48Z",
+        "subs": 5,
         "views": 5310,
         "videos": 13
       }
@@ -131,10 +137,16 @@
           "subs": 2,
           "views": 933,
           "videos": 6
+        },
+        {
+          "ts": "2026-10-14T06:33:48Z",
+          "subs": 2,
+          "views": 933,
+          "videos": 6
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-14T01:26:20Z",
+        "ts": "2026-10-14T06:33:48Z",
         "subs": 2,
         "views": 933,
         "videos": 6
@@ -156,10 +168,16 @@
           "subs": 0,
           "views": 0,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-14T06:33:48Z",
+          "subs": 0,
+          "views": 0,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-14T01:26:20Z",
+        "ts": "2026-10-14T06:33:48Z",
         "subs": 0,
         "views": 0,
         "videos": 1
@@ -172,7 +190,7 @@
       "title": "14 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-14T00:51:12Z",
       "thumbnail": "https://i.ytimg.com/vi/i15HUJGDPyA/mqdefault.jpg",
-      "views": 0,
+      "views": 13,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -249,7 +267,7 @@
       "title": "Hülya Avşar'dan Erkan Petekkaya'ya yanıt: Sakın üzülme, ben çok eğlendim #Shorts",
       "published": "2026-10-13T19:30:54Z",
       "thumbnail": "https://i.ytimg.com/vi/kKFQ4cD4GAE/mqdefault.jpg",
-      "views": 823,
+      "views": 969,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -260,7 +278,7 @@
       "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında? #Shorts",
       "published": "2026-10-13T14:29:38Z",
       "thumbnail": "https://i.ytimg.com/vi/dRIRfFGVLt8/mqdefault.jpg",
-      "views": 949,
+      "views": 954,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -271,7 +289,7 @@
       "title": "'Breaking Bad' dizisinin yıldızı RJ Mitte hayatını kaybetti! RJ Mitte kimdir, kaç yaşındaydı? #Short",
       "published": "2026-10-13T09:08:52Z",
       "thumbnail": "https://i.ytimg.com/vi/i84rMTAdQ_0/mqdefault.jpg",
-      "views": 126,
+      "views": 127,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -293,7 +311,7 @@
       "title": "Serbest bırakılan Berna Laçin dostlarıyla poz verdi: İyiyim #Shorts",
       "published": "2026-10-12T18:09:32Z",
       "thumbnail": "https://i.ytimg.com/vi/OA_wRbGncLE/mqdefault.jpg",
-      "views": 6,
+      "views": 8,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -315,7 +333,7 @@
       "title": "\"Kuzuma nazar değdi\" diyerek duyurdu! Demet Akalın'ın eşi Okan Kurt acillik oldu! #Shorts",
       "published": "2026-10-12T15:53:07Z",
       "thumbnail": "https://i.ytimg.com/vi/2zlAGyhy1pI/mqdefault.jpg",
-      "views": 12,
+      "views": 13,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -326,7 +344,7 @@
       "title": "Acılı anne baba Cindy Crawford ve Rande Gerber oğullarının ölümünden sonra ilk kez görüntülendi #Sho",
       "published": "2026-10-12T09:34:00Z",
       "thumbnail": "https://i.ytimg.com/vi/Df_UbDTQSMc/mqdefault.jpg",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -381,12 +399,12 @@
       "title": "Okan Bayülgen'in 17 yaşındaki kızı İstanbul'dan büyük başarı #Shorts",
       "published": "2026-10-11T10:13:14Z",
       "thumbnail": "https://i.ytimg.com/vi/eObOF28VPj8/mqdefault.jpg",
-      "views": 1180,
+      "views": 1183,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-14T01:26:20Z"
+  "lastUpdated": "2026-10-14T06:33:48Z"
 }
