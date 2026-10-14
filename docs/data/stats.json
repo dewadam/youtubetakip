@@ -46,13 +46,19 @@
           "subs": 5,
           "views": 5310,
           "videos": 13
+        },
+        {
+          "ts": "2026-10-14T12:24:48Z",
+          "subs": 5,
+          "views": 5352,
+          "videos": 15
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-14T06:33:48Z",
+        "ts": "2026-10-14T12:24:48Z",
         "subs": 5,
-        "views": 5310,
-        "videos": 13
+        "views": 5352,
+        "videos": 15
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -143,12 +149,18 @@
           "subs": 2,
           "views": 933,
           "videos": 6
+        },
+        {
+          "ts": "2026-10-14T12:24:48Z",
+          "subs": 2,
+          "views": 998,
+          "videos": 6
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-14T06:33:48Z",
+        "ts": "2026-10-14T12:24:48Z",
         "subs": 2,
-        "views": 933,
+        "views": 998,
         "videos": 6
       }
     },
@@ -174,10 +186,16 @@
           "subs": 0,
           "views": 0,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-14T12:24:48Z",
+          "subs": 0,
+          "views": 0,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-14T06:33:48Z",
+        "ts": "2026-10-14T12:24:48Z",
         "subs": 0,
         "views": 0,
         "videos": 1
@@ -190,7 +208,7 @@
       "title": "14 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-14T00:51:12Z",
       "thumbnail": "https://i.ytimg.com/vi/i15HUJGDPyA/mqdefault.jpg",
-      "views": 13,
+      "views": 143,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -263,11 +281,33 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "7lst379AOxY",
+      "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti #Shorts",
+      "published": "2026-10-14T12:15:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/7lst379AOxY/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "8iF2cWpGJ_4",
+      "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi! #Shorts",
+      "published": "2026-10-14T07:18:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/8iF2cWpGJ_4/mqdefault.jpg",
+      "views": 271,
+      "likes": 2,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "kKFQ4cD4GAE",
       "title": "Hülya Avşar'dan Erkan Petekkaya'ya yanıt: Sakın üzülme, ben çok eğlendim #Shorts",
       "published": "2026-10-13T19:30:54Z",
       "thumbnail": "https://i.ytimg.com/vi/kKFQ4cD4GAE/mqdefault.jpg",
-      "views": 969,
+      "views": 980,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -278,7 +318,7 @@
       "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında? #Shorts",
       "published": "2026-10-13T14:29:38Z",
       "thumbnail": "https://i.ytimg.com/vi/dRIRfFGVLt8/mqdefault.jpg",
-      "views": 954,
+      "views": 962,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -300,7 +340,7 @@
       "title": "Oyuncu Deniz Işın, yaşadığı sözlü tacizi anlattı: Her kimse ne kendi gücüne ne de karşısındakinin",
       "published": "2026-10-12T18:09:36Z",
       "thumbnail": "https://i.ytimg.com/vi/KEcpZROxG-0/mqdefault.jpg",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -322,7 +362,7 @@
       "title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\" #Shorts",
       "published": "2026-10-12T15:53:17Z",
       "thumbnail": "https://i.ytimg.com/vi/EQTmhLLp-Ak/mqdefault.jpg",
-      "views": 8,
+      "views": 9,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -344,7 +384,7 @@
       "title": "Acılı anne baba Cindy Crawford ve Rande Gerber oğullarının ölümünden sonra ilk kez görüntülendi #Sho",
       "published": "2026-10-12T09:34:00Z",
       "thumbnail": "https://i.ytimg.com/vi/Df_UbDTQSMc/mqdefault.jpg",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -355,8 +395,8 @@
       "title": "Kırgın Çiçekler'le tanınan İpek Karapınar'dan karnı burnunda pozlar: “Birkaç haftamız kaldı” #Shorts",
       "published": "2026-10-12T09:33:45Z",
       "thumbnail": "https://i.ytimg.com/vi/_73K9ANezjQ/mqdefault.jpg",
-      "views": 1115,
-      "likes": 11,
+      "views": 1154,
+      "likes": 12,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -366,7 +406,7 @@
       "title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret #Shorts",
       "published": "2026-10-12T09:29:29Z",
       "thumbnail": "https://i.ytimg.com/vi/3GmTJ2qav7I/mqdefault.jpg",
-      "views": 730,
+      "views": 731,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -377,7 +417,7 @@
       "title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\" #Shorts",
       "published": "2026-10-12T09:29:22Z",
       "thumbnail": "https://i.ytimg.com/vi/B3xl3swFBGs/mqdefault.jpg",
-      "views": 1157,
+      "views": 1158,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -388,7 +428,7 @@
       "title": "Çağatay Ulusoy, Anne ve Babasıyla Bulgaristan’daki Köylerini Ziyaret Etti #Shorts",
       "published": "2026-10-11T18:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/6re4riwNu5M/mqdefault.jpg",
-      "views": 1160,
+      "views": 1161,
       "likes": 18,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -406,5 +446,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-14T06:33:48Z"
+  "lastUpdated": "2026-10-14T12:24:48Z"
 }
