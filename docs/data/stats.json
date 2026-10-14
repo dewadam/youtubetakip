@@ -58,13 +58,19 @@
           "subs": 5,
           "views": 5352,
           "videos": 15
+        },
+        {
+          "ts": "2026-10-14T20:54:57Z",
+          "subs": 6,
+          "views": 5352,
+          "videos": 16
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-14T17:28:22Z",
-        "subs": 5,
+        "ts": "2026-10-14T20:54:57Z",
+        "subs": 6,
         "views": 5352,
-        "videos": 15
+        "videos": 16
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -167,10 +173,16 @@
           "subs": 2,
           "views": 998,
           "videos": 6
+        },
+        {
+          "ts": "2026-10-14T20:54:57Z",
+          "subs": 2,
+          "views": 998,
+          "videos": 6
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-14T17:28:22Z",
+        "ts": "2026-10-14T20:54:57Z",
         "subs": 2,
         "views": 998,
         "videos": 6
@@ -210,10 +222,16 @@
           "subs": 0,
           "views": 0,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-14T20:54:57Z",
+          "subs": 0,
+          "views": 0,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-14T17:28:22Z",
+        "ts": "2026-10-14T20:54:57Z",
         "subs": 0,
         "views": 0,
         "videos": 1
@@ -270,7 +288,7 @@
       "title": "ZES ve Trugo şarj fiyatları: 10 Ekim AC ve DC kWh ücreti #Shorts",
       "published": "2026-10-10T19:09:43Z",
       "thumbnail": "https://i.ytimg.com/vi/qmtC1XdHKjs/mqdefault.jpg",
-      "views": 236,
+      "views": 235,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -281,7 +299,7 @@
       "title": "Benzinde indirim ve Motorine zam! 10 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-10T18:09:16Z",
       "thumbnail": "https://i.ytimg.com/vi/NAV-XPUvMQY/mqdefault.jpg",
-      "views": 372,
+      "views": 369,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -299,12 +317,23 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "kae7Gz8DszQ",
+      "title": "Danla Bilic Dokuzuncu Ameliyatın Perde Arkasını Anlattı: \"Bu Son Kurşunumuzdu!\" #Shorts",
+      "published": "2026-10-14T17:34:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/kae7Gz8DszQ/mqdefault.jpg",
+      "views": 201,
+      "likes": 1,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "7lst379AOxY",
       "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti #Shorts",
       "published": "2026-10-14T12:15:14Z",
       "thumbnail": "https://i.ytimg.com/vi/7lst379AOxY/mqdefault.jpg",
-      "views": 220,
-      "likes": 3,
+      "views": 293,
+      "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -314,7 +343,7 @@
       "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi! #Shorts",
       "published": "2026-10-14T07:18:45Z",
       "thumbnail": "https://i.ytimg.com/vi/8iF2cWpGJ_4/mqdefault.jpg",
-      "views": 485,
+      "views": 572,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -325,7 +354,7 @@
       "title": "Hülya Avşar'dan Erkan Petekkaya'ya yanıt: Sakın üzülme, ben çok eğlendim #Shorts",
       "published": "2026-10-13T19:30:54Z",
       "thumbnail": "https://i.ytimg.com/vi/kKFQ4cD4GAE/mqdefault.jpg",
-      "views": 982,
+      "views": 984,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -336,7 +365,7 @@
       "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında? #Shorts",
       "published": "2026-10-13T14:29:38Z",
       "thumbnail": "https://i.ytimg.com/vi/dRIRfFGVLt8/mqdefault.jpg",
-      "views": 968,
+      "views": 976,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -347,7 +376,7 @@
       "title": "'Breaking Bad' dizisinin yıldızı RJ Mitte hayatını kaybetti! RJ Mitte kimdir, kaç yaşındaydı? #Short",
       "published": "2026-10-13T09:08:52Z",
       "thumbnail": "https://i.ytimg.com/vi/i84rMTAdQ_0/mqdefault.jpg",
-      "views": 127,
+      "views": 128,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -358,8 +387,8 @@
       "title": "Oyuncu Deniz Işın, yaşadığı sözlü tacizi anlattı: Her kimse ne kendi gücüne ne de karşısındakinin",
       "published": "2026-10-12T18:09:36Z",
       "thumbnail": "https://i.ytimg.com/vi/KEcpZROxG-0/mqdefault.jpg",
-      "views": 2,
-      "likes": 0,
+      "views": 86,
+      "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -369,8 +398,8 @@
       "title": "Serbest bırakılan Berna Laçin dostlarıyla poz verdi: İyiyim #Shorts",
       "published": "2026-10-12T18:09:32Z",
       "thumbnail": "https://i.ytimg.com/vi/OA_wRbGncLE/mqdefault.jpg",
-      "views": 8,
-      "likes": 0,
+      "views": 86,
+      "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -413,7 +442,7 @@
       "title": "Kırgın Çiçekler'le tanınan İpek Karapınar'dan karnı burnunda pozlar: “Birkaç haftamız kaldı” #Shorts",
       "published": "2026-10-12T09:33:45Z",
       "thumbnail": "https://i.ytimg.com/vi/_73K9ANezjQ/mqdefault.jpg",
-      "views": 1157,
+      "views": 1158,
       "likes": 12,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -435,7 +464,7 @@
       "title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\" #Shorts",
       "published": "2026-10-12T09:29:22Z",
       "thumbnail": "https://i.ytimg.com/vi/B3xl3swFBGs/mqdefault.jpg",
-      "views": 1158,
+      "views": 1159,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -446,7 +475,7 @@
       "title": "Çağatay Ulusoy, Anne ve Babasıyla Bulgaristan’daki Köylerini Ziyaret Etti #Shorts",
       "published": "2026-10-11T18:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/6re4riwNu5M/mqdefault.jpg",
-      "views": 1161,
+      "views": 1162,
       "likes": 18,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -464,5 +493,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-14T17:28:22Z"
+  "lastUpdated": "2026-10-14T20:54:57Z"
 }
