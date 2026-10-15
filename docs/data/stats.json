@@ -70,10 +70,16 @@
           "subs": 6,
           "views": 5352,
           "videos": 16
+        },
+        {
+          "ts": "2026-10-15T01:52:49Z",
+          "subs": 6,
+          "views": 5352,
+          "videos": 16
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-14T23:43:13Z",
+        "ts": "2026-10-15T01:52:49Z",
         "subs": 6,
         "views": 5352,
         "videos": 16
@@ -191,13 +197,19 @@
           "subs": 2,
           "views": 998,
           "videos": 6
+        },
+        {
+          "ts": "2026-10-15T01:52:49Z",
+          "subs": 2,
+          "views": 998,
+          "videos": 7
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-14T23:43:13Z",
+        "ts": "2026-10-15T01:52:49Z",
         "subs": 2,
         "views": 998,
-        "videos": 6
+        "videos": 7
       }
     },
     "UC0faIhjf4Is3plnq0zEoQoQ": {
@@ -246,10 +258,16 @@
           "subs": 0,
           "views": 0,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-15T01:52:49Z",
+          "subs": 0,
+          "views": 0,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-14T23:43:13Z",
+        "ts": "2026-10-15T01:52:49Z",
         "subs": 0,
         "views": 0,
         "videos": 1
@@ -258,11 +276,22 @@
   },
   "videos": [
     {
+      "videoId": "8f56MDVzdB0",
+      "title": "15 Ekim güncel akaryakıt fiyatları #Shorts",
+      "published": "2026-10-15T00:17:45Z",
+      "thumbnail": "https://i.ytimg.com/vi/8f56MDVzdB0/mqdefault.jpg",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "channelTitle": "Yol Masrafı"
+    },
+    {
       "videoId": "i15HUJGDPyA",
       "title": "14 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-14T00:51:12Z",
       "thumbnail": "https://i.ytimg.com/vi/i15HUJGDPyA/mqdefault.jpg",
-      "views": 143,
+      "views": 144,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -339,7 +368,7 @@
       "title": "Danla Bilic Dokuzuncu Ameliyatın Perde Arkasını Anlattı: \"Bu Son Kurşunumuzdu!\" #Shorts",
       "published": "2026-10-14T17:34:01Z",
       "thumbnail": "https://i.ytimg.com/vi/kae7Gz8DszQ/mqdefault.jpg",
-      "views": 780,
+      "views": 1039,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -350,7 +379,7 @@
       "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti #Shorts",
       "published": "2026-10-14T12:15:14Z",
       "thumbnail": "https://i.ytimg.com/vi/7lst379AOxY/mqdefault.jpg",
-      "views": 342,
+      "views": 352,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -361,7 +390,7 @@
       "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi! #Shorts",
       "published": "2026-10-14T07:18:45Z",
       "thumbnail": "https://i.ytimg.com/vi/8iF2cWpGJ_4/mqdefault.jpg",
-      "views": 698,
+      "views": 685,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -383,7 +412,7 @@
       "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında? #Shorts",
       "published": "2026-10-13T14:29:38Z",
       "thumbnail": "https://i.ytimg.com/vi/dRIRfFGVLt8/mqdefault.jpg",
-      "views": 982,
+      "views": 983,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -416,7 +445,7 @@
       "title": "Serbest bırakılan Berna Laçin dostlarıyla poz verdi: İyiyim #Shorts",
       "published": "2026-10-12T18:09:32Z",
       "thumbnail": "https://i.ytimg.com/vi/OA_wRbGncLE/mqdefault.jpg",
-      "views": 123,
+      "views": 124,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -471,7 +500,7 @@
       "title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret #Shorts",
       "published": "2026-10-12T09:29:29Z",
       "thumbnail": "https://i.ytimg.com/vi/3GmTJ2qav7I/mqdefault.jpg",
-      "views": 736,
+      "views": 737,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -511,5 +540,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-14T23:43:13Z"
+  "lastUpdated": "2026-10-15T01:52:49Z"
 }
