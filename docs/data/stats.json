@@ -82,13 +82,19 @@
           "subs": 6,
           "views": 8526,
           "videos": 16
+        },
+        {
+          "ts": "2026-10-15T12:39:34Z",
+          "subs": 6,
+          "views": 8526,
+          "videos": 18
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-15T07:01:17Z",
+        "ts": "2026-10-15T12:39:34Z",
         "subs": 6,
         "views": 8526,
-        "videos": 16
+        "videos": 18
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -215,10 +221,16 @@
           "subs": 2,
           "views": 1154,
           "videos": 7
+        },
+        {
+          "ts": "2026-10-15T12:39:34Z",
+          "subs": 2,
+          "views": 1154,
+          "videos": 7
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-15T07:01:17Z",
+        "ts": "2026-10-15T12:39:34Z",
         "subs": 2,
         "views": 1154,
         "videos": 7
@@ -282,10 +294,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-15T12:39:34Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-15T07:01:17Z",
+        "ts": "2026-10-15T12:39:34Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -298,7 +316,7 @@
       "title": "15 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-15T00:17:45Z",
       "thumbnail": "https://i.ytimg.com/vi/8f56MDVzdB0/mqdefault.jpg",
-      "views": 36,
+      "views": 47,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -353,7 +371,7 @@
       "title": "ZES ve Trugo şarj fiyatları: 10 Ekim AC ve DC kWh ücreti #Shorts",
       "published": "2026-10-10T19:09:43Z",
       "thumbnail": "https://i.ytimg.com/vi/qmtC1XdHKjs/mqdefault.jpg",
-      "views": 235,
+      "views": 236,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -382,11 +400,33 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "Aaq0ujFVNb4",
+      "title": "Aşk-ı Memnu'dan Sonra Rol Arkadaşlarıyla Bir Araya Gelemeyen Selçuk Yöntem Nedenini Açıkladı #Shorts",
+      "published": "2026-10-15T11:53:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/Aaq0ujFVNb4/mqdefault.jpg",
+      "views": 3,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "aIW8ONQfQXU",
+      "title": "Usta sanatçı Alpay Nazikioğlu 91 yaşında hayatını kaybetti #Shorts",
+      "published": "2026-10-15T07:09:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/aIW8ONQfQXU/mqdefault.jpg",
+      "views": 58,
+      "likes": 2,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "kae7Gz8DszQ",
       "title": "Danla Bilic Dokuzuncu Ameliyatın Perde Arkasını Anlattı: \"Bu Son Kurşunumuzdu!\" #Shorts",
       "published": "2026-10-14T17:34:01Z",
       "thumbnail": "https://i.ytimg.com/vi/kae7Gz8DszQ/mqdefault.jpg",
-      "views": 1039,
+      "views": 1045,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -397,7 +437,7 @@
       "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti #Shorts",
       "published": "2026-10-14T12:15:14Z",
       "thumbnail": "https://i.ytimg.com/vi/7lst379AOxY/mqdefault.jpg",
-      "views": 389,
+      "views": 416,
       "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -408,7 +448,7 @@
       "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi! #Shorts",
       "published": "2026-10-14T07:18:45Z",
       "thumbnail": "https://i.ytimg.com/vi/8iF2cWpGJ_4/mqdefault.jpg",
-      "views": 807,
+      "views": 853,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -419,7 +459,7 @@
       "title": "Hülya Avşar'dan Erkan Petekkaya'ya yanıt: Sakın üzülme, ben çok eğlendim #Shorts",
       "published": "2026-10-13T19:30:54Z",
       "thumbnail": "https://i.ytimg.com/vi/kKFQ4cD4GAE/mqdefault.jpg",
-      "views": 987,
+      "views": 1051,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -441,7 +481,7 @@
       "title": "'Breaking Bad' dizisinin yıldızı RJ Mitte hayatını kaybetti! RJ Mitte kimdir, kaç yaşındaydı? #Short",
       "published": "2026-10-13T09:08:52Z",
       "thumbnail": "https://i.ytimg.com/vi/i84rMTAdQ_0/mqdefault.jpg",
-      "views": 126,
+      "views": 130,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -558,5 +598,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-15T07:01:17Z"
+  "lastUpdated": "2026-10-15T12:39:34Z"
 }
