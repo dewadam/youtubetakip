@@ -76,12 +76,18 @@
           "subs": 6,
           "views": 5352,
           "videos": 16
+        },
+        {
+          "ts": "2026-10-15T07:01:17Z",
+          "subs": 6,
+          "views": 8526,
+          "videos": 16
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-15T01:52:49Z",
+        "ts": "2026-10-15T07:01:17Z",
         "subs": 6,
-        "views": 5352,
+        "views": 8526,
         "videos": 16
       }
     },
@@ -203,12 +209,18 @@
           "subs": 2,
           "views": 998,
           "videos": 7
+        },
+        {
+          "ts": "2026-10-15T07:01:17Z",
+          "subs": 2,
+          "views": 1154,
+          "videos": 7
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-15T01:52:49Z",
+        "ts": "2026-10-15T07:01:17Z",
         "subs": 2,
-        "views": 998,
+        "views": 1154,
         "videos": 7
       }
     },
@@ -264,12 +276,18 @@
           "subs": 0,
           "views": 0,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-15T07:01:17Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-15T01:52:49Z",
+        "ts": "2026-10-15T07:01:17Z",
         "subs": 0,
-        "views": 0,
+        "views": 3,
         "videos": 1
       }
     }
@@ -280,7 +298,7 @@
       "title": "15 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-15T00:17:45Z",
       "thumbnail": "https://i.ytimg.com/vi/8f56MDVzdB0/mqdefault.jpg",
-      "views": 1,
+      "views": 36,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -291,7 +309,7 @@
       "title": "14 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-14T00:51:12Z",
       "thumbnail": "https://i.ytimg.com/vi/i15HUJGDPyA/mqdefault.jpg",
-      "views": 144,
+      "views": 141,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -357,7 +375,7 @@
       "title": "Renkler Bahçesi 🌈 | Türkçe Çocuk Şarkısı",
       "published": "2026-10-13T18:56:53Z",
       "thumbnail": "https://i.ytimg.com/vi/7muSTwsLk2o/mqdefault.jpg",
-      "views": 3,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "channelId": "UC0faIhjf4Is3plnq0zEoQoQ",
@@ -379,8 +397,8 @@
       "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti #Shorts",
       "published": "2026-10-14T12:15:14Z",
       "thumbnail": "https://i.ytimg.com/vi/7lst379AOxY/mqdefault.jpg",
-      "views": 352,
-      "likes": 7,
+      "views": 389,
+      "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -390,7 +408,7 @@
       "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi! #Shorts",
       "published": "2026-10-14T07:18:45Z",
       "thumbnail": "https://i.ytimg.com/vi/8iF2cWpGJ_4/mqdefault.jpg",
-      "views": 685,
+      "views": 807,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -401,7 +419,7 @@
       "title": "Hülya Avşar'dan Erkan Petekkaya'ya yanıt: Sakın üzülme, ben çok eğlendim #Shorts",
       "published": "2026-10-13T19:30:54Z",
       "thumbnail": "https://i.ytimg.com/vi/kKFQ4cD4GAE/mqdefault.jpg",
-      "views": 988,
+      "views": 987,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -412,7 +430,7 @@
       "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında? #Shorts",
       "published": "2026-10-13T14:29:38Z",
       "thumbnail": "https://i.ytimg.com/vi/dRIRfFGVLt8/mqdefault.jpg",
-      "views": 983,
+      "views": 982,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -423,7 +441,7 @@
       "title": "'Breaking Bad' dizisinin yıldızı RJ Mitte hayatını kaybetti! RJ Mitte kimdir, kaç yaşındaydı? #Short",
       "published": "2026-10-13T09:08:52Z",
       "thumbnail": "https://i.ytimg.com/vi/i84rMTAdQ_0/mqdefault.jpg",
-      "views": 128,
+      "views": 126,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -500,7 +518,7 @@
       "title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret #Shorts",
       "published": "2026-10-12T09:29:29Z",
       "thumbnail": "https://i.ytimg.com/vi/3GmTJ2qav7I/mqdefault.jpg",
-      "views": 737,
+      "views": 738,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -522,7 +540,7 @@
       "title": "Çağatay Ulusoy, Anne ve Babasıyla Bulgaristan’daki Köylerini Ziyaret Etti #Shorts",
       "published": "2026-10-11T18:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/6re4riwNu5M/mqdefault.jpg",
-      "views": 1163,
+      "views": 1164,
       "likes": 18,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -540,5 +558,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-15T01:52:49Z"
+  "lastUpdated": "2026-10-15T07:01:17Z"
 }
