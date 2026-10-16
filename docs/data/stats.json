@@ -136,12 +136,18 @@
           "subs": 7,
           "views": 8766,
           "videos": 22
+        },
+        {
+          "ts": "2026-10-16T21:59:05Z",
+          "subs": 7,
+          "views": 11739,
+          "videos": 22
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-16T18:57:43Z",
+        "ts": "2026-10-16T21:59:05Z",
         "subs": 7,
-        "views": 8766,
+        "views": 11739,
         "videos": 22
       }
     },
@@ -323,10 +329,16 @@
           "subs": 2,
           "views": 1202,
           "videos": 8
+        },
+        {
+          "ts": "2026-10-16T21:59:05Z",
+          "subs": 2,
+          "views": 1202,
+          "videos": 8
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-16T18:57:43Z",
+        "ts": "2026-10-16T21:59:05Z",
         "subs": 2,
         "views": 1202,
         "videos": 8
@@ -444,10 +456,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-16T21:59:05Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-16T18:57:43Z",
+        "ts": "2026-10-16T21:59:05Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -526,7 +544,7 @@
       "title": "ZES ve Trugo şarj fiyatları: 10 Ekim AC ve DC kWh ücreti #Shorts",
       "published": "2026-10-10T19:09:43Z",
       "thumbnail": "https://i.ytimg.com/vi/qmtC1XdHKjs/mqdefault.jpg",
-      "views": 239,
+      "views": 240,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -559,7 +577,7 @@
       "title": "Hafsanur Sancaktutan'ın 17 yaşındaki hali ortaya çıktı! Çegingen tavrı olay #Shorts",
       "published": "2026-10-16T16:55:43Z",
       "thumbnail": "https://i.ytimg.com/vi/HYJQ6MOZYKw/mqdefault.jpg",
-      "views": 0,
+      "views": 34,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -570,7 +588,7 @@
       "title": "Murat Cemcir'in avukatından 'iflas' açıklaması #Shorts",
       "published": "2026-10-16T11:45:11Z",
       "thumbnail": "https://i.ytimg.com/vi/_FOTSbxMRuU/mqdefault.jpg",
-      "views": 87,
+      "views": 115,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -581,7 +599,7 @@
       "title": "'Beni Rahibeler Büyüttü' Demişti: Bayhan, Din Değiştirdiği İddialarına Yanıt Verdi, Özüne Döndüğü An",
       "published": "2026-10-16T06:53:31Z",
       "thumbnail": "https://i.ytimg.com/vi/0BOgHAyp4JY/mqdefault.jpg",
-      "views": 226,
+      "views": 296,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -592,7 +610,7 @@
       "title": "Şiddetli sağanak ünlü şarkıcı Alişan'ın evini vurdu: 'Belimize kadar su bastı' #Shorts",
       "published": "2026-10-15T17:20:37Z",
       "thumbnail": "https://i.ytimg.com/vi/MHUfAkOyRjw/mqdefault.jpg",
-      "views": 1074,
+      "views": 1084,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -614,7 +632,7 @@
       "title": "Usta sanatçı Alpay Nazikioğlu 91 yaşında hayatını kaybetti #Shorts",
       "published": "2026-10-15T07:09:58Z",
       "thumbnail": "https://i.ytimg.com/vi/aIW8ONQfQXU/mqdefault.jpg",
-      "views": 303,
+      "views": 312,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -636,7 +654,7 @@
       "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti #Shorts",
       "published": "2026-10-14T12:15:14Z",
       "thumbnail": "https://i.ytimg.com/vi/7lst379AOxY/mqdefault.jpg",
-      "views": 601,
+      "views": 602,
       "likes": 12,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -647,7 +665,7 @@
       "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi! #Shorts",
       "published": "2026-10-14T07:18:45Z",
       "thumbnail": "https://i.ytimg.com/vi/8iF2cWpGJ_4/mqdefault.jpg",
-      "views": 933,
+      "views": 934,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -658,7 +676,7 @@
       "title": "Hülya Avşar'dan Erkan Petekkaya'ya yanıt: Sakın üzülme, ben çok eğlendim #Shorts",
       "published": "2026-10-13T19:30:54Z",
       "thumbnail": "https://i.ytimg.com/vi/kKFQ4cD4GAE/mqdefault.jpg",
-      "views": 1057,
+      "views": 1060,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -669,7 +687,7 @@
       "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında? #Shorts",
       "published": "2026-10-13T14:29:38Z",
       "thumbnail": "https://i.ytimg.com/vi/dRIRfFGVLt8/mqdefault.jpg",
-      "views": 1029,
+      "views": 1031,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -735,7 +753,7 @@
       "title": "Acılı anne baba Cindy Crawford ve Rande Gerber oğullarının ölümünden sonra ilk kez görüntülendi #Sho",
       "published": "2026-10-12T09:34:00Z",
       "thumbnail": "https://i.ytimg.com/vi/Df_UbDTQSMc/mqdefault.jpg",
-      "views": 5,
+      "views": 7,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -768,12 +786,12 @@
       "title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\" #Shorts",
       "published": "2026-10-12T09:29:22Z",
       "thumbnail": "https://i.ytimg.com/vi/B3xl3swFBGs/mqdefault.jpg",
-      "views": 1161,
+      "views": 1162,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-16T18:57:43Z"
+  "lastUpdated": "2026-10-16T21:59:05Z"
 }
