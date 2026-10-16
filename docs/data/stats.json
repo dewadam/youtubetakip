@@ -106,10 +106,16 @@
           "subs": 7,
           "views": 8766,
           "videos": 19
+        },
+        {
+          "ts": "2026-10-16T01:26:07Z",
+          "subs": 7,
+          "views": 8766,
+          "videos": 19
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-15T23:13:38Z",
+        "ts": "2026-10-16T01:26:07Z",
         "subs": 7,
         "views": 8766,
         "videos": 19
@@ -263,13 +269,19 @@
           "subs": 2,
           "views": 1156,
           "videos": 7
+        },
+        {
+          "ts": "2026-10-16T01:26:07Z",
+          "subs": 2,
+          "views": 1156,
+          "videos": 8
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-15T23:13:38Z",
+        "ts": "2026-10-16T01:26:07Z",
         "subs": 2,
         "views": 1156,
-        "videos": 7
+        "videos": 8
       }
     },
     "UC0faIhjf4Is3plnq0zEoQoQ": {
@@ -354,10 +366,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-16T01:26:07Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-15T23:13:38Z",
+        "ts": "2026-10-16T01:26:07Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -365,6 +383,17 @@
     }
   },
   "videos": [
+    {
+      "videoId": "EOCM3qQCbhQ",
+      "title": "16 Ekim güncel akaryakıt fiyatları #Shorts",
+      "published": "2026-10-16T00:03:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/EOCM3qQCbhQ/mqdefault.jpg",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "channelTitle": "Yol Masrafı"
+    },
     {
       "videoId": "8f56MDVzdB0",
       "title": "15 Ekim güncel akaryakıt fiyatları #Shorts",
@@ -480,7 +509,7 @@
       "title": "Usta sanatçı Alpay Nazikioğlu 91 yaşında hayatını kaybetti #Shorts",
       "published": "2026-10-15T07:09:58Z",
       "thumbnail": "https://i.ytimg.com/vi/aIW8ONQfQXU/mqdefault.jpg",
-      "views": 243,
+      "views": 245,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -502,7 +531,7 @@
       "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti #Shorts",
       "published": "2026-10-14T12:15:14Z",
       "thumbnail": "https://i.ytimg.com/vi/7lst379AOxY/mqdefault.jpg",
-      "views": 538,
+      "views": 542,
       "likes": 12,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -535,7 +564,7 @@
       "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında? #Shorts",
       "published": "2026-10-13T14:29:38Z",
       "thumbnail": "https://i.ytimg.com/vi/dRIRfFGVLt8/mqdefault.jpg",
-      "views": 1024,
+      "views": 1026,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -663,5 +692,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-15T23:13:38Z"
+  "lastUpdated": "2026-10-16T01:26:07Z"
 }
