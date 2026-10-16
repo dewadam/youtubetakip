@@ -124,13 +124,19 @@
           "subs": 7,
           "views": 8766,
           "videos": 20
+        },
+        {
+          "ts": "2026-10-16T15:29:25Z",
+          "subs": 7,
+          "views": 8766,
+          "videos": 21
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-16T11:28:41Z",
+        "ts": "2026-10-16T15:29:25Z",
         "subs": 7,
         "views": 8766,
-        "videos": 20
+        "videos": 21
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -299,10 +305,16 @@
           "subs": 2,
           "views": 1156,
           "videos": 8
+        },
+        {
+          "ts": "2026-10-16T15:29:25Z",
+          "subs": 2,
+          "views": 1156,
+          "videos": 8
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-16T11:28:41Z",
+        "ts": "2026-10-16T15:29:25Z",
         "subs": 2,
         "views": 1156,
         "videos": 8
@@ -408,10 +420,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-16T15:29:25Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-16T11:28:41Z",
+        "ts": "2026-10-16T15:29:25Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -501,7 +519,7 @@
       "title": "Benzinde indirim ve Motorine zam! 10 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-10T18:09:16Z",
       "thumbnail": "https://i.ytimg.com/vi/NAV-XPUvMQY/mqdefault.jpg",
-      "views": 368,
+      "views": 369,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -519,12 +537,23 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "_FOTSbxMRuU",
+      "title": "Murat Cemcir'in avukatından 'iflas' açıklaması #Shorts",
+      "published": "2026-10-16T11:45:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/_FOTSbxMRuU/mqdefault.jpg",
+      "views": 77,
+      "likes": 1,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "0BOgHAyp4JY",
       "title": "'Beni Rahibeler Büyüttü' Demişti: Bayhan, Din Değiştirdiği İddialarına Yanıt Verdi, Özüne Döndüğü An",
       "published": "2026-10-16T06:53:31Z",
       "thumbnail": "https://i.ytimg.com/vi/0BOgHAyp4JY/mqdefault.jpg",
-      "views": 49,
-      "likes": 1,
+      "views": 180,
+      "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -534,7 +563,7 @@
       "title": "Şiddetli sağanak ünlü şarkıcı Alişan'ın evini vurdu: 'Belimize kadar su bastı' #Shorts",
       "published": "2026-10-15T17:20:37Z",
       "thumbnail": "https://i.ytimg.com/vi/MHUfAkOyRjw/mqdefault.jpg",
-      "views": 1043,
+      "views": 1060,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -556,7 +585,7 @@
       "title": "Usta sanatçı Alpay Nazikioğlu 91 yaşında hayatını kaybetti #Shorts",
       "published": "2026-10-15T07:09:58Z",
       "thumbnail": "https://i.ytimg.com/vi/aIW8ONQfQXU/mqdefault.jpg",
-      "views": 278,
+      "views": 293,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -578,7 +607,7 @@
       "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti #Shorts",
       "published": "2026-10-14T12:15:14Z",
       "thumbnail": "https://i.ytimg.com/vi/7lst379AOxY/mqdefault.jpg",
-      "views": 585,
+      "views": 600,
       "likes": 12,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -611,7 +640,7 @@
       "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında? #Shorts",
       "published": "2026-10-13T14:29:38Z",
       "thumbnail": "https://i.ytimg.com/vi/dRIRfFGVLt8/mqdefault.jpg",
-      "views": 1027,
+      "views": 1029,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -655,7 +684,7 @@
       "title": "Didem Balçın'dan samimi itiraf: \"Her şeye yetişemiyorum\" #Shorts",
       "published": "2026-10-12T15:53:17Z",
       "thumbnail": "https://i.ytimg.com/vi/EQTmhLLp-Ak/mqdefault.jpg",
-      "views": 9,
+      "views": 10,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -666,7 +695,7 @@
       "title": "\"Kuzuma nazar değdi\" diyerek duyurdu! Demet Akalın'ın eşi Okan Kurt acillik oldu! #Shorts",
       "published": "2026-10-12T15:53:07Z",
       "thumbnail": "https://i.ytimg.com/vi/2zlAGyhy1pI/mqdefault.jpg",
-      "views": 13,
+      "views": 15,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -726,18 +755,7 @@
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "eObOF28VPj8",
-      "title": "Okan Bayülgen'in 17 yaşındaki kızı İstanbul'dan büyük başarı #Shorts",
-      "published": "2026-10-11T10:13:14Z",
-      "thumbnail": "https://i.ytimg.com/vi/eObOF28VPj8/mqdefault.jpg",
-      "views": 1185,
-      "likes": 5,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-16T11:28:41Z"
+  "lastUpdated": "2026-10-16T15:29:25Z"
 }
