@@ -154,13 +154,19 @@
           "subs": 7,
           "views": 11739,
           "videos": 22
+        },
+        {
+          "ts": "2026-10-17T09:01:39Z",
+          "subs": 7,
+          "views": 12849,
+          "videos": 23
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-17T04:49:47Z",
+        "ts": "2026-10-17T09:01:39Z",
         "subs": 7,
-        "views": 11739,
-        "videos": 22
+        "views": 12849,
+        "videos": 23
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -359,10 +365,16 @@
           "subs": 2,
           "views": 1202,
           "videos": 9
+        },
+        {
+          "ts": "2026-10-17T09:01:39Z",
+          "subs": 2,
+          "views": 1202,
+          "videos": 9
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-17T04:49:47Z",
+        "ts": "2026-10-17T09:01:39Z",
         "subs": 2,
         "views": 1202,
         "videos": 9
@@ -498,10 +510,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-17T09:01:39Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-17T04:49:47Z",
+        "ts": "2026-10-17T09:01:39Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -514,7 +532,7 @@
       "title": "Benzine zam ve Motorine zam! 17 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-17T00:09:28Z",
       "thumbnail": "https://i.ytimg.com/vi/bLHff7RwbX0/mqdefault.jpg",
-      "views": 1,
+      "views": 19,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -620,11 +638,22 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "O3WOtPUYGCA",
+      "title": "'Fabrika Kızı'nın unutulmaz sesi Alpay son yolculuğuna uğurlandı #Shorts",
+      "published": "2026-10-17T06:46:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/O3WOtPUYGCA/mqdefault.jpg",
+      "views": 13,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "HYJQ6MOZYKw",
       "title": "Hafsanur Sancaktutan'ın 17 yaşındaki hali ortaya çıktı! Çegingen tavrı olay #Shorts",
       "published": "2026-10-16T16:55:43Z",
       "thumbnail": "https://i.ytimg.com/vi/HYJQ6MOZYKw/mqdefault.jpg",
-      "views": 84,
+      "views": 97,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -635,7 +664,7 @@
       "title": "Murat Cemcir'in avukatından 'iflas' açıklaması #Shorts",
       "published": "2026-10-16T11:45:11Z",
       "thumbnail": "https://i.ytimg.com/vi/_FOTSbxMRuU/mqdefault.jpg",
-      "views": 142,
+      "views": 155,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -646,7 +675,7 @@
       "title": "'Beni Rahibeler Büyüttü' Demişti: Bayhan, Din Değiştirdiği İddialarına Yanıt Verdi, Özüne Döndüğü An",
       "published": "2026-10-16T06:53:31Z",
       "thumbnail": "https://i.ytimg.com/vi/0BOgHAyp4JY/mqdefault.jpg",
-      "views": 374,
+      "views": 406,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -679,7 +708,7 @@
       "title": "Usta sanatçı Alpay Nazikioğlu 91 yaşında hayatını kaybetti #Shorts",
       "published": "2026-10-15T07:09:58Z",
       "thumbnail": "https://i.ytimg.com/vi/aIW8ONQfQXU/mqdefault.jpg",
-      "views": 317,
+      "views": 321,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -712,7 +741,7 @@
       "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi! #Shorts",
       "published": "2026-10-14T07:18:45Z",
       "thumbnail": "https://i.ytimg.com/vi/8iF2cWpGJ_4/mqdefault.jpg",
-      "views": 935,
+      "views": 936,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -827,18 +856,7 @@
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "B3xl3swFBGs",
-      "title": "Onur Büyüktopçu'dan Üzen Açıklama: \"Parkinson ve Demans Teşhisi Konuldu\" #Shorts",
-      "published": "2026-10-12T09:29:22Z",
-      "thumbnail": "https://i.ytimg.com/vi/B3xl3swFBGs/mqdefault.jpg",
-      "views": 1162,
-      "likes": 4,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-17T04:49:47Z"
+  "lastUpdated": "2026-10-17T09:01:39Z"
 }
