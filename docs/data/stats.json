@@ -160,13 +160,19 @@
           "subs": 7,
           "views": 12849,
           "videos": 23
+        },
+        {
+          "ts": "2026-10-17T12:58:30Z",
+          "subs": 7,
+          "views": 12849,
+          "videos": 24
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-17T09:01:39Z",
+        "ts": "2026-10-17T12:58:30Z",
         "subs": 7,
         "views": 12849,
-        "videos": 23
+        "videos": 24
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -371,12 +377,18 @@
           "subs": 2,
           "views": 1202,
           "videos": 9
+        },
+        {
+          "ts": "2026-10-17T12:58:30Z",
+          "subs": 2,
+          "views": 1340,
+          "videos": 9
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-17T09:01:39Z",
+        "ts": "2026-10-17T12:58:30Z",
         "subs": 2,
-        "views": 1202,
+        "views": 1340,
         "videos": 9
       }
     },
@@ -516,10 +528,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-17T12:58:30Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-17T09:01:39Z",
+        "ts": "2026-10-17T12:58:30Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -532,7 +550,7 @@
       "title": "Benzine zam ve Motorine zam! 17 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-17T00:09:28Z",
       "thumbnail": "https://i.ytimg.com/vi/bLHff7RwbX0/mqdefault.jpg",
-      "views": 19,
+      "views": 157,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -638,11 +656,22 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "23-cazi-2sw",
+      "title": "Özge Gürel ve Yiğit Koçak, 'El Gouna Film Festivali'nin açılışında #Shorts",
+      "published": "2026-10-17T11:04:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/23-cazi-2sw/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "O3WOtPUYGCA",
       "title": "'Fabrika Kızı'nın unutulmaz sesi Alpay son yolculuğuna uğurlandı #Shorts",
       "published": "2026-10-17T06:46:23Z",
       "thumbnail": "https://i.ytimg.com/vi/O3WOtPUYGCA/mqdefault.jpg",
-      "views": 13,
+      "views": 46,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -653,7 +682,7 @@
       "title": "Hafsanur Sancaktutan'ın 17 yaşındaki hali ortaya çıktı! Çegingen tavrı olay #Shorts",
       "published": "2026-10-16T16:55:43Z",
       "thumbnail": "https://i.ytimg.com/vi/HYJQ6MOZYKw/mqdefault.jpg",
-      "views": 97,
+      "views": 104,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -675,7 +704,7 @@
       "title": "'Beni Rahibeler Büyüttü' Demişti: Bayhan, Din Değiştirdiği İddialarına Yanıt Verdi, Özüne Döndüğü An",
       "published": "2026-10-16T06:53:31Z",
       "thumbnail": "https://i.ytimg.com/vi/0BOgHAyp4JY/mqdefault.jpg",
-      "views": 406,
+      "views": 433,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -686,7 +715,7 @@
       "title": "Şiddetli sağanak ünlü şarkıcı Alişan'ın evini vurdu: 'Belimize kadar su bastı' #Shorts",
       "published": "2026-10-15T17:20:37Z",
       "thumbnail": "https://i.ytimg.com/vi/MHUfAkOyRjw/mqdefault.jpg",
-      "views": 1096,
+      "views": 1102,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -708,7 +737,7 @@
       "title": "Usta sanatçı Alpay Nazikioğlu 91 yaşında hayatını kaybetti #Shorts",
       "published": "2026-10-15T07:09:58Z",
       "thumbnail": "https://i.ytimg.com/vi/aIW8ONQfQXU/mqdefault.jpg",
-      "views": 321,
+      "views": 322,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -845,18 +874,7 @@
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "3GmTJ2qav7I",
-      "title": "Çağatay Ulusoy’dan Bulgaristan’daki köyüne ziyaret #Shorts",
-      "published": "2026-10-12T09:29:29Z",
-      "thumbnail": "https://i.ytimg.com/vi/3GmTJ2qav7I/mqdefault.jpg",
-      "views": 740,
-      "likes": 6,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-17T09:01:39Z"
+  "lastUpdated": "2026-10-17T12:58:30Z"
 }
