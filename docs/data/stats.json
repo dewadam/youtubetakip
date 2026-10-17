@@ -148,10 +148,16 @@
           "subs": 7,
           "views": 11739,
           "videos": 22
+        },
+        {
+          "ts": "2026-10-17T04:49:47Z",
+          "subs": 7,
+          "views": 11739,
+          "videos": 22
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-17T00:17:51Z",
+        "ts": "2026-10-17T04:49:47Z",
         "subs": 7,
         "views": 11739,
         "videos": 22
@@ -347,10 +353,16 @@
           "subs": 2,
           "views": 1202,
           "videos": 9
+        },
+        {
+          "ts": "2026-10-17T04:49:47Z",
+          "subs": 2,
+          "views": 1202,
+          "videos": 9
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-17T00:17:51Z",
+        "ts": "2026-10-17T04:49:47Z",
         "subs": 2,
         "views": 1202,
         "videos": 9
@@ -480,10 +492,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-17T04:49:47Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-17T00:17:51Z",
+        "ts": "2026-10-17T04:49:47Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -496,7 +514,7 @@
       "title": "Benzine zam ve Motorine zam! 17 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-17T00:09:28Z",
       "thumbnail": "https://i.ytimg.com/vi/bLHff7RwbX0/mqdefault.jpg",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -606,7 +624,7 @@
       "title": "Hafsanur Sancaktutan'ın 17 yaşındaki hali ortaya çıktı! Çegingen tavrı olay #Shorts",
       "published": "2026-10-16T16:55:43Z",
       "thumbnail": "https://i.ytimg.com/vi/HYJQ6MOZYKw/mqdefault.jpg",
-      "views": 63,
+      "views": 84,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -617,7 +635,7 @@
       "title": "Murat Cemcir'in avukatından 'iflas' açıklaması #Shorts",
       "published": "2026-10-16T11:45:11Z",
       "thumbnail": "https://i.ytimg.com/vi/_FOTSbxMRuU/mqdefault.jpg",
-      "views": 129,
+      "views": 142,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -628,7 +646,7 @@
       "title": "'Beni Rahibeler Büyüttü' Demişti: Bayhan, Din Değiştirdiği İddialarına Yanıt Verdi, Özüne Döndüğü An",
       "published": "2026-10-16T06:53:31Z",
       "thumbnail": "https://i.ytimg.com/vi/0BOgHAyp4JY/mqdefault.jpg",
-      "views": 343,
+      "views": 374,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -639,7 +657,7 @@
       "title": "Şiddetli sağanak ünlü şarkıcı Alişan'ın evini vurdu: 'Belimize kadar su bastı' #Shorts",
       "published": "2026-10-15T17:20:37Z",
       "thumbnail": "https://i.ytimg.com/vi/MHUfAkOyRjw/mqdefault.jpg",
-      "views": 1090,
+      "views": 1096,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -661,7 +679,7 @@
       "title": "Usta sanatçı Alpay Nazikioğlu 91 yaşında hayatını kaybetti #Shorts",
       "published": "2026-10-15T07:09:58Z",
       "thumbnail": "https://i.ytimg.com/vi/aIW8ONQfQXU/mqdefault.jpg",
-      "views": 314,
+      "views": 317,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -716,7 +734,7 @@
       "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında? #Shorts",
       "published": "2026-10-13T14:29:38Z",
       "thumbnail": "https://i.ytimg.com/vi/dRIRfFGVLt8/mqdefault.jpg",
-      "views": 1031,
+      "views": 1030,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -822,5 +840,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-17T00:17:51Z"
+  "lastUpdated": "2026-10-17T04:49:47Z"
 }
