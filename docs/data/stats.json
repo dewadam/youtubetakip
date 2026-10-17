@@ -172,12 +172,18 @@
           "subs": 7,
           "views": 12849,
           "videos": 25
+        },
+        {
+          "ts": "2026-10-17T18:43:15Z",
+          "subs": 7,
+          "views": 13524,
+          "videos": 25
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-17T16:17:50Z",
+        "ts": "2026-10-17T18:43:15Z",
         "subs": 7,
-        "views": 12849,
+        "views": 13524,
         "videos": 25
       }
     },
@@ -395,10 +401,16 @@
           "subs": 2,
           "views": 1340,
           "videos": 9
+        },
+        {
+          "ts": "2026-10-17T18:43:15Z",
+          "subs": 2,
+          "views": 1340,
+          "videos": 9
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-17T16:17:50Z",
+        "ts": "2026-10-17T18:43:15Z",
         "subs": 2,
         "views": 1340,
         "videos": 9
@@ -552,10 +564,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-17T18:43:15Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-17T16:17:50Z",
+        "ts": "2026-10-17T18:43:15Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -568,7 +586,7 @@
       "title": "Benzine zam ve Motorine zam! 17 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-17T00:09:28Z",
       "thumbnail": "https://i.ytimg.com/vi/bLHff7RwbX0/mqdefault.jpg",
-      "views": 161,
+      "views": 163,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -645,7 +663,7 @@
       "title": "ZES ve Trugo şarj fiyatları: 10 Ekim AC ve DC kWh ücreti #Shorts",
       "published": "2026-10-10T19:09:43Z",
       "thumbnail": "https://i.ytimg.com/vi/qmtC1XdHKjs/mqdefault.jpg",
-      "views": 240,
+      "views": 241,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -678,7 +696,7 @@
       "title": "Usta sanatçıdan acı haber geldi... Soner Olgun hayatını kaybetti #Shorts",
       "published": "2026-10-17T15:54:02Z",
       "thumbnail": "https://i.ytimg.com/vi/ai_FZnjkNIE/mqdefault.jpg",
-      "views": 4,
+      "views": 36,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -689,8 +707,8 @@
       "title": "Özge Gürel ve Yiğit Koçak, 'El Gouna Film Festivali'nin açılışında #Shorts",
       "published": "2026-10-17T11:04:17Z",
       "thumbnail": "https://i.ytimg.com/vi/23-cazi-2sw/mqdefault.jpg",
-      "views": 99,
-      "likes": 2,
+      "views": 138,
+      "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -700,7 +718,7 @@
       "title": "'Fabrika Kızı'nın unutulmaz sesi Alpay son yolculuğuna uğurlandı #Shorts",
       "published": "2026-10-17T06:46:23Z",
       "thumbnail": "https://i.ytimg.com/vi/O3WOtPUYGCA/mqdefault.jpg",
-      "views": 51,
+      "views": 77,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -711,7 +729,7 @@
       "title": "Hafsanur Sancaktutan'ın 17 yaşındaki hali ortaya çıktı! Çegingen tavrı olay #Shorts",
       "published": "2026-10-16T16:55:43Z",
       "thumbnail": "https://i.ytimg.com/vi/HYJQ6MOZYKw/mqdefault.jpg",
-      "views": 133,
+      "views": 141,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -722,7 +740,7 @@
       "title": "Murat Cemcir'in avukatından 'iflas' açıklaması #Shorts",
       "published": "2026-10-16T11:45:11Z",
       "thumbnail": "https://i.ytimg.com/vi/_FOTSbxMRuU/mqdefault.jpg",
-      "views": 176,
+      "views": 185,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -733,7 +751,7 @@
       "title": "'Beni Rahibeler Büyüttü' Demişti: Bayhan, Din Değiştirdiği İddialarına Yanıt Verdi, Özüne Döndüğü An",
       "published": "2026-10-16T06:53:31Z",
       "thumbnail": "https://i.ytimg.com/vi/0BOgHAyp4JY/mqdefault.jpg",
-      "views": 469,
+      "views": 541,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -894,5 +912,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-17T16:17:50Z"
+  "lastUpdated": "2026-10-17T18:43:15Z"
 }
