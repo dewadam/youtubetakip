@@ -202,13 +202,19 @@
           "subs": 7,
           "views": 13524,
           "videos": 25
+        },
+        {
+          "ts": "2026-10-18T10:29:14Z",
+          "subs": 7,
+          "views": 13524,
+          "videos": 26
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-18T05:53:56Z",
+        "ts": "2026-10-18T10:29:14Z",
         "subs": 7,
         "views": 13524,
-        "videos": 25
+        "videos": 26
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -455,10 +461,16 @@
           "subs": 2,
           "views": 1340,
           "videos": 10
+        },
+        {
+          "ts": "2026-10-18T10:29:14Z",
+          "subs": 2,
+          "views": 1340,
+          "videos": 10
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-18T05:53:56Z",
+        "ts": "2026-10-18T10:29:14Z",
         "subs": 2,
         "views": 1340,
         "videos": 10
@@ -642,10 +654,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-18T10:29:14Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-18T05:53:56Z",
+        "ts": "2026-10-18T10:29:14Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -658,8 +676,8 @@
       "title": "18 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-17T23:45:00Z",
       "thumbnail": "https://i.ytimg.com/vi/Ta5xmBQobbs/mqdefault.jpg",
-      "views": 110,
-      "likes": 0,
+      "views": 604,
+      "likes": 1,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
       "channelTitle": "Yol Masrafı"
@@ -669,8 +687,8 @@
       "title": "Benzine zam ve Motorine zam! 17 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-17T00:09:28Z",
       "thumbnail": "https://i.ytimg.com/vi/bLHff7RwbX0/mqdefault.jpg",
-      "views": 181,
-      "likes": 0,
+      "views": 492,
+      "likes": 1,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
       "channelTitle": "Yol Masrafı"
@@ -775,11 +793,22 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "9C3rCZEAuL8",
+      "title": "Can Bonomo’nun acı günü: Ünlü sanatçının babası hayatını kaybetti #Shorts",
+      "published": "2026-10-18T07:06:18Z",
+      "thumbnail": "https://i.ytimg.com/vi/9C3rCZEAuL8/mqdefault.jpg",
+      "views": 48,
+      "likes": 1,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "ai_FZnjkNIE",
       "title": "Usta sanatçıdan acı haber geldi... Soner Olgun hayatını kaybetti #Shorts",
       "published": "2026-10-17T15:54:02Z",
       "thumbnail": "https://i.ytimg.com/vi/ai_FZnjkNIE/mqdefault.jpg",
-      "views": 143,
+      "views": 179,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -790,8 +819,8 @@
       "title": "Özge Gürel ve Yiğit Koçak, 'El Gouna Film Festivali'nin açılışında #Shorts",
       "published": "2026-10-17T11:04:17Z",
       "thumbnail": "https://i.ytimg.com/vi/23-cazi-2sw/mqdefault.jpg",
-      "views": 323,
-      "likes": 5,
+      "views": 396,
+      "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -801,7 +830,7 @@
       "title": "'Fabrika Kızı'nın unutulmaz sesi Alpay son yolculuğuna uğurlandı #Shorts",
       "published": "2026-10-17T06:46:23Z",
       "thumbnail": "https://i.ytimg.com/vi/O3WOtPUYGCA/mqdefault.jpg",
-      "views": 107,
+      "views": 117,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -812,7 +841,7 @@
       "title": "Hafsanur Sancaktutan'ın 17 yaşındaki hali ortaya çıktı! Çegingen tavrı olay #Shorts",
       "published": "2026-10-16T16:55:43Z",
       "thumbnail": "https://i.ytimg.com/vi/HYJQ6MOZYKw/mqdefault.jpg",
-      "views": 179,
+      "views": 218,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -823,7 +852,7 @@
       "title": "Murat Cemcir'in avukatından 'iflas' açıklaması #Shorts",
       "published": "2026-10-16T11:45:11Z",
       "thumbnail": "https://i.ytimg.com/vi/_FOTSbxMRuU/mqdefault.jpg",
-      "views": 205,
+      "views": 236,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -834,7 +863,7 @@
       "title": "'Beni Rahibeler Büyüttü' Demişti: Bayhan, Din Değiştirdiği İddialarına Yanıt Verdi, Özüne Döndüğü An",
       "published": "2026-10-16T06:53:31Z",
       "thumbnail": "https://i.ytimg.com/vi/0BOgHAyp4JY/mqdefault.jpg",
-      "views": 637,
+      "views": 670,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -845,7 +874,7 @@
       "title": "Şiddetli sağanak ünlü şarkıcı Alişan'ın evini vurdu: 'Belimize kadar su bastı' #Shorts",
       "published": "2026-10-15T17:20:37Z",
       "thumbnail": "https://i.ytimg.com/vi/MHUfAkOyRjw/mqdefault.jpg",
-      "views": 1109,
+      "views": 1111,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -982,18 +1011,7 @@
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "Df_UbDTQSMc",
-      "title": "Acılı anne baba Cindy Crawford ve Rande Gerber oğullarının ölümünden sonra ilk kez görüntülendi #Sho",
-      "published": "2026-10-12T09:34:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/Df_UbDTQSMc/mqdefault.jpg",
-      "views": 7,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-18T05:53:56Z"
+  "lastUpdated": "2026-10-18T10:29:14Z"
 }
