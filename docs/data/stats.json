@@ -274,10 +274,16 @@
           "subs": 8,
           "views": 15654,
           "videos": 31
+        },
+        {
+          "ts": "2026-10-20T10:17:41Z",
+          "subs": 8,
+          "views": 15654,
+          "videos": 31
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-20T05:20:20Z",
+        "ts": "2026-10-20T10:17:41Z",
         "subs": 8,
         "views": 15654,
         "videos": 31
@@ -599,12 +605,18 @@
           "subs": 2,
           "views": 2943,
           "videos": 12
+        },
+        {
+          "ts": "2026-10-20T10:17:41Z",
+          "subs": 2,
+          "views": 2996,
+          "videos": 12
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-20T05:20:20Z",
+        "ts": "2026-10-20T10:17:41Z",
         "subs": 2,
-        "views": 2943,
+        "views": 2996,
         "videos": 12
       }
     },
@@ -858,10 +870,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-20T10:17:41Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-20T05:20:20Z",
+        "ts": "2026-10-20T10:17:41Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -874,7 +892,7 @@
       "title": "Benzinde indirim! 20 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-20T00:54:45Z",
       "thumbnail": "https://i.ytimg.com/vi/R6iBskVVFAI/mqdefault.jpg",
-      "views": 58,
+      "views": 76,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -885,8 +903,8 @@
       "title": "19 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-18T23:54:22Z",
       "thumbnail": "https://i.ytimg.com/vi/6BhwZI1QLpE/mqdefault.jpg",
-      "views": 50,
-      "likes": 0,
+      "views": 51,
+      "likes": 1,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
       "channelTitle": "Yol Masrafı"
@@ -1013,11 +1031,22 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "qiYZxf0HGCY",
+      "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdi, geri dönüşü yok #Shorts",
+      "published": "2026-10-20T07:20:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/qiYZxf0HGCY/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "bSTIlKJh8LA",
       "title": "Evlat acısıyla sarsıldı! Cindy Crawford'dan 27 yaşında vefat eden oğluna yürek yakan veda mesajı… #S",
       "published": "2026-10-19T18:51:56Z",
       "thumbnail": "https://i.ytimg.com/vi/bSTIlKJh8LA/mqdefault.jpg",
-      "views": 65,
+      "views": 68,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1028,8 +1057,8 @@
       "title": "Melike Şahin oğlunun adını açıkladı: İsminin anlamı dikkat çekti #Shorts",
       "published": "2026-10-19T13:48:17Z",
       "thumbnail": "https://i.ytimg.com/vi/Ze-T7TDpLJE/mqdefault.jpg",
-      "views": 644,
-      "likes": 5,
+      "views": 690,
+      "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1039,8 +1068,8 @@
       "title": "Mehmet Ali Erbil sahnede gözyaşlarına boğuldu! Anne-babası hakkındaki sözleri yürek burktu... #Short",
       "published": "2026-10-19T07:29:57Z",
       "thumbnail": "https://i.ytimg.com/vi/3iHoD0fcH3g/mqdefault.jpg",
-      "views": 698,
-      "likes": 3,
+      "views": 699,
+      "likes": 4,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1050,7 +1079,7 @@
       "title": "Özgün baskı sanatının öncü ismi Süleyman Saim Tekcan yaşamını yitirdi #Shorts",
       "published": "2026-10-18T16:08:43Z",
       "thumbnail": "https://i.ytimg.com/vi/Pw1DenXyRQQ/mqdefault.jpg",
-      "views": 68,
+      "views": 75,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1072,8 +1101,8 @@
       "title": "Can Bonomo’nun acı günü: Ünlü sanatçının babası hayatını kaybetti #Shorts",
       "published": "2026-10-18T07:06:18Z",
       "thumbnail": "https://i.ytimg.com/vi/9C3rCZEAuL8/mqdefault.jpg",
-      "views": 499,
-      "likes": 4,
+      "views": 515,
+      "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1094,7 +1123,7 @@
       "title": "Özge Gürel ve Yiğit Koçak, 'El Gouna Film Festivali'nin açılışında #Shorts",
       "published": "2026-10-17T11:04:17Z",
       "thumbnail": "https://i.ytimg.com/vi/23-cazi-2sw/mqdefault.jpg",
-      "views": 752,
+      "views": 759,
       "likes": 12,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1127,7 +1156,7 @@
       "title": "Murat Cemcir'in avukatından 'iflas' açıklaması #Shorts",
       "published": "2026-10-16T11:45:11Z",
       "thumbnail": "https://i.ytimg.com/vi/_FOTSbxMRuU/mqdefault.jpg",
-      "views": 246,
+      "views": 243,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1204,7 +1233,7 @@
       "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi! #Shorts",
       "published": "2026-10-14T07:18:45Z",
       "thumbnail": "https://i.ytimg.com/vi/8iF2cWpGJ_4/mqdefault.jpg",
-      "views": 952,
+      "views": 953,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1220,18 +1249,7 @@
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "dRIRfFGVLt8",
-      "title": "Ufuk Beydemir'in sevgilisi ünlü şarkıcı çıktı: Hamile Sharon Kovacs kimdir, kaç yaşında? #Shorts",
-      "published": "2026-10-13T14:29:38Z",
-      "thumbnail": "https://i.ytimg.com/vi/dRIRfFGVLt8/mqdefault.jpg",
-      "views": 1039,
-      "likes": 1,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-20T05:20:20Z"
+  "lastUpdated": "2026-10-20T10:17:41Z"
 }
