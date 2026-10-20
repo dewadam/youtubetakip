@@ -262,10 +262,16 @@
           "subs": 8,
           "views": 15018,
           "videos": 31
+        },
+        {
+          "ts": "2026-10-20T00:30:59Z",
+          "subs": 8,
+          "views": 15018,
+          "videos": 31
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-19T21:15:21Z",
+        "ts": "2026-10-20T00:30:59Z",
         "subs": 8,
         "views": 15018,
         "videos": 31
@@ -575,10 +581,16 @@
           "subs": 2,
           "views": 2943,
           "videos": 11
+        },
+        {
+          "ts": "2026-10-20T00:30:59Z",
+          "subs": 2,
+          "views": 2943,
+          "videos": 11
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-19T21:15:21Z",
+        "ts": "2026-10-20T00:30:59Z",
         "subs": 2,
         "views": 2943,
         "videos": 11
@@ -822,10 +834,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-20T00:30:59Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-19T21:15:21Z",
+        "ts": "2026-10-20T00:30:59Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -838,7 +856,7 @@
       "title": "19 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-18T23:54:22Z",
       "thumbnail": "https://i.ytimg.com/vi/6BhwZI1QLpE/mqdefault.jpg",
-      "views": 47,
+      "views": 49,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -860,7 +878,7 @@
       "title": "Benzine zam ve Motorine zam! 17 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-17T00:09:28Z",
       "thumbnail": "https://i.ytimg.com/vi/bLHff7RwbX0/mqdefault.jpg",
-      "views": 970,
+      "views": 971,
       "likes": 1,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -970,7 +988,7 @@
       "title": "Evlat acısıyla sarsıldı! Cindy Crawford'dan 27 yaşında vefat eden oğluna yürek yakan veda mesajı… #S",
       "published": "2026-10-19T18:51:56Z",
       "thumbnail": "https://i.ytimg.com/vi/bSTIlKJh8LA/mqdefault.jpg",
-      "views": 22,
+      "views": 55,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -981,8 +999,8 @@
       "title": "Melike Şahin oğlunun adını açıkladı: İsminin anlamı dikkat çekti #Shorts",
       "published": "2026-10-19T13:48:17Z",
       "thumbnail": "https://i.ytimg.com/vi/Ze-T7TDpLJE/mqdefault.jpg",
-      "views": 333,
-      "likes": 3,
+      "views": 496,
+      "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -992,7 +1010,7 @@
       "title": "Mehmet Ali Erbil sahnede gözyaşlarına boğuldu! Anne-babası hakkındaki sözleri yürek burktu... #Short",
       "published": "2026-10-19T07:29:57Z",
       "thumbnail": "https://i.ytimg.com/vi/3iHoD0fcH3g/mqdefault.jpg",
-      "views": 554,
+      "views": 671,
       "likes": 3,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1003,7 +1021,7 @@
       "title": "Özgün baskı sanatının öncü ismi Süleyman Saim Tekcan yaşamını yitirdi #Shorts",
       "published": "2026-10-18T16:08:43Z",
       "thumbnail": "https://i.ytimg.com/vi/Pw1DenXyRQQ/mqdefault.jpg",
-      "views": 56,
+      "views": 61,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1014,7 +1032,7 @@
       "title": "Avrupa Yakası'nın Gaffur'u Peker Açıkalın'dan yapımcılara çağrı: “Para lazım, para” #Shorts",
       "published": "2026-10-18T11:32:04Z",
       "thumbnail": "https://i.ytimg.com/vi/GTaHEdQhehU/mqdefault.jpg",
-      "views": 21,
+      "views": 23,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1025,8 +1043,8 @@
       "title": "Can Bonomo’nun acı günü: Ünlü sanatçının babası hayatını kaybetti #Shorts",
       "published": "2026-10-18T07:06:18Z",
       "thumbnail": "https://i.ytimg.com/vi/9C3rCZEAuL8/mqdefault.jpg",
-      "views": 416,
-      "likes": 3,
+      "views": 462,
+      "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1036,7 +1054,7 @@
       "title": "Usta sanatçıdan acı haber geldi... Soner Olgun hayatını kaybetti #Shorts",
       "published": "2026-10-17T15:54:02Z",
       "thumbnail": "https://i.ytimg.com/vi/ai_FZnjkNIE/mqdefault.jpg",
-      "views": 522,
+      "views": 523,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1047,7 +1065,7 @@
       "title": "Özge Gürel ve Yiğit Koçak, 'El Gouna Film Festivali'nin açılışında #Shorts",
       "published": "2026-10-17T11:04:17Z",
       "thumbnail": "https://i.ytimg.com/vi/23-cazi-2sw/mqdefault.jpg",
-      "views": 746,
+      "views": 748,
       "likes": 12,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1058,7 +1076,7 @@
       "title": "'Fabrika Kızı'nın unutulmaz sesi Alpay son yolculuğuna uğurlandı #Shorts",
       "published": "2026-10-17T06:46:23Z",
       "thumbnail": "https://i.ytimg.com/vi/O3WOtPUYGCA/mqdefault.jpg",
-      "views": 162,
+      "views": 163,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1069,7 +1087,7 @@
       "title": "Hafsanur Sancaktutan'ın 17 yaşındaki hali ortaya çıktı! Çegingen tavrı olay #Shorts",
       "published": "2026-10-16T16:55:43Z",
       "thumbnail": "https://i.ytimg.com/vi/HYJQ6MOZYKw/mqdefault.jpg",
-      "views": 261,
+      "views": 262,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1186,5 +1204,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-19T21:15:21Z"
+  "lastUpdated": "2026-10-20T00:30:59Z"
 }
