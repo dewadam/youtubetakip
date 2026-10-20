@@ -280,13 +280,19 @@
           "subs": 8,
           "views": 15654,
           "videos": 31
+        },
+        {
+          "ts": "2026-10-20T15:16:43Z",
+          "subs": 8,
+          "views": 15977,
+          "videos": 33
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-20T10:17:41Z",
+        "ts": "2026-10-20T15:16:43Z",
         "subs": 8,
-        "views": 15654,
-        "videos": 31
+        "views": 15977,
+        "videos": 33
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -611,10 +617,16 @@
           "subs": 2,
           "views": 2996,
           "videos": 12
+        },
+        {
+          "ts": "2026-10-20T15:16:43Z",
+          "subs": 2,
+          "views": 2996,
+          "videos": 12
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-20T10:17:41Z",
+        "ts": "2026-10-20T15:16:43Z",
         "subs": 2,
         "views": 2996,
         "videos": 12
@@ -876,10 +888,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-20T15:16:43Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-20T10:17:41Z",
+        "ts": "2026-10-20T15:16:43Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -892,7 +910,7 @@
       "title": "Benzinde indirim! 20 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-20T00:54:45Z",
       "thumbnail": "https://i.ytimg.com/vi/R6iBskVVFAI/mqdefault.jpg",
-      "views": 76,
+      "views": 80,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -903,7 +921,7 @@
       "title": "19 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-18T23:54:22Z",
       "thumbnail": "https://i.ytimg.com/vi/6BhwZI1QLpE/mqdefault.jpg",
-      "views": 51,
+      "views": 52,
       "likes": 1,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1031,11 +1049,22 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "3WwdwseRdW0",
+      "title": "Yeşilçam'ın 92 Yaşındaki Efsane Jönü İzzet Günay'ın Son Hali Cenazede Ortaya Çıktı! #Shorts",
+      "published": "2026-10-20T11:57:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/3WwdwseRdW0/mqdefault.jpg",
+      "views": 121,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "qiYZxf0HGCY",
       "title": "Selena Gomez'den elektronik sigara itirafı: Sesimi değiştirdi, geri dönüşü yok #Shorts",
       "published": "2026-10-20T07:20:53Z",
       "thumbnail": "https://i.ytimg.com/vi/qiYZxf0HGCY/mqdefault.jpg",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1046,7 +1075,7 @@
       "title": "Evlat acısıyla sarsıldı! Cindy Crawford'dan 27 yaşında vefat eden oğluna yürek yakan veda mesajı… #S",
       "published": "2026-10-19T18:51:56Z",
       "thumbnail": "https://i.ytimg.com/vi/bSTIlKJh8LA/mqdefault.jpg",
-      "views": 68,
+      "views": 74,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1057,8 +1086,8 @@
       "title": "Melike Şahin oğlunun adını açıkladı: İsminin anlamı dikkat çekti #Shorts",
       "published": "2026-10-19T13:48:17Z",
       "thumbnail": "https://i.ytimg.com/vi/Ze-T7TDpLJE/mqdefault.jpg",
-      "views": 690,
-      "likes": 6,
+      "views": 861,
+      "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1068,7 +1097,7 @@
       "title": "Mehmet Ali Erbil sahnede gözyaşlarına boğuldu! Anne-babası hakkındaki sözleri yürek burktu... #Short",
       "published": "2026-10-19T07:29:57Z",
       "thumbnail": "https://i.ytimg.com/vi/3iHoD0fcH3g/mqdefault.jpg",
-      "views": 699,
+      "views": 768,
       "likes": 4,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1079,7 +1108,7 @@
       "title": "Özgün baskı sanatının öncü ismi Süleyman Saim Tekcan yaşamını yitirdi #Shorts",
       "published": "2026-10-18T16:08:43Z",
       "thumbnail": "https://i.ytimg.com/vi/Pw1DenXyRQQ/mqdefault.jpg",
-      "views": 75,
+      "views": 78,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1090,7 +1119,7 @@
       "title": "Avrupa Yakası'nın Gaffur'u Peker Açıkalın'dan yapımcılara çağrı: “Para lazım, para” #Shorts",
       "published": "2026-10-18T11:32:04Z",
       "thumbnail": "https://i.ytimg.com/vi/GTaHEdQhehU/mqdefault.jpg",
-      "views": 23,
+      "views": 24,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1101,7 +1130,7 @@
       "title": "Can Bonomo’nun acı günü: Ünlü sanatçının babası hayatını kaybetti #Shorts",
       "published": "2026-10-18T07:06:18Z",
       "thumbnail": "https://i.ytimg.com/vi/9C3rCZEAuL8/mqdefault.jpg",
-      "views": 515,
+      "views": 536,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1123,9 +1152,9 @@
       "title": "Özge Gürel ve Yiğit Koçak, 'El Gouna Film Festivali'nin açılışında #Shorts",
       "published": "2026-10-17T11:04:17Z",
       "thumbnail": "https://i.ytimg.com/vi/23-cazi-2sw/mqdefault.jpg",
-      "views": 759,
-      "likes": 12,
-      "comments": 0,
+      "views": 765,
+      "likes": 13,
+      "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
     },
@@ -1223,7 +1252,7 @@
       "published": "2026-10-14T12:15:14Z",
       "thumbnail": "https://i.ytimg.com/vi/7lst379AOxY/mqdefault.jpg",
       "views": 605,
-      "likes": 12,
+      "likes": 13,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1233,23 +1262,12 @@
       "title": "Bodrum Masalı’nın yıldızından mutlu haber! Oyuncu Serhan Onat sessiz sedasız evlendi! #Shorts",
       "published": "2026-10-14T07:18:45Z",
       "thumbnail": "https://i.ytimg.com/vi/8iF2cWpGJ_4/mqdefault.jpg",
-      "views": 953,
+      "views": 956,
       "likes": 7,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "kKFQ4cD4GAE",
-      "title": "Hülya Avşar'dan Erkan Petekkaya'ya yanıt: Sakın üzülme, ben çok eğlendim #Shorts",
-      "published": "2026-10-13T19:30:54Z",
-      "thumbnail": "https://i.ytimg.com/vi/kKFQ4cD4GAE/mqdefault.jpg",
-      "views": 1061,
-      "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-20T10:17:41Z"
+  "lastUpdated": "2026-10-20T15:16:43Z"
 }
