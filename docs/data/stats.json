@@ -322,13 +322,19 @@
           "subs": 10,
           "views": 17635,
           "videos": 37
+        },
+        {
+          "ts": "2026-10-21T20:09:48Z",
+          "subs": 10,
+          "views": 17635,
+          "videos": 38
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-21T16:03:13Z",
+        "ts": "2026-10-21T20:09:48Z",
         "subs": 10,
         "views": 17635,
-        "videos": 37
+        "videos": 38
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -695,10 +701,16 @@
           "subs": 2,
           "views": 3004,
           "videos": 13
+        },
+        {
+          "ts": "2026-10-21T20:09:48Z",
+          "subs": 2,
+          "views": 3004,
+          "videos": 13
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-21T16:03:13Z",
+        "ts": "2026-10-21T20:09:48Z",
         "subs": 2,
         "views": 3004,
         "videos": 13
@@ -1002,10 +1014,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-21T20:09:48Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-21T16:03:13Z",
+        "ts": "2026-10-21T20:09:48Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -1018,7 +1036,7 @@
       "title": "21 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-21T00:22:32Z",
       "thumbnail": "https://i.ytimg.com/vi/Ywq7gfm8czY/mqdefault.jpg",
-      "views": 47,
+      "views": 48,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1029,7 +1047,7 @@
       "title": "Benzinde indirim! 20 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-20T00:54:45Z",
       "thumbnail": "https://i.ytimg.com/vi/R6iBskVVFAI/mqdefault.jpg",
-      "views": 632,
+      "views": 796,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1040,7 +1058,7 @@
       "title": "19 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-18T23:54:22Z",
       "thumbnail": "https://i.ytimg.com/vi/6BhwZI1QLpE/mqdefault.jpg",
-      "views": 57,
+      "views": 58,
       "likes": 1,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1168,11 +1186,22 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "NXTAVaEbf48",
+      "title": "Manifest'in Kurucusu Tolga Akış Hakkında Yeni Gelişme: İstenen Ceza Belli Oldu! #Shorts",
+      "published": "2026-10-21T17:38:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/NXTAVaEbf48/mqdefault.jpg",
+      "views": 4,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "-7wLsXMntmE",
       "title": "Ali Ağaoğlu'nun 6. kez baba oluyor! Bebeğinin cinsiyeti belli oldu - Magazin Haberleri #Shorts",
       "published": "2026-10-21T12:10:30Z",
       "thumbnail": "https://i.ytimg.com/vi/-7wLsXMntmE/mqdefault.jpg",
-      "views": 126,
+      "views": 164,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1183,7 +1212,7 @@
       "title": "Orhan Gencebay'dan Yıllar Sonra Gelen Sitem Dolu İtiraf: \"Beni Aşağılamak İçin Söylediler!\" #Shorts",
       "published": "2026-10-21T12:10:29Z",
       "thumbnail": "https://i.ytimg.com/vi/hU6iPOPFRvQ/mqdefault.jpg",
-      "views": 156,
+      "views": 221,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1194,7 +1223,7 @@
       "title": "Zeynep Çamcı anne oldu! Oğlunun adını Can koydu #Shorts",
       "published": "2026-10-21T07:17:28Z",
       "thumbnail": "https://i.ytimg.com/vi/aBV9y9HAwgI/mqdefault.jpg",
-      "views": 128,
+      "views": 240,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1205,7 +1234,7 @@
       "title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?",
       "published": "2026-10-20T17:29:44Z",
       "thumbnail": "https://i.ytimg.com/vi/9suYZJBZb0s/mqdefault.jpg",
-      "views": 262,
+      "views": 277,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1216,7 +1245,7 @@
       "title": "Yeşilçam'ın 92 Yaşındaki Efsane Jönü İzzet Günay'ın Son Hali Cenazede Ortaya Çıktı! #Shorts",
       "published": "2026-10-20T11:57:32Z",
       "thumbnail": "https://i.ytimg.com/vi/3WwdwseRdW0/mqdefault.jpg",
-      "views": 842,
+      "views": 943,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1238,7 +1267,7 @@
       "title": "Evlat acısıyla sarsıldı! Cindy Crawford'dan 27 yaşında vefat eden oğluna yürek yakan veda mesajı… #S",
       "published": "2026-10-19T18:51:56Z",
       "thumbnail": "https://i.ytimg.com/vi/bSTIlKJh8LA/mqdefault.jpg",
-      "views": 126,
+      "views": 135,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1249,7 +1278,7 @@
       "title": "Melike Şahin oğlunun adını açıkladı: İsminin anlamı dikkat çekti #Shorts",
       "published": "2026-10-19T13:48:17Z",
       "thumbnail": "https://i.ytimg.com/vi/Ze-T7TDpLJE/mqdefault.jpg",
-      "views": 985,
+      "views": 998,
       "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1260,7 +1289,7 @@
       "title": "Mehmet Ali Erbil sahnede gözyaşlarına boğuldu! Anne-babası hakkındaki sözleri yürek burktu... #Short",
       "published": "2026-10-19T07:29:57Z",
       "thumbnail": "https://i.ytimg.com/vi/3iHoD0fcH3g/mqdefault.jpg",
-      "views": 991,
+      "views": 992,
       "likes": 6,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1315,7 +1344,7 @@
       "title": "Özge Gürel ve Yiğit Koçak, 'El Gouna Film Festivali'nin açılışında #Shorts",
       "published": "2026-10-17T11:04:17Z",
       "thumbnail": "https://i.ytimg.com/vi/23-cazi-2sw/mqdefault.jpg",
-      "views": 792,
+      "views": 799,
       "likes": 14,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1337,7 +1366,7 @@
       "title": "Hafsanur Sancaktutan'ın 17 yaşındaki hali ortaya çıktı! Çegingen tavrı olay #Shorts",
       "published": "2026-10-16T16:55:43Z",
       "thumbnail": "https://i.ytimg.com/vi/HYJQ6MOZYKw/mqdefault.jpg",
-      "views": 266,
+      "views": 267,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1359,7 +1388,7 @@
       "title": "'Beni Rahibeler Büyüttü' Demişti: Bayhan, Din Değiştirdiği İddialarına Yanıt Verdi, Özüne Döndüğü An",
       "published": "2026-10-16T06:53:31Z",
       "thumbnail": "https://i.ytimg.com/vi/0BOgHAyp4JY/mqdefault.jpg",
-      "views": 672,
+      "views": 673,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1375,18 +1404,7 @@
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "Aaq0ujFVNb4",
-      "title": "Aşk-ı Memnu'dan Sonra Rol Arkadaşlarıyla Bir Araya Gelemeyen Selçuk Yöntem Nedenini Açıkladı #Shorts",
-      "published": "2026-10-15T11:53:50Z",
-      "thumbnail": "https://i.ytimg.com/vi/Aaq0ujFVNb4/mqdefault.jpg",
-      "views": 1057,
-      "likes": 11,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-21T16:03:13Z"
+  "lastUpdated": "2026-10-21T20:09:48Z"
 }
