@@ -310,13 +310,19 @@
           "subs": 9,
           "views": 17635,
           "videos": 34
+        },
+        {
+          "ts": "2026-10-21T11:15:51Z",
+          "subs": 9,
+          "views": 17635,
+          "videos": 35
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-21T05:54:46Z",
+        "ts": "2026-10-21T11:15:51Z",
         "subs": 9,
         "views": 17635,
-        "videos": 34
+        "videos": 35
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -671,12 +677,18 @@
           "subs": 2,
           "views": 2996,
           "videos": 13
+        },
+        {
+          "ts": "2026-10-21T11:15:51Z",
+          "subs": 2,
+          "views": 3004,
+          "videos": 13
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-21T05:54:46Z",
+        "ts": "2026-10-21T11:15:51Z",
         "subs": 2,
-        "views": 2996,
+        "views": 3004,
         "videos": 13
       }
     },
@@ -966,10 +978,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-21T11:15:51Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-21T05:54:46Z",
+        "ts": "2026-10-21T11:15:51Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -982,7 +1000,7 @@
       "title": "21 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-21T00:22:32Z",
       "thumbnail": "https://i.ytimg.com/vi/Ywq7gfm8czY/mqdefault.jpg",
-      "views": 10,
+      "views": 32,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -993,7 +1011,7 @@
       "title": "Benzinde indirim! 20 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-20T00:54:45Z",
       "thumbnail": "https://i.ytimg.com/vi/R6iBskVVFAI/mqdefault.jpg",
-      "views": 178,
+      "views": 365,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1015,7 +1033,7 @@
       "title": "18 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-17T23:45:00Z",
       "thumbnail": "https://i.ytimg.com/vi/Ta5xmBQobbs/mqdefault.jpg",
-      "views": 635,
+      "views": 634,
       "likes": 1,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1132,11 +1150,22 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "aBV9y9HAwgI",
+      "title": "Zeynep Çamcı anne oldu! Oğlunun adını Can koydu #Shorts",
+      "published": "2026-10-21T07:17:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/aBV9y9HAwgI/mqdefault.jpg",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "9suYZJBZb0s",
       "title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?",
       "published": "2026-10-20T17:29:44Z",
       "thumbnail": "https://i.ytimg.com/vi/9suYZJBZb0s/mqdefault.jpg",
-      "views": 244,
+      "views": 255,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1147,8 +1176,8 @@
       "title": "Yeşilçam'ın 92 Yaşındaki Efsane Jönü İzzet Günay'ın Son Hali Cenazede Ortaya Çıktı! #Shorts",
       "published": "2026-10-20T11:57:32Z",
       "thumbnail": "https://i.ytimg.com/vi/3WwdwseRdW0/mqdefault.jpg",
-      "views": 637,
-      "likes": 5,
+      "views": 776,
+      "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1169,7 +1198,7 @@
       "title": "Evlat acısıyla sarsıldı! Cindy Crawford'dan 27 yaşında vefat eden oğluna yürek yakan veda mesajı… #S",
       "published": "2026-10-19T18:51:56Z",
       "thumbnail": "https://i.ytimg.com/vi/bSTIlKJh8LA/mqdefault.jpg",
-      "views": 115,
+      "views": 123,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1180,8 +1209,8 @@
       "title": "Melike Şahin oğlunun adını açıkladı: İsminin anlamı dikkat çekti #Shorts",
       "published": "2026-10-19T13:48:17Z",
       "thumbnail": "https://i.ytimg.com/vi/Ze-T7TDpLJE/mqdefault.jpg",
-      "views": 974,
-      "likes": 7,
+      "views": 977,
+      "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1191,7 +1220,7 @@
       "title": "Mehmet Ali Erbil sahnede gözyaşlarına boğuldu! Anne-babası hakkındaki sözleri yürek burktu... #Short",
       "published": "2026-10-19T07:29:57Z",
       "thumbnail": "https://i.ytimg.com/vi/3iHoD0fcH3g/mqdefault.jpg",
-      "views": 947,
+      "views": 989,
       "likes": 6,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1246,7 +1275,7 @@
       "title": "Özge Gürel ve Yiğit Koçak, 'El Gouna Film Festivali'nin açılışında #Shorts",
       "published": "2026-10-17T11:04:17Z",
       "thumbnail": "https://i.ytimg.com/vi/23-cazi-2sw/mqdefault.jpg",
-      "views": 780,
+      "views": 787,
       "likes": 14,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1268,7 +1297,7 @@
       "title": "Hafsanur Sancaktutan'ın 17 yaşındaki hali ortaya çıktı! Çegingen tavrı olay #Shorts",
       "published": "2026-10-16T16:55:43Z",
       "thumbnail": "https://i.ytimg.com/vi/HYJQ6MOZYKw/mqdefault.jpg",
-      "views": 264,
+      "views": 265,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1339,18 +1368,7 @@
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "7lst379AOxY",
-      "title": "Yeşilçam'ın 'kötü adamı' Nihat Ziyalan hayatını kaybetti #Shorts",
-      "published": "2026-10-14T12:15:14Z",
-      "thumbnail": "https://i.ytimg.com/vi/7lst379AOxY/mqdefault.jpg",
-      "views": 606,
-      "likes": 13,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-21T05:54:46Z"
+  "lastUpdated": "2026-10-21T11:15:51Z"
 }
