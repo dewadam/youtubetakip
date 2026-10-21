@@ -304,12 +304,18 @@
           "subs": 8,
           "views": 15977,
           "videos": 34
+        },
+        {
+          "ts": "2026-10-21T05:54:46Z",
+          "subs": 9,
+          "views": 17635,
+          "videos": 34
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-21T00:59:07Z",
-        "subs": 8,
-        "views": 15977,
+        "ts": "2026-10-21T05:54:46Z",
+        "subs": 9,
+        "views": 17635,
         "videos": 34
       }
     },
@@ -659,10 +665,16 @@
           "subs": 2,
           "views": 2996,
           "videos": 13
+        },
+        {
+          "ts": "2026-10-21T05:54:46Z",
+          "subs": 2,
+          "views": 2996,
+          "videos": 13
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-21T00:59:07Z",
+        "ts": "2026-10-21T05:54:46Z",
         "subs": 2,
         "views": 2996,
         "videos": 13
@@ -948,10 +960,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-21T05:54:46Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-21T00:59:07Z",
+        "ts": "2026-10-21T05:54:46Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -964,7 +982,7 @@
       "title": "21 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-21T00:22:32Z",
       "thumbnail": "https://i.ytimg.com/vi/Ywq7gfm8czY/mqdefault.jpg",
-      "views": 0,
+      "views": 10,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -975,7 +993,7 @@
       "title": "Benzinde indirim! 20 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-20T00:54:45Z",
       "thumbnail": "https://i.ytimg.com/vi/R6iBskVVFAI/mqdefault.jpg",
-      "views": 78,
+      "views": 178,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -986,7 +1004,7 @@
       "title": "19 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-18T23:54:22Z",
       "thumbnail": "https://i.ytimg.com/vi/6BhwZI1QLpE/mqdefault.jpg",
-      "views": 55,
+      "views": 57,
       "likes": 1,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1118,7 +1136,7 @@
       "title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?",
       "published": "2026-10-20T17:29:44Z",
       "thumbnail": "https://i.ytimg.com/vi/9suYZJBZb0s/mqdefault.jpg",
-      "views": 238,
+      "views": 244,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1129,8 +1147,8 @@
       "title": "Yeşilçam'ın 92 Yaşındaki Efsane Jönü İzzet Günay'ın Son Hali Cenazede Ortaya Çıktı! #Shorts",
       "published": "2026-10-20T11:57:32Z",
       "thumbnail": "https://i.ytimg.com/vi/3WwdwseRdW0/mqdefault.jpg",
-      "views": 533,
-      "likes": 4,
+      "views": 637,
+      "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1151,7 +1169,7 @@
       "title": "Evlat acısıyla sarsıldı! Cindy Crawford'dan 27 yaşında vefat eden oğluna yürek yakan veda mesajı… #S",
       "published": "2026-10-19T18:51:56Z",
       "thumbnail": "https://i.ytimg.com/vi/bSTIlKJh8LA/mqdefault.jpg",
-      "views": 106,
+      "views": 115,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1162,7 +1180,7 @@
       "title": "Melike Şahin oğlunun adını açıkladı: İsminin anlamı dikkat çekti #Shorts",
       "published": "2026-10-19T13:48:17Z",
       "thumbnail": "https://i.ytimg.com/vi/Ze-T7TDpLJE/mqdefault.jpg",
-      "views": 973,
+      "views": 974,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1174,7 +1192,7 @@
       "published": "2026-10-19T07:29:57Z",
       "thumbnail": "https://i.ytimg.com/vi/3iHoD0fcH3g/mqdefault.jpg",
       "views": 947,
-      "likes": 5,
+      "likes": 6,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1228,7 +1246,7 @@
       "title": "Özge Gürel ve Yiğit Koçak, 'El Gouna Film Festivali'nin açılışında #Shorts",
       "published": "2026-10-17T11:04:17Z",
       "thumbnail": "https://i.ytimg.com/vi/23-cazi-2sw/mqdefault.jpg",
-      "views": 778,
+      "views": 780,
       "likes": 14,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1334,5 +1352,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-21T00:59:07Z"
+  "lastUpdated": "2026-10-21T05:54:46Z"
 }
