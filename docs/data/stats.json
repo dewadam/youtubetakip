@@ -340,10 +340,16 @@
           "subs": 10,
           "views": 17635,
           "videos": 38
+        },
+        {
+          "ts": "2026-10-22T06:36:47Z",
+          "subs": 10,
+          "views": 17635,
+          "videos": 38
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-22T01:41:43Z",
+        "ts": "2026-10-22T06:36:47Z",
         "subs": 10,
         "views": 17635,
         "videos": 38
@@ -731,10 +737,16 @@
           "subs": 2,
           "views": 3004,
           "videos": 14
+        },
+        {
+          "ts": "2026-10-22T06:36:47Z",
+          "subs": 2,
+          "views": 3004,
+          "videos": 14
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-22T01:41:43Z",
+        "ts": "2026-10-22T06:36:47Z",
         "subs": 2,
         "views": 3004,
         "videos": 14
@@ -1056,10 +1068,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-22T06:36:47Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-22T01:41:43Z",
+        "ts": "2026-10-22T06:36:47Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -1072,7 +1090,7 @@
       "title": "Benzinde indirim ve Motorine zam! 22 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-22T00:24:44Z",
       "thumbnail": "https://i.ytimg.com/vi/DfD1MymJP80/mqdefault.jpg",
-      "views": 0,
+      "views": 8,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1083,7 +1101,7 @@
       "title": "21 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-21T00:22:32Z",
       "thumbnail": "https://i.ytimg.com/vi/Ywq7gfm8czY/mqdefault.jpg",
-      "views": 177,
+      "views": 241,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1237,7 +1255,7 @@
       "title": "Manifest'in Kurucusu Tolga Akış Hakkında Yeni Gelişme: İstenen Ceza Belli Oldu! #Shorts",
       "published": "2026-10-21T17:38:32Z",
       "thumbnail": "https://i.ytimg.com/vi/NXTAVaEbf48/mqdefault.jpg",
-      "views": 295,
+      "views": 300,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1248,7 +1266,7 @@
       "title": "Ali Ağaoğlu'nun 6. kez baba oluyor! Bebeğinin cinsiyeti belli oldu - Magazin Haberleri #Shorts",
       "published": "2026-10-21T12:10:30Z",
       "thumbnail": "https://i.ytimg.com/vi/-7wLsXMntmE/mqdefault.jpg",
-      "views": 360,
+      "views": 374,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1259,7 +1277,7 @@
       "title": "Orhan Gencebay'dan Yıllar Sonra Gelen Sitem Dolu İtiraf: \"Beni Aşağılamak İçin Söylediler!\" #Shorts",
       "published": "2026-10-21T12:10:29Z",
       "thumbnail": "https://i.ytimg.com/vi/hU6iPOPFRvQ/mqdefault.jpg",
-      "views": 589,
+      "views": 678,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1270,7 +1288,7 @@
       "title": "Zeynep Çamcı anne oldu! Oğlunun adını Can koydu #Shorts",
       "published": "2026-10-21T07:17:28Z",
       "thumbnail": "https://i.ytimg.com/vi/aBV9y9HAwgI/mqdefault.jpg",
-      "views": 444,
+      "views": 473,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1281,7 +1299,7 @@
       "title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?",
       "published": "2026-10-20T17:29:44Z",
       "thumbnail": "https://i.ytimg.com/vi/9suYZJBZb0s/mqdefault.jpg",
-      "views": 291,
+      "views": 295,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1292,7 +1310,7 @@
       "title": "Yeşilçam'ın 92 Yaşındaki Efsane Jönü İzzet Günay'ın Son Hali Cenazede Ortaya Çıktı! #Shorts",
       "published": "2026-10-20T11:57:32Z",
       "thumbnail": "https://i.ytimg.com/vi/3WwdwseRdW0/mqdefault.jpg",
-      "views": 965,
+      "views": 970,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1325,7 +1343,7 @@
       "title": "Melike Şahin oğlunun adını açıkladı: İsminin anlamı dikkat çekti #Shorts",
       "published": "2026-10-19T13:48:17Z",
       "thumbnail": "https://i.ytimg.com/vi/Ze-T7TDpLJE/mqdefault.jpg",
-      "views": 1009,
+      "views": 1010,
       "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1453,5 +1471,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-22T01:41:43Z"
+  "lastUpdated": "2026-10-22T06:36:47Z"
 }
