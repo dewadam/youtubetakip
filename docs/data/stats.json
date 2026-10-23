@@ -382,13 +382,19 @@
           "subs": 11,
           "views": 23728,
           "videos": 44
+        },
+        {
+          "ts": "2026-10-23T14:05:13Z",
+          "subs": 11,
+          "views": 23728,
+          "videos": 46
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-23T08:51:04Z",
+        "ts": "2026-10-23T14:05:13Z",
         "subs": 11,
         "views": 23728,
-        "videos": 44
+        "videos": 46
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -815,10 +821,16 @@
           "subs": 2,
           "views": 4289,
           "videos": 15
+        },
+        {
+          "ts": "2026-10-23T14:05:13Z",
+          "subs": 2,
+          "views": 4289,
+          "videos": 15
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-23T08:51:04Z",
+        "ts": "2026-10-23T14:05:13Z",
         "subs": 2,
         "views": 4289,
         "videos": 15
@@ -1182,10 +1194,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-23T14:05:13Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-23T08:51:04Z",
+        "ts": "2026-10-23T14:05:13Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -1198,7 +1216,7 @@
       "title": "23 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-23T00:22:56Z",
       "thumbnail": "https://i.ytimg.com/vi/tJqzyR_YUcc/mqdefault.jpg",
-      "views": 21,
+      "views": 27,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1209,7 +1227,7 @@
       "title": "Benzinde indirim ve Motorine zam! 22 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-22T00:24:44Z",
       "thumbnail": "https://i.ytimg.com/vi/DfD1MymJP80/mqdefault.jpg",
-      "views": 92,
+      "views": 290,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1231,7 +1249,7 @@
       "title": "Benzinde indirim! 20 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-20T00:54:45Z",
       "thumbnail": "https://i.ytimg.com/vi/R6iBskVVFAI/mqdefault.jpg",
-      "views": 830,
+      "views": 831,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1370,11 +1388,33 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "iaZL9kZoUiM",
+      "title": "Son Dakika: Ünlülere uyuşturucu soruşturması! Yönetmen Ezel Akay'ın test sonucu belli oldu #Shorts",
+      "published": "2026-10-23T11:56:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/iaZL9kZoUiM/mqdefault.jpg",
+      "views": 4,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "ykXP81jvCyI",
+      "title": "Yönetmen Ezel Akay ve tutuklu kardeşinin uyuşturucu testleri pozitif çıktı #Shorts",
+      "published": "2026-10-23T11:56:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/ykXP81jvCyI/mqdefault.jpg",
+      "views": 5,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "meT28-Fkqf0",
       "title": "Birkan Nasuhoğlu’ndan Dilan Çiçek Deniz’e aşk dolu mesaj: Oy kurban olduğum #Shorts",
       "published": "2026-10-23T07:12:15Z",
       "thumbnail": "https://i.ytimg.com/vi/meT28-Fkqf0/mqdefault.jpg",
-      "views": 0,
+      "views": 73,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1385,7 +1425,7 @@
       "title": "Dwayne Johnson yeni filmi 'Lizard Music' için 70 yaşında birine dönüştü #Shorts",
       "published": "2026-10-23T07:12:09Z",
       "thumbnail": "https://i.ytimg.com/vi/I93246m2N4Y/mqdefault.jpg",
-      "views": 0,
+      "views": 47,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1407,7 +1447,7 @@
       "title": "Little Caesars Pizza’nın Türkiye operasyonu Dinçerler Group’a geçti: 2029 hedefi 1000 şube #Shorts",
       "published": "2026-10-22T12:17:24Z",
       "thumbnail": "https://i.ytimg.com/vi/87LdKp2yJ3Y/mqdefault.jpg",
-      "views": 165,
+      "views": 170,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1418,7 +1458,7 @@
       "title": "İki Hamile Bir Araya Geldi: Gökçe Bahadır ve Merve Dizdar Aynı Kutlamada Buluştu! #Shorts",
       "published": "2026-10-22T07:21:51Z",
       "thumbnail": "https://i.ytimg.com/vi/xfSLVp9kJm4/mqdefault.jpg",
-      "views": 872,
+      "views": 873,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1429,7 +1469,7 @@
       "title": "Çağatay Ulusoy’la küslük sona mı erdi? Kıvanç Tatlıtuğ’dan iddialara alaycı yanıt… #Shorts",
       "published": "2026-10-22T07:21:34Z",
       "thumbnail": "https://i.ytimg.com/vi/M_7vjWluGcw/mqdefault.jpg",
-      "views": 428,
+      "views": 525,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1440,7 +1480,7 @@
       "title": "Manifest'in Kurucusu Tolga Akış Hakkında Yeni Gelişme: İstenen Ceza Belli Oldu! #Shorts",
       "published": "2026-10-21T17:38:32Z",
       "thumbnail": "https://i.ytimg.com/vi/NXTAVaEbf48/mqdefault.jpg",
-      "views": 932,
+      "views": 949,
       "likes": 6,
       "comments": 3,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1451,7 +1491,7 @@
       "title": "Ali Ağaoğlu'nun 6. kez baba oluyor! Bebeğinin cinsiyeti belli oldu - Magazin Haberleri #Shorts",
       "published": "2026-10-21T12:10:30Z",
       "thumbnail": "https://i.ytimg.com/vi/-7wLsXMntmE/mqdefault.jpg",
-      "views": 478,
+      "views": 495,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1462,7 +1502,7 @@
       "title": "Orhan Gencebay'dan Yıllar Sonra Gelen Sitem Dolu İtiraf: \"Beni Aşağılamak İçin Söylediler!\" #Shorts",
       "published": "2026-10-21T12:10:29Z",
       "thumbnail": "https://i.ytimg.com/vi/hU6iPOPFRvQ/mqdefault.jpg",
-      "views": 917,
+      "views": 918,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1484,7 +1524,7 @@
       "title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?",
       "published": "2026-10-20T17:29:44Z",
       "thumbnail": "https://i.ytimg.com/vi/9suYZJBZb0s/mqdefault.jpg",
-      "views": 295,
+      "views": 297,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1495,7 +1535,7 @@
       "title": "Yeşilçam'ın 92 Yaşındaki Efsane Jönü İzzet Günay'ın Son Hali Cenazede Ortaya Çıktı! #Shorts",
       "published": "2026-10-20T11:57:32Z",
       "thumbnail": "https://i.ytimg.com/vi/3WwdwseRdW0/mqdefault.jpg",
-      "views": 1035,
+      "views": 1037,
       "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1550,7 +1590,7 @@
       "title": "Özgün baskı sanatının öncü ismi Süleyman Saim Tekcan yaşamını yitirdi #Shorts",
       "published": "2026-10-18T16:08:43Z",
       "thumbnail": "https://i.ytimg.com/vi/Pw1DenXyRQQ/mqdefault.jpg",
-      "views": 86,
+      "views": 87,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1566,29 +1606,7 @@
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "9C3rCZEAuL8",
-      "title": "Can Bonomo’nun acı günü: Ünlü sanatçının babası hayatını kaybetti #Shorts",
-      "published": "2026-10-18T07:06:18Z",
-      "thumbnail": "https://i.ytimg.com/vi/9C3rCZEAuL8/mqdefault.jpg",
-      "views": 539,
-      "likes": 5,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "ai_FZnjkNIE",
-      "title": "Usta sanatçıdan acı haber geldi... Soner Olgun hayatını kaybetti #Shorts",
-      "published": "2026-10-17T15:54:02Z",
-      "thumbnail": "https://i.ytimg.com/vi/ai_FZnjkNIE/mqdefault.jpg",
-      "views": 521,
-      "likes": 3,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-23T08:51:04Z"
+  "lastUpdated": "2026-10-23T14:05:13Z"
 }
