@@ -418,13 +418,19 @@
           "subs": 12,
           "views": 25527,
           "videos": 50
+        },
+        {
+          "ts": "2026-10-24T13:20:19Z",
+          "subs": 12,
+          "views": 25527,
+          "videos": 51
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-24T09:08:02Z",
+        "ts": "2026-10-24T13:20:19Z",
         "subs": 12,
         "views": 25527,
-        "videos": 50
+        "videos": 51
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -887,10 +893,16 @@
           "subs": 2,
           "views": 4817,
           "videos": 16
+        },
+        {
+          "ts": "2026-10-24T13:20:19Z",
+          "subs": 2,
+          "views": 4817,
+          "videos": 16
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-24T09:08:02Z",
+        "ts": "2026-10-24T13:20:19Z",
         "subs": 2,
         "views": 4817,
         "videos": 16
@@ -1290,10 +1302,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-24T13:20:19Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-24T09:08:02Z",
+        "ts": "2026-10-24T13:20:19Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -1306,7 +1324,7 @@
       "title": "24 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-24T00:13:36Z",
       "thumbnail": "https://i.ytimg.com/vi/gTyC5_g8J28/mqdefault.jpg",
-      "views": 20,
+      "views": 24,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1317,7 +1335,7 @@
       "title": "23 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-23T00:22:56Z",
       "thumbnail": "https://i.ytimg.com/vi/tJqzyR_YUcc/mqdefault.jpg",
-      "views": 60,
+      "views": 120,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1350,7 +1368,7 @@
       "title": "Benzinde indirim! 20 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-20T00:54:45Z",
       "thumbnail": "https://i.ytimg.com/vi/R6iBskVVFAI/mqdefault.jpg",
-      "views": 834,
+      "views": 835,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1489,11 +1507,22 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "EoDyOdZhChs",
+      "title": "Iman Elbani 44 yaşında! Murat Yıldırım'dan eşine romantik kutlama #Shorts",
+      "published": "2026-10-24T11:25:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/EoDyOdZhChs/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "iren90w-scI",
       "title": "90’ların unutulmaz ismi Tayfun Duygulu İstanbul'u terk etti! Manzaralı lüks villası hayran bıraktı -",
       "published": "2026-10-24T07:01:53Z",
       "thumbnail": "https://i.ytimg.com/vi/iren90w-scI/mqdefault.jpg",
-      "views": 2,
+      "views": 172,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1504,7 +1533,7 @@
       "title": "Hakkı Bulut sahnede fenalaştı: Hastaneye kaldırıldı #Shorts",
       "published": "2026-10-24T07:01:40Z",
       "thumbnail": "https://i.ytimg.com/vi/vMkd0NVHX_U/mqdefault.jpg",
-      "views": 8,
+      "views": 254,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1515,7 +1544,7 @@
       "title": "Game of Thrones'un Ser Alliser'ı İstanbul'da: Şerefiye Sarnıcı'nda Karşılaştığı Sürpriz Gözlerini Do",
       "published": "2026-10-23T17:26:04Z",
       "thumbnail": "https://i.ytimg.com/vi/l-g-9P8hxQs/mqdefault.jpg",
-      "views": 362,
+      "views": 494,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1526,8 +1555,8 @@
       "title": "Düğünleri Günlerce Konuşulmuştu! Itır Esen ve Eşi Engin Aykanat'ın Boy Farkı Sosyal Medyada Gündem O",
       "published": "2026-10-23T17:25:59Z",
       "thumbnail": "https://i.ytimg.com/vi/cTc4nHJ8xOQ/mqdefault.jpg",
-      "views": 711,
-      "likes": 5,
+      "views": 875,
+      "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1537,7 +1566,7 @@
       "title": "Son Dakika: Ünlülere uyuşturucu soruşturması! Yönetmen Ezel Akay'ın test sonucu belli oldu #Shorts",
       "published": "2026-10-23T11:56:30Z",
       "thumbnail": "https://i.ytimg.com/vi/iaZL9kZoUiM/mqdefault.jpg",
-      "views": 417,
+      "views": 443,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1548,7 +1577,7 @@
       "title": "Yönetmen Ezel Akay ve tutuklu kardeşinin uyuşturucu testleri pozitif çıktı #Shorts",
       "published": "2026-10-23T11:56:22Z",
       "thumbnail": "https://i.ytimg.com/vi/ykXP81jvCyI/mqdefault.jpg",
-      "views": 141,
+      "views": 148,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1559,7 +1588,7 @@
       "title": "Birkan Nasuhoğlu’ndan Dilan Çiçek Deniz’e aşk dolu mesaj: Oy kurban olduğum #Shorts",
       "published": "2026-10-23T07:12:15Z",
       "thumbnail": "https://i.ytimg.com/vi/meT28-Fkqf0/mqdefault.jpg",
-      "views": 107,
+      "views": 108,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1581,7 +1610,7 @@
       "title": "Melek Mosso: Ünlü olunca özgürlüğümü kaybettim #Shorts",
       "published": "2026-10-22T12:17:27Z",
       "thumbnail": "https://i.ytimg.com/vi/_f-v5Okdrnw/mqdefault.jpg",
-      "views": 164,
+      "views": 173,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1592,7 +1621,7 @@
       "title": "Little Caesars Pizza’nın Türkiye operasyonu Dinçerler Group’a geçti: 2029 hedefi 1000 şube #Shorts",
       "published": "2026-10-22T12:17:24Z",
       "thumbnail": "https://i.ytimg.com/vi/87LdKp2yJ3Y/mqdefault.jpg",
-      "views": 170,
+      "views": 171,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1614,7 +1643,7 @@
       "title": "Çağatay Ulusoy’la küslük sona mı erdi? Kıvanç Tatlıtuğ’dan iddialara alaycı yanıt… #Shorts",
       "published": "2026-10-22T07:21:34Z",
       "thumbnail": "https://i.ytimg.com/vi/M_7vjWluGcw/mqdefault.jpg",
-      "views": 837,
+      "views": 844,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1625,7 +1654,7 @@
       "title": "Manifest'in Kurucusu Tolga Akış Hakkında Yeni Gelişme: İstenen Ceza Belli Oldu! #Shorts",
       "published": "2026-10-21T17:38:32Z",
       "thumbnail": "https://i.ytimg.com/vi/NXTAVaEbf48/mqdefault.jpg",
-      "views": 951,
+      "views": 954,
       "likes": 6,
       "comments": 3,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1680,7 +1709,7 @@
       "title": "Yeşilçam'ın 92 Yaşındaki Efsane Jönü İzzet Günay'ın Son Hali Cenazede Ortaya Çıktı! #Shorts",
       "published": "2026-10-20T11:57:32Z",
       "thumbnail": "https://i.ytimg.com/vi/3WwdwseRdW0/mqdefault.jpg",
-      "views": 1038,
+      "views": 1037,
       "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1696,18 +1725,7 @@
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "bSTIlKJh8LA",
-      "title": "Evlat acısıyla sarsıldı! Cindy Crawford'dan 27 yaşında vefat eden oğluna yürek yakan veda mesajı… #S",
-      "published": "2026-10-19T18:51:56Z",
-      "thumbnail": "https://i.ytimg.com/vi/bSTIlKJh8LA/mqdefault.jpg",
-      "views": 135,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-24T09:08:02Z"
+  "lastUpdated": "2026-10-24T13:20:19Z"
 }
