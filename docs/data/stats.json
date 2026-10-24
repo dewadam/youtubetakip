@@ -412,13 +412,19 @@
           "subs": 11,
           "views": 25527,
           "videos": 48
+        },
+        {
+          "ts": "2026-10-24T09:08:02Z",
+          "subs": 12,
+          "views": 25527,
+          "videos": 50
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-24T04:36:32Z",
-        "subs": 11,
+        "ts": "2026-10-24T09:08:02Z",
+        "subs": 12,
         "views": 25527,
-        "videos": 48
+        "videos": 50
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -875,13 +881,19 @@
           "subs": 2,
           "views": 4434,
           "videos": 15
+        },
+        {
+          "ts": "2026-10-24T09:08:02Z",
+          "subs": 2,
+          "views": 4817,
+          "videos": 16
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-24T04:36:32Z",
+        "ts": "2026-10-24T09:08:02Z",
         "subs": 2,
-        "views": 4434,
-        "videos": 15
+        "views": 4817,
+        "videos": 16
       }
     },
     "UC0faIhjf4Is3plnq0zEoQoQ": {
@@ -1272,10 +1284,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-24T09:08:02Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-24T04:36:32Z",
+        "ts": "2026-10-24T09:08:02Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -1288,7 +1306,7 @@
       "title": "24 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-24T00:13:36Z",
       "thumbnail": "https://i.ytimg.com/vi/gTyC5_g8J28/mqdefault.jpg",
-      "views": 7,
+      "views": 20,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1299,7 +1317,7 @@
       "title": "23 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-23T00:22:56Z",
       "thumbnail": "https://i.ytimg.com/vi/tJqzyR_YUcc/mqdefault.jpg",
-      "views": 49,
+      "views": 60,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1332,7 +1350,7 @@
       "title": "Benzinde indirim! 20 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-20T00:54:45Z",
       "thumbnail": "https://i.ytimg.com/vi/R6iBskVVFAI/mqdefault.jpg",
-      "views": 835,
+      "views": 834,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1471,12 +1489,34 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "iren90w-scI",
+      "title": "90’ların unutulmaz ismi Tayfun Duygulu İstanbul'u terk etti! Manzaralı lüks villası hayran bıraktı -",
+      "published": "2026-10-24T07:01:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/iren90w-scI/mqdefault.jpg",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "vMkd0NVHX_U",
+      "title": "Hakkı Bulut sahnede fenalaştı: Hastaneye kaldırıldı #Shorts",
+      "published": "2026-10-24T07:01:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/vMkd0NVHX_U/mqdefault.jpg",
+      "views": 8,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "l-g-9P8hxQs",
       "title": "Game of Thrones'un Ser Alliser'ı İstanbul'da: Şerefiye Sarnıcı'nda Karşılaştığı Sürpriz Gözlerini Do",
       "published": "2026-10-23T17:26:04Z",
       "thumbnail": "https://i.ytimg.com/vi/l-g-9P8hxQs/mqdefault.jpg",
-      "views": 249,
-      "likes": 3,
+      "views": 362,
+      "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1486,8 +1526,8 @@
       "title": "Düğünleri Günlerce Konuşulmuştu! Itır Esen ve Eşi Engin Aykanat'ın Boy Farkı Sosyal Medyada Gündem O",
       "published": "2026-10-23T17:25:59Z",
       "thumbnail": "https://i.ytimg.com/vi/cTc4nHJ8xOQ/mqdefault.jpg",
-      "views": 463,
-      "likes": 3,
+      "views": 711,
+      "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1497,7 +1537,7 @@
       "title": "Son Dakika: Ünlülere uyuşturucu soruşturması! Yönetmen Ezel Akay'ın test sonucu belli oldu #Shorts",
       "published": "2026-10-23T11:56:30Z",
       "thumbnail": "https://i.ytimg.com/vi/iaZL9kZoUiM/mqdefault.jpg",
-      "views": 349,
+      "views": 417,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1508,7 +1548,7 @@
       "title": "Yönetmen Ezel Akay ve tutuklu kardeşinin uyuşturucu testleri pozitif çıktı #Shorts",
       "published": "2026-10-23T11:56:22Z",
       "thumbnail": "https://i.ytimg.com/vi/ykXP81jvCyI/mqdefault.jpg",
-      "views": 136,
+      "views": 141,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1519,7 +1559,7 @@
       "title": "Birkan Nasuhoğlu’ndan Dilan Çiçek Deniz’e aşk dolu mesaj: Oy kurban olduğum #Shorts",
       "published": "2026-10-23T07:12:15Z",
       "thumbnail": "https://i.ytimg.com/vi/meT28-Fkqf0/mqdefault.jpg",
-      "views": 104,
+      "views": 107,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1574,8 +1614,8 @@
       "title": "Çağatay Ulusoy’la küslük sona mı erdi? Kıvanç Tatlıtuğ’dan iddialara alaycı yanıt… #Shorts",
       "published": "2026-10-22T07:21:34Z",
       "thumbnail": "https://i.ytimg.com/vi/M_7vjWluGcw/mqdefault.jpg",
-      "views": 775,
-      "likes": 6,
+      "views": 837,
+      "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1585,7 +1625,7 @@
       "title": "Manifest'in Kurucusu Tolga Akış Hakkında Yeni Gelişme: İstenen Ceza Belli Oldu! #Shorts",
       "published": "2026-10-21T17:38:32Z",
       "thumbnail": "https://i.ytimg.com/vi/NXTAVaEbf48/mqdefault.jpg",
-      "views": 950,
+      "views": 951,
       "likes": 6,
       "comments": 3,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1607,7 +1647,7 @@
       "title": "Orhan Gencebay'dan Yıllar Sonra Gelen Sitem Dolu İtiraf: \"Beni Aşağılamak İçin Söylediler!\" #Shorts",
       "published": "2026-10-21T12:10:29Z",
       "thumbnail": "https://i.ytimg.com/vi/hU6iPOPFRvQ/mqdefault.jpg",
-      "views": 923,
+      "views": 925,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1667,29 +1707,7 @@
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "Ze-T7TDpLJE",
-      "title": "Melike Şahin oğlunun adını açıkladı: İsminin anlamı dikkat çekti #Shorts",
-      "published": "2026-10-19T13:48:17Z",
-      "thumbnail": "https://i.ytimg.com/vi/Ze-T7TDpLJE/mqdefault.jpg",
-      "views": 1031,
-      "likes": 8,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "3iHoD0fcH3g",
-      "title": "Mehmet Ali Erbil sahnede gözyaşlarına boğuldu! Anne-babası hakkındaki sözleri yürek burktu... #Short",
-      "published": "2026-10-19T07:29:57Z",
-      "thumbnail": "https://i.ytimg.com/vi/3iHoD0fcH3g/mqdefault.jpg",
-      "views": 992,
-      "likes": 6,
-      "comments": 1,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-24T04:36:32Z"
+  "lastUpdated": "2026-10-24T09:08:02Z"
 }
