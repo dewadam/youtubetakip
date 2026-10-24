@@ -406,12 +406,18 @@
           "subs": 11,
           "views": 24568,
           "videos": 48
+        },
+        {
+          "ts": "2026-10-24T04:36:32Z",
+          "subs": 11,
+          "views": 25527,
+          "videos": 48
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-24T00:02:42Z",
+        "ts": "2026-10-24T04:36:32Z",
         "subs": 11,
-        "views": 24568,
+        "views": 25527,
         "videos": 48
       }
     },
@@ -863,10 +869,16 @@
           "subs": 2,
           "views": 4434,
           "videos": 15
+        },
+        {
+          "ts": "2026-10-24T04:36:32Z",
+          "subs": 2,
+          "views": 4434,
+          "videos": 15
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-24T00:02:42Z",
+        "ts": "2026-10-24T04:36:32Z",
         "subs": 2,
         "views": 4434,
         "videos": 15
@@ -1254,10 +1266,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-24T04:36:32Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-24T00:02:42Z",
+        "ts": "2026-10-24T04:36:32Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -1266,11 +1284,22 @@
   },
   "videos": [
     {
+      "videoId": "gTyC5_g8J28",
+      "title": "24 Ekim güncel akaryakıt fiyatları #Shorts",
+      "published": "2026-10-24T00:13:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/gTyC5_g8J28/mqdefault.jpg",
+      "views": 7,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "channelTitle": "Yol Masrafı"
+    },
+    {
       "videoId": "tJqzyR_YUcc",
       "title": "23 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-23T00:22:56Z",
       "thumbnail": "https://i.ytimg.com/vi/tJqzyR_YUcc/mqdefault.jpg",
-      "views": 35,
+      "views": 49,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1281,7 +1310,7 @@
       "title": "Benzinde indirim ve Motorine zam! 22 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-22T00:24:44Z",
       "thumbnail": "https://i.ytimg.com/vi/DfD1MymJP80/mqdefault.jpg",
-      "views": 547,
+      "views": 568,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1303,7 +1332,7 @@
       "title": "Benzinde indirim! 20 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-20T00:54:45Z",
       "thumbnail": "https://i.ytimg.com/vi/R6iBskVVFAI/mqdefault.jpg",
-      "views": 833,
+      "views": 835,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1446,7 +1475,7 @@
       "title": "Game of Thrones'un Ser Alliser'ı İstanbul'da: Şerefiye Sarnıcı'nda Karşılaştığı Sürpriz Gözlerini Do",
       "published": "2026-10-23T17:26:04Z",
       "thumbnail": "https://i.ytimg.com/vi/l-g-9P8hxQs/mqdefault.jpg",
-      "views": 193,
+      "views": 249,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1457,7 +1486,7 @@
       "title": "Düğünleri Günlerce Konuşulmuştu! Itır Esen ve Eşi Engin Aykanat'ın Boy Farkı Sosyal Medyada Gündem O",
       "published": "2026-10-23T17:25:59Z",
       "thumbnail": "https://i.ytimg.com/vi/cTc4nHJ8xOQ/mqdefault.jpg",
-      "views": 307,
+      "views": 463,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1468,7 +1497,7 @@
       "title": "Son Dakika: Ünlülere uyuşturucu soruşturması! Yönetmen Ezel Akay'ın test sonucu belli oldu #Shorts",
       "published": "2026-10-23T11:56:30Z",
       "thumbnail": "https://i.ytimg.com/vi/iaZL9kZoUiM/mqdefault.jpg",
-      "views": 311,
+      "views": 349,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1479,7 +1508,7 @@
       "title": "Yönetmen Ezel Akay ve tutuklu kardeşinin uyuşturucu testleri pozitif çıktı #Shorts",
       "published": "2026-10-23T11:56:22Z",
       "thumbnail": "https://i.ytimg.com/vi/ykXP81jvCyI/mqdefault.jpg",
-      "views": 120,
+      "views": 136,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1490,7 +1519,7 @@
       "title": "Birkan Nasuhoğlu’ndan Dilan Çiçek Deniz’e aşk dolu mesaj: Oy kurban olduğum #Shorts",
       "published": "2026-10-23T07:12:15Z",
       "thumbnail": "https://i.ytimg.com/vi/meT28-Fkqf0/mqdefault.jpg",
-      "views": 85,
+      "views": 104,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1501,7 +1530,7 @@
       "title": "Dwayne Johnson yeni filmi 'Lizard Music' için 70 yaşında birine dönüştü #Shorts",
       "published": "2026-10-23T07:12:09Z",
       "thumbnail": "https://i.ytimg.com/vi/I93246m2N4Y/mqdefault.jpg",
-      "views": 208,
+      "views": 211,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1545,7 +1574,7 @@
       "title": "Çağatay Ulusoy’la küslük sona mı erdi? Kıvanç Tatlıtuğ’dan iddialara alaycı yanıt… #Shorts",
       "published": "2026-10-22T07:21:34Z",
       "thumbnail": "https://i.ytimg.com/vi/M_7vjWluGcw/mqdefault.jpg",
-      "views": 714,
+      "views": 775,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1578,7 +1607,7 @@
       "title": "Orhan Gencebay'dan Yıllar Sonra Gelen Sitem Dolu İtiraf: \"Beni Aşağılamak İçin Söylediler!\" #Shorts",
       "published": "2026-10-21T12:10:29Z",
       "thumbnail": "https://i.ytimg.com/vi/hU6iPOPFRvQ/mqdefault.jpg",
-      "views": 922,
+      "views": 923,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1662,5 +1691,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-24T00:02:42Z"
+  "lastUpdated": "2026-10-24T04:36:32Z"
 }
