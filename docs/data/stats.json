@@ -454,13 +454,19 @@
           "subs": 13,
           "views": 27137,
           "videos": 53
+        },
+        {
+          "ts": "2026-10-25T08:39:43Z",
+          "subs": 13,
+          "views": 27137,
+          "videos": 55
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-25T03:26:15Z",
+        "ts": "2026-10-25T08:39:43Z",
         "subs": 13,
         "views": 27137,
-        "videos": 53
+        "videos": 55
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -959,13 +965,19 @@
           "subs": 2,
           "views": 4957,
           "videos": 16
+        },
+        {
+          "ts": "2026-10-25T08:39:43Z",
+          "subs": 2,
+          "views": 4957,
+          "videos": 17
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-25T03:26:15Z",
+        "ts": "2026-10-25T08:39:43Z",
         "subs": 2,
         "views": 4957,
-        "videos": 16
+        "videos": 17
       }
     },
     "UC0faIhjf4Is3plnq0zEoQoQ": {
@@ -1398,10 +1410,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-25T08:39:43Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-25T03:26:15Z",
+        "ts": "2026-10-25T08:39:43Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -1414,7 +1432,7 @@
       "title": "25 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-24T23:58:16Z",
       "thumbnail": "https://i.ytimg.com/vi/7CCML07C_dM/mqdefault.jpg",
-      "views": 0,
+      "views": 17,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1425,7 +1443,7 @@
       "title": "24 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-24T00:13:36Z",
       "thumbnail": "https://i.ytimg.com/vi/gTyC5_g8J28/mqdefault.jpg",
-      "views": 34,
+      "views": 40,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1458,7 +1476,7 @@
       "title": "21 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-21T00:22:32Z",
       "thumbnail": "https://i.ytimg.com/vi/Ywq7gfm8czY/mqdefault.jpg",
-      "views": 422,
+      "views": 421,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1480,7 +1498,7 @@
       "title": "19 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-18T23:54:22Z",
       "thumbnail": "https://i.ytimg.com/vi/6BhwZI1QLpE/mqdefault.jpg",
-      "views": 58,
+      "views": 59,
       "likes": 1,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1608,11 +1626,33 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "zCsgklXqB0s",
+      "title": "Oyuncu Nilperi Şahinkaya: Yakışıklı olması önemli değil, ses tonu daha önemli #Shorts",
+      "published": "2026-10-25T07:25:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/zCsgklXqB0s/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "tKiPt1SXh6I",
+      "title": "Nilperi Şahinkaya'nın sevgili kriteri şaşırttı: \"Erkeğin ses tonuna bakarım\" #Shorts",
+      "published": "2026-10-25T07:25:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/tKiPt1SXh6I/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "0hk2M_Tag4U",
       "title": "Tom Skerritt kimdir, kaç yaşındaydı? Tom Skerritt neden öldü? Alien ve Top Gun'ın yıldızı hayatını k",
       "published": "2026-10-24T16:13:59Z",
       "thumbnail": "https://i.ytimg.com/vi/0hk2M_Tag4U/mqdefault.jpg",
-      "views": 128,
+      "views": 144,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1623,7 +1663,7 @@
       "title": "Meğer Çocukluktan Kalma Bir Numaraymış: Kıvanç Tatlıtuğ Göbeğini Nasıl Şişirdiğini Anlattı #Shorts",
       "published": "2026-10-24T16:13:45Z",
       "thumbnail": "https://i.ytimg.com/vi/iE2-7uS346M/mqdefault.jpg",
-      "views": 983,
+      "views": 989,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1634,8 +1674,8 @@
       "title": "Iman Elbani 44 yaşında! Murat Yıldırım'dan eşine romantik kutlama #Shorts",
       "published": "2026-10-24T11:25:09Z",
       "thumbnail": "https://i.ytimg.com/vi/EoDyOdZhChs/mqdefault.jpg",
-      "views": 581,
-      "likes": 11,
+      "views": 631,
+      "likes": 12,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1645,7 +1685,7 @@
       "title": "90’ların unutulmaz ismi Tayfun Duygulu İstanbul'u terk etti! Manzaralı lüks villası hayran bıraktı -",
       "published": "2026-10-24T07:01:53Z",
       "thumbnail": "https://i.ytimg.com/vi/iren90w-scI/mqdefault.jpg",
-      "views": 517,
+      "views": 540,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1656,7 +1696,7 @@
       "title": "Hakkı Bulut sahnede fenalaştı: Hastaneye kaldırıldı #Shorts",
       "published": "2026-10-24T07:01:40Z",
       "thumbnail": "https://i.ytimg.com/vi/vMkd0NVHX_U/mqdefault.jpg",
-      "views": 653,
+      "views": 691,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1667,7 +1707,7 @@
       "title": "Game of Thrones'un Ser Alliser'ı İstanbul'da: Şerefiye Sarnıcı'nda Karşılaştığı Sürpriz Gözlerini Do",
       "published": "2026-10-23T17:26:04Z",
       "thumbnail": "https://i.ytimg.com/vi/l-g-9P8hxQs/mqdefault.jpg",
-      "views": 761,
+      "views": 807,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1678,7 +1718,7 @@
       "title": "Düğünleri Günlerce Konuşulmuştu! Itır Esen ve Eşi Engin Aykanat'ın Boy Farkı Sosyal Medyada Gündem O",
       "published": "2026-10-23T17:25:59Z",
       "thumbnail": "https://i.ytimg.com/vi/cTc4nHJ8xOQ/mqdefault.jpg",
-      "views": 941,
+      "views": 942,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1689,7 +1729,7 @@
       "title": "Son Dakika: Ünlülere uyuşturucu soruşturması! Yönetmen Ezel Akay'ın test sonucu belli oldu #Shorts",
       "published": "2026-10-23T11:56:30Z",
       "thumbnail": "https://i.ytimg.com/vi/iaZL9kZoUiM/mqdefault.jpg",
-      "views": 542,
+      "views": 570,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1700,7 +1740,7 @@
       "title": "Yönetmen Ezel Akay ve tutuklu kardeşinin uyuşturucu testleri pozitif çıktı #Shorts",
       "published": "2026-10-23T11:56:22Z",
       "thumbnail": "https://i.ytimg.com/vi/ykXP81jvCyI/mqdefault.jpg",
-      "views": 160,
+      "views": 161,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1711,7 +1751,7 @@
       "title": "Birkan Nasuhoğlu’ndan Dilan Çiçek Deniz’e aşk dolu mesaj: Oy kurban olduğum #Shorts",
       "published": "2026-10-23T07:12:15Z",
       "thumbnail": "https://i.ytimg.com/vi/meT28-Fkqf0/mqdefault.jpg",
-      "views": 112,
+      "views": 113,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1766,7 +1806,7 @@
       "title": "Çağatay Ulusoy’la küslük sona mı erdi? Kıvanç Tatlıtuğ’dan iddialara alaycı yanıt… #Shorts",
       "published": "2026-10-22T07:21:34Z",
       "thumbnail": "https://i.ytimg.com/vi/M_7vjWluGcw/mqdefault.jpg",
-      "views": 844,
+      "views": 846,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1777,7 +1817,7 @@
       "title": "Manifest'in Kurucusu Tolga Akış Hakkında Yeni Gelişme: İstenen Ceza Belli Oldu! #Shorts",
       "published": "2026-10-21T17:38:32Z",
       "thumbnail": "https://i.ytimg.com/vi/NXTAVaEbf48/mqdefault.jpg",
-      "views": 954,
+      "views": 953,
       "likes": 6,
       "comments": 3,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1804,29 +1844,7 @@
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "aBV9y9HAwgI",
-      "title": "Zeynep Çamcı anne oldu! Oğlunun adını Can koydu #Shorts",
-      "published": "2026-10-21T07:17:28Z",
-      "thumbnail": "https://i.ytimg.com/vi/aBV9y9HAwgI/mqdefault.jpg",
-      "views": 635,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "9suYZJBZb0s",
-      "title": "Serhan Kerim Adalı kimdir, kimin oğlu? Rabia Soytürk'ün sevgilisi Serhan Kerim Adalı ne iş yapıyor?",
-      "published": "2026-10-20T17:29:44Z",
-      "thumbnail": "https://i.ytimg.com/vi/9suYZJBZb0s/mqdefault.jpg",
-      "views": 304,
-      "likes": 1,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-25T03:26:15Z"
+  "lastUpdated": "2026-10-25T08:39:43Z"
 }
