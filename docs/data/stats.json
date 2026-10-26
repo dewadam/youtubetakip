@@ -484,10 +484,16 @@
           "subs": 13,
           "views": 31098,
           "videos": 59
+        },
+        {
+          "ts": "2026-10-26T00:23:29Z",
+          "subs": 13,
+          "views": 31098,
+          "videos": 59
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-25T22:04:15Z",
+        "ts": "2026-10-26T00:23:29Z",
         "subs": 13,
         "views": 31098,
         "videos": 59
@@ -1019,13 +1025,19 @@
           "subs": 2,
           "views": 5571,
           "videos": 17
+        },
+        {
+          "ts": "2026-10-26T00:23:29Z",
+          "subs": 2,
+          "views": 5571,
+          "videos": 18
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-25T22:04:15Z",
+        "ts": "2026-10-26T00:23:29Z",
         "subs": 2,
         "views": 5571,
-        "videos": 17
+        "videos": 18
       }
     },
     "UC0faIhjf4Is3plnq0zEoQoQ": {
@@ -1488,10 +1500,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-26T00:23:29Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-25T22:04:15Z",
+        "ts": "2026-10-26T00:23:29Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -1500,11 +1518,22 @@
   },
   "videos": [
     {
+      "videoId": "d8gtTqsxSZw",
+      "title": "26 Ekim güncel akaryakıt fiyatları #Shorts",
+      "published": "2026-10-25T23:45:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/d8gtTqsxSZw/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "channelTitle": "Yol Masrafı"
+    },
+    {
       "videoId": "7CCML07C_dM",
       "title": "25 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-24T23:58:16Z",
       "thumbnail": "https://i.ytimg.com/vi/7CCML07C_dM/mqdefault.jpg",
-      "views": 172,
+      "views": 335,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1515,7 +1544,7 @@
       "title": "24 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-24T00:13:36Z",
       "thumbnail": "https://i.ytimg.com/vi/gTyC5_g8J28/mqdefault.jpg",
-      "views": 179,
+      "views": 210,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1526,7 +1555,7 @@
       "title": "23 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-23T00:22:56Z",
       "thumbnail": "https://i.ytimg.com/vi/tJqzyR_YUcc/mqdefault.jpg",
-      "views": 584,
+      "views": 586,
       "likes": 1,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1702,7 +1731,7 @@
       "title": "Engin Altan Düzyatan babasını son yolculuğuna uğurladı! Cenazeye sanat ve siyaset dünyasından çok sa",
       "published": "2026-10-25T16:46:01Z",
       "thumbnail": "https://i.ytimg.com/vi/_dGJpUpbey0/mqdefault.jpg",
-      "views": 687,
+      "views": 962,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1713,7 +1742,7 @@
       "title": "Oyuncu İpek Karapınar anne oldu: Minik oğlunu kucağına aldı! İsim tercihi çok beğenildi... #Shorts",
       "published": "2026-10-25T16:45:59Z",
       "thumbnail": "https://i.ytimg.com/vi/jsIUGWP0yzQ/mqdefault.jpg",
-      "views": 566,
+      "views": 755,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1724,7 +1753,7 @@
       "title": "Mustafa Sandal'ın eşi Melis Sütşurup'tan fon karları için iade başvurusu #Shorts",
       "published": "2026-10-25T11:55:40Z",
       "thumbnail": "https://i.ytimg.com/vi/HY5c6vWQ3Pw/mqdefault.jpg",
-      "views": 339,
+      "views": 265,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1735,7 +1764,7 @@
       "title": "Şarkıcı Nev son yolculuğuna uğurlanıyor! Tabutu başında gözyaşları sel oldu... #Shorts",
       "published": "2026-10-25T11:55:31Z",
       "thumbnail": "https://i.ytimg.com/vi/T5mLMSrhIHg/mqdefault.jpg",
-      "views": 154,
+      "views": 163,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1746,7 +1775,7 @@
       "title": "Oyuncu Nilperi Şahinkaya: Yakışıklı olması önemli değil, ses tonu daha önemli #Shorts",
       "published": "2026-10-25T07:25:13Z",
       "thumbnail": "https://i.ytimg.com/vi/zCsgklXqB0s/mqdefault.jpg",
-      "views": 118,
+      "views": 120,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1757,7 +1786,7 @@
       "title": "Nilperi Şahinkaya'nın sevgili kriteri şaşırttı: \"Erkeğin ses tonuna bakarım\" #Shorts",
       "published": "2026-10-25T07:25:01Z",
       "thumbnail": "https://i.ytimg.com/vi/tKiPt1SXh6I/mqdefault.jpg",
-      "views": 154,
+      "views": 155,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1768,7 +1797,7 @@
       "title": "Tom Skerritt kimdir, kaç yaşındaydı? Tom Skerritt neden öldü? Alien ve Top Gun'ın yıldızı hayatını k",
       "published": "2026-10-24T16:13:59Z",
       "thumbnail": "https://i.ytimg.com/vi/0hk2M_Tag4U/mqdefault.jpg",
-      "views": 175,
+      "views": 168,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1779,7 +1808,7 @@
       "title": "Meğer Çocukluktan Kalma Bir Numaraymış: Kıvanç Tatlıtuğ Göbeğini Nasıl Şişirdiğini Anlattı #Shorts",
       "published": "2026-10-24T16:13:45Z",
       "thumbnail": "https://i.ytimg.com/vi/iE2-7uS346M/mqdefault.jpg",
-      "views": 1004,
+      "views": 1008,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1790,7 +1819,7 @@
       "title": "Iman Elbani 44 yaşında! Murat Yıldırım'dan eşine romantik kutlama #Shorts",
       "published": "2026-10-24T11:25:09Z",
       "thumbnail": "https://i.ytimg.com/vi/EoDyOdZhChs/mqdefault.jpg",
-      "views": 930,
+      "views": 933,
       "likes": 12,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1801,7 +1830,7 @@
       "title": "90’ların unutulmaz ismi Tayfun Duygulu İstanbul'u terk etti! Manzaralı lüks villası hayran bıraktı -",
       "published": "2026-10-24T07:01:53Z",
       "thumbnail": "https://i.ytimg.com/vi/iren90w-scI/mqdefault.jpg",
-      "views": 664,
+      "views": 694,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1812,7 +1841,7 @@
       "title": "Hakkı Bulut sahnede fenalaştı: Hastaneye kaldırıldı #Shorts",
       "published": "2026-10-24T07:01:40Z",
       "thumbnail": "https://i.ytimg.com/vi/vMkd0NVHX_U/mqdefault.jpg",
-      "views": 956,
+      "views": 957,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1823,7 +1852,7 @@
       "title": "Game of Thrones'un Ser Alliser'ı İstanbul'da: Şerefiye Sarnıcı'nda Karşılaştığı Sürpriz Gözlerini Do",
       "published": "2026-10-23T17:26:04Z",
       "thumbnail": "https://i.ytimg.com/vi/l-g-9P8hxQs/mqdefault.jpg",
-      "views": 924,
+      "views": 923,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1834,7 +1863,7 @@
       "title": "Düğünleri Günlerce Konuşulmuştu! Itır Esen ve Eşi Engin Aykanat'ın Boy Farkı Sosyal Medyada Gündem O",
       "published": "2026-10-23T17:25:59Z",
       "thumbnail": "https://i.ytimg.com/vi/cTc4nHJ8xOQ/mqdefault.jpg",
-      "views": 951,
+      "views": 952,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1911,12 +1940,12 @@
       "title": "İki Hamile Bir Araya Geldi: Gökçe Bahadır ve Merve Dizdar Aynı Kutlamada Buluştu! #Shorts",
       "published": "2026-10-22T07:21:51Z",
       "thumbnail": "https://i.ytimg.com/vi/xfSLVp9kJm4/mqdefault.jpg",
-      "views": 876,
+      "views": 877,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-25T22:04:15Z"
+  "lastUpdated": "2026-10-26T00:23:29Z"
 }
