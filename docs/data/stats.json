@@ -490,10 +490,16 @@
           "subs": 13,
           "views": 31098,
           "videos": 59
+        },
+        {
+          "ts": "2026-10-26T05:08:49Z",
+          "subs": 13,
+          "views": 31098,
+          "videos": 59
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-26T00:23:29Z",
+        "ts": "2026-10-26T05:08:49Z",
         "subs": 13,
         "views": 31098,
         "videos": 59
@@ -1031,10 +1037,16 @@
           "subs": 2,
           "views": 5571,
           "videos": 18
+        },
+        {
+          "ts": "2026-10-26T05:08:49Z",
+          "subs": 2,
+          "views": 5571,
+          "videos": 18
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-26T00:23:29Z",
+        "ts": "2026-10-26T05:08:49Z",
         "subs": 2,
         "views": 5571,
         "videos": 18
@@ -1506,10 +1518,16 @@
           "subs": 0,
           "views": 3,
           "videos": 1
+        },
+        {
+          "ts": "2026-10-26T05:08:49Z",
+          "subs": 0,
+          "views": 3,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-26T00:23:29Z",
+        "ts": "2026-10-26T05:08:49Z",
         "subs": 0,
         "views": 3,
         "videos": 1
@@ -1522,7 +1540,7 @@
       "title": "26 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-25T23:45:26Z",
       "thumbnail": "https://i.ytimg.com/vi/d8gtTqsxSZw/mqdefault.jpg",
-      "views": 0,
+      "views": 4,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1533,7 +1551,7 @@
       "title": "25 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-24T23:58:16Z",
       "thumbnail": "https://i.ytimg.com/vi/7CCML07C_dM/mqdefault.jpg",
-      "views": 335,
+      "views": 365,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1544,7 +1562,7 @@
       "title": "24 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-24T00:13:36Z",
       "thumbnail": "https://i.ytimg.com/vi/gTyC5_g8J28/mqdefault.jpg",
-      "views": 210,
+      "views": 215,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1731,7 +1749,7 @@
       "title": "Engin Altan Düzyatan babasını son yolculuğuna uğurladı! Cenazeye sanat ve siyaset dünyasından çok sa",
       "published": "2026-10-25T16:46:01Z",
       "thumbnail": "https://i.ytimg.com/vi/_dGJpUpbey0/mqdefault.jpg",
-      "views": 962,
+      "views": 967,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1742,7 +1760,7 @@
       "title": "Oyuncu İpek Karapınar anne oldu: Minik oğlunu kucağına aldı! İsim tercihi çok beğenildi... #Shorts",
       "published": "2026-10-25T16:45:59Z",
       "thumbnail": "https://i.ytimg.com/vi/jsIUGWP0yzQ/mqdefault.jpg",
-      "views": 755,
+      "views": 837,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1753,7 +1771,7 @@
       "title": "Mustafa Sandal'ın eşi Melis Sütşurup'tan fon karları için iade başvurusu #Shorts",
       "published": "2026-10-25T11:55:40Z",
       "thumbnail": "https://i.ytimg.com/vi/HY5c6vWQ3Pw/mqdefault.jpg",
-      "views": 265,
+      "views": 421,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1764,8 +1782,8 @@
       "title": "Şarkıcı Nev son yolculuğuna uğurlanıyor! Tabutu başında gözyaşları sel oldu... #Shorts",
       "published": "2026-10-25T11:55:31Z",
       "thumbnail": "https://i.ytimg.com/vi/T5mLMSrhIHg/mqdefault.jpg",
-      "views": 163,
-      "likes": 1,
+      "views": 173,
+      "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1775,7 +1793,7 @@
       "title": "Oyuncu Nilperi Şahinkaya: Yakışıklı olması önemli değil, ses tonu daha önemli #Shorts",
       "published": "2026-10-25T07:25:13Z",
       "thumbnail": "https://i.ytimg.com/vi/zCsgklXqB0s/mqdefault.jpg",
-      "views": 120,
+      "views": 121,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1797,7 +1815,7 @@
       "title": "Tom Skerritt kimdir, kaç yaşındaydı? Tom Skerritt neden öldü? Alien ve Top Gun'ın yıldızı hayatını k",
       "published": "2026-10-24T16:13:59Z",
       "thumbnail": "https://i.ytimg.com/vi/0hk2M_Tag4U/mqdefault.jpg",
-      "views": 168,
+      "views": 190,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1808,7 +1826,7 @@
       "title": "Meğer Çocukluktan Kalma Bir Numaraymış: Kıvanç Tatlıtuğ Göbeğini Nasıl Şişirdiğini Anlattı #Shorts",
       "published": "2026-10-24T16:13:45Z",
       "thumbnail": "https://i.ytimg.com/vi/iE2-7uS346M/mqdefault.jpg",
-      "views": 1008,
+      "views": 1024,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1830,7 +1848,7 @@
       "title": "90’ların unutulmaz ismi Tayfun Duygulu İstanbul'u terk etti! Manzaralı lüks villası hayran bıraktı -",
       "published": "2026-10-24T07:01:53Z",
       "thumbnail": "https://i.ytimg.com/vi/iren90w-scI/mqdefault.jpg",
-      "views": 694,
+      "views": 734,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1841,7 +1859,7 @@
       "title": "Hakkı Bulut sahnede fenalaştı: Hastaneye kaldırıldı #Shorts",
       "published": "2026-10-24T07:01:40Z",
       "thumbnail": "https://i.ytimg.com/vi/vMkd0NVHX_U/mqdefault.jpg",
-      "views": 957,
+      "views": 958,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1852,7 +1870,7 @@
       "title": "Game of Thrones'un Ser Alliser'ı İstanbul'da: Şerefiye Sarnıcı'nda Karşılaştığı Sürpriz Gözlerini Do",
       "published": "2026-10-23T17:26:04Z",
       "thumbnail": "https://i.ytimg.com/vi/l-g-9P8hxQs/mqdefault.jpg",
-      "views": 923,
+      "views": 936,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1863,7 +1881,7 @@
       "title": "Düğünleri Günlerce Konuşulmuştu! Itır Esen ve Eşi Engin Aykanat'ın Boy Farkı Sosyal Medyada Gündem O",
       "published": "2026-10-23T17:25:59Z",
       "thumbnail": "https://i.ytimg.com/vi/cTc4nHJ8xOQ/mqdefault.jpg",
-      "views": 952,
+      "views": 956,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1947,5 +1965,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-26T00:23:29Z"
+  "lastUpdated": "2026-10-26T05:08:49Z"
 }
