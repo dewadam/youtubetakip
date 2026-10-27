@@ -532,13 +532,19 @@
           "subs": 14,
           "views": 36831,
           "videos": 65
+        },
+        {
+          "ts": "2026-10-27T18:18:37Z",
+          "subs": 16,
+          "views": 36831,
+          "videos": 68
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-27T12:33:50Z",
-        "subs": 14,
+        "ts": "2026-10-27T18:18:37Z",
+        "subs": 16,
         "views": 36831,
-        "videos": 65
+        "videos": 68
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -1115,11 +1121,17 @@
           "subs": 2,
           "views": 6128,
           "videos": 18
+        },
+        {
+          "ts": "2026-10-27T18:18:37Z",
+          "subs": 3,
+          "views": 6128,
+          "videos": 18
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-27T12:33:50Z",
-        "subs": 2,
+        "ts": "2026-10-27T18:18:37Z",
+        "subs": 3,
         "views": 6128,
         "videos": 18
       }
@@ -1632,10 +1644,16 @@
           "subs": 0,
           "views": 4,
           "videos": 2
+        },
+        {
+          "ts": "2026-10-27T18:18:37Z",
+          "subs": 0,
+          "views": 4,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-27T12:33:50Z",
+        "ts": "2026-10-27T18:18:37Z",
         "subs": 0,
         "views": 4,
         "videos": 2
@@ -1648,7 +1666,7 @@
       "title": "26 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-25T23:45:26Z",
       "thumbnail": "https://i.ytimg.com/vi/d8gtTqsxSZw/mqdefault.jpg",
-      "views": 62,
+      "views": 136,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1659,7 +1677,7 @@
       "title": "25 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-24T23:58:16Z",
       "thumbnail": "https://i.ytimg.com/vi/7CCML07C_dM/mqdefault.jpg",
-      "views": 462,
+      "views": 461,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1725,7 +1743,7 @@
       "title": "19 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-18T23:54:22Z",
       "thumbnail": "https://i.ytimg.com/vi/6BhwZI1QLpE/mqdefault.jpg",
-      "views": 60,
+      "views": 61,
       "likes": 1,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1736,7 +1754,7 @@
       "title": "18 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-17T23:45:00Z",
       "thumbnail": "https://i.ytimg.com/vi/Ta5xmBQobbs/mqdefault.jpg",
-      "views": 635,
+      "views": 637,
       "likes": 1,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1846,7 +1864,7 @@
       "title": "Hayvan Dostlarım 🐮🦆 | Türkçe Çocuk Şarkısı",
       "published": "2026-10-26T21:26:58Z",
       "thumbnail": "https://i.ytimg.com/vi/veNf0lsDXDE/mqdefault.jpg",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "channelId": "UC0faIhjf4Is3plnq0zEoQoQ",
@@ -1864,12 +1882,56 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "GVqcHRka_zc",
+      "title": "Oğuzhan Koç’la ne zaman evlenecek? Hazal Subaşı’ndan olay ’evlilik’ yanıtı: Biraz fazla yoğunuz #Sho",
+      "published": "2026-10-27T18:18:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/GVqcHRka_zc/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "sgsfVn9j7b0",
+      "title": "Şöhretin en güzel hali! Şov dünyasını elinin tersiyle itmişti: Gamze Özçelik’in hayatlara dokunan ha",
+      "published": "2026-10-27T18:18:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/sgsfVn9j7b0/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "3L6eYVE2Qw0",
+      "title": "Murat Evgin’den Nev’in ardından dikkat çeken sözler: 'Keşke yaşarken bu değeri görseydi' #Shorts",
+      "published": "2026-10-27T12:34:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/3L6eYVE2Qw0/mqdefault.jpg",
+      "views": 66,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "rhPkF5FtG4Y",
+      "title": "Serenay Sarıkaya'dan spor sonrası paylaşım! \"Antrenman böyle bitti\" notu dikkat çekti #Shorts",
+      "published": "2026-10-27T12:34:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/rhPkF5FtG4Y/mqdefault.jpg",
+      "views": 243,
+      "likes": 2,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "JtAReVaONOc",
       "title": "Ayşegül Aldinç, Fişekhane konserinde 2 saat sahnede kalıp anılarını anlattı #Shorts",
       "published": "2026-10-27T07:37:53Z",
       "thumbnail": "https://i.ytimg.com/vi/JtAReVaONOc/mqdefault.jpg",
-      "views": 86,
-      "likes": 0,
+      "views": 272,
+      "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1879,8 +1941,8 @@
       "title": "Çocuklar Duymasın'ın Havuç'u Furkan Kızılay Sakarya'da Trafik Kazasına Karıştı! #Shorts",
       "published": "2026-10-27T07:37:43Z",
       "thumbnail": "https://i.ytimg.com/vi/Fw5oJVHt1Qg/mqdefault.jpg",
-      "views": 200,
-      "likes": 1,
+      "views": 583,
+      "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -1890,7 +1952,7 @@
       "title": "12 Yıllık Evliliğini Bitiren Güven Kıraç Kendisinden 35 Yaş Küçük Sevgilisiyle Sessiz Sedasız Evlend",
       "published": "2026-10-26T13:52:49Z",
       "thumbnail": "https://i.ytimg.com/vi/nxu1yjJiYLI/mqdefault.jpg",
-      "views": 925,
+      "views": 927,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1901,7 +1963,7 @@
       "title": "Ünlü boksör Mike Tyson'a İstanbul'da derbi soruldu: Sadece Brezilya ve Arjantin'i takip ediyorum #Sh",
       "published": "2026-10-26T13:52:46Z",
       "thumbnail": "https://i.ytimg.com/vi/sKU4mrsFF8E/mqdefault.jpg",
-      "views": 228,
+      "views": 258,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1912,7 +1974,7 @@
       "title": "Müzisyen Nev son yolculuğuna uğurlandı; sınıf arkadaşı Süleyman Soylu da cenaze törenine katıldı #Sh",
       "published": "2026-10-26T07:35:20Z",
       "thumbnail": "https://i.ytimg.com/vi/oVl-guyPEW8/mqdefault.jpg",
-      "views": 489,
+      "views": 523,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1923,7 +1985,7 @@
       "title": "Hande Erçel’in yürek burkan anne özlemi! 2019 yılında kansere yenik düşen Aylin Erçel doğum gününde",
       "published": "2026-10-26T07:35:16Z",
       "thumbnail": "https://i.ytimg.com/vi/GB-TEC3PJ-w/mqdefault.jpg",
-      "views": 928,
+      "views": 930,
       "likes": 10,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1934,7 +1996,7 @@
       "title": "Engin Altan Düzyatan babasını son yolculuğuna uğurladı! Cenazeye sanat ve siyaset dünyasından çok sa",
       "published": "2026-10-25T16:46:01Z",
       "thumbnail": "https://i.ytimg.com/vi/_dGJpUpbey0/mqdefault.jpg",
-      "views": 1026,
+      "views": 1027,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1945,7 +2007,7 @@
       "title": "Oyuncu İpek Karapınar anne oldu: Minik oğlunu kucağına aldı! İsim tercihi çok beğenildi... #Shorts",
       "published": "2026-10-25T16:45:59Z",
       "thumbnail": "https://i.ytimg.com/vi/jsIUGWP0yzQ/mqdefault.jpg",
-      "views": 942,
+      "views": 1007,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -1956,7 +2018,7 @@
       "title": "Mustafa Sandal'ın eşi Melis Sütşurup'tan fon karları için iade başvurusu #Shorts",
       "published": "2026-10-25T11:55:40Z",
       "thumbnail": "https://i.ytimg.com/vi/HY5c6vWQ3Pw/mqdefault.jpg",
-      "views": 669,
+      "views": 674,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2022,7 +2084,7 @@
       "title": "Iman Elbani 44 yaşında! Murat Yıldırım'dan eşine romantik kutlama #Shorts",
       "published": "2026-10-24T11:25:09Z",
       "thumbnail": "https://i.ytimg.com/vi/EoDyOdZhChs/mqdefault.jpg",
-      "views": 987,
+      "views": 988,
       "likes": 12,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2038,51 +2100,7 @@
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "vMkd0NVHX_U",
-      "title": "Hakkı Bulut sahnede fenalaştı: Hastaneye kaldırıldı #Shorts",
-      "published": "2026-10-24T07:01:40Z",
-      "thumbnail": "https://i.ytimg.com/vi/vMkd0NVHX_U/mqdefault.jpg",
-      "views": 995,
-      "likes": 4,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "l-g-9P8hxQs",
-      "title": "Game of Thrones'un Ser Alliser'ı İstanbul'da: Şerefiye Sarnıcı'nda Karşılaştığı Sürpriz Gözlerini Do",
-      "published": "2026-10-23T17:26:04Z",
-      "thumbnail": "https://i.ytimg.com/vi/l-g-9P8hxQs/mqdefault.jpg",
-      "views": 963,
-      "likes": 4,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "cTc4nHJ8xOQ",
-      "title": "Düğünleri Günlerce Konuşulmuştu! Itır Esen ve Eşi Engin Aykanat'ın Boy Farkı Sosyal Medyada Gündem O",
-      "published": "2026-10-23T17:25:59Z",
-      "thumbnail": "https://i.ytimg.com/vi/cTc4nHJ8xOQ/mqdefault.jpg",
-      "views": 959,
-      "likes": 6,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "iaZL9kZoUiM",
-      "title": "Son Dakika: Ünlülere uyuşturucu soruşturması! Yönetmen Ezel Akay'ın test sonucu belli oldu #Shorts",
-      "published": "2026-10-23T11:56:30Z",
-      "thumbnail": "https://i.ytimg.com/vi/iaZL9kZoUiM/mqdefault.jpg",
-      "views": 590,
-      "likes": 1,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-27T12:33:50Z"
+  "lastUpdated": "2026-10-27T18:18:37Z"
 }
