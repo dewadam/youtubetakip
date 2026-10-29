@@ -586,13 +586,19 @@
           "subs": 18,
           "views": 41892,
           "videos": 77
+        },
+        {
+          "ts": "2026-10-29T17:26:03Z",
+          "subs": 19,
+          "views": 44028,
+          "videos": 78
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-29T11:06:55Z",
-        "subs": 18,
-        "views": 41892,
-        "videos": 77
+        "ts": "2026-10-29T17:26:03Z",
+        "subs": 19,
+        "views": 44028,
+        "videos": 78
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -1223,12 +1229,18 @@
           "subs": 3,
           "views": 6477,
           "videos": 20
+        },
+        {
+          "ts": "2026-10-29T17:26:03Z",
+          "subs": 3,
+          "views": 6554,
+          "videos": 20
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-29T11:06:55Z",
+        "ts": "2026-10-29T17:26:03Z",
         "subs": 3,
-        "views": 6477,
+        "views": 6554,
         "videos": 20
       }
     },
@@ -1794,10 +1806,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-10-29T17:26:03Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-29T11:06:55Z",
+        "ts": "2026-10-29T17:26:03Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -1810,7 +1828,7 @@
       "title": "29 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-29T01:32:06Z",
       "thumbnail": "https://i.ytimg.com/vi/wNHvZB7xZH0/mqdefault.jpg",
-      "views": 56,
+      "views": 142,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1821,7 +1839,7 @@
       "title": "Motorine zam! 28 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-28T00:56:54Z",
       "thumbnail": "https://i.ytimg.com/vi/TLQenyD7Nm0/mqdefault.jpg",
-      "views": 204,
+      "views": 282,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2048,11 +2066,33 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "dlmqqs8LSOA",
+      "title": "\"Kösem\" Beren Saat ile \"Sultan Ahmet\" Ekin Koç 10 Yıl Sonra Aynı Filmde Buluşuyor #Shorts",
+      "published": "2026-10-29T13:31:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/dlmqqs8LSOA/mqdefault.jpg",
+      "views": 379,
+      "likes": 6,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "_u3QiBnFhjY",
+      "title": "Gamze Erçel'e Sürpriz Baby Shower: Pembe Konsept ve Çiçeklerle Süslenen Kutlamaya Ünlüler Akın Etti!",
+      "published": "2026-10-29T13:31:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/_u3QiBnFhjY/mqdefault.jpg",
+      "views": 607,
+      "likes": 2,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "5oUOaSDpD90",
       "title": "Cenazesinde El Ele Vermişlerdi: Friends Ekibinin Matthew Perry Belgeselinde Neden Yer Almadığı Belli",
       "published": "2026-10-29T08:14:28Z",
       "thumbnail": "https://i.ytimg.com/vi/5oUOaSDpD90/mqdefault.jpg",
-      "views": 15,
+      "views": 53,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2063,8 +2103,8 @@
       "title": "Doğa Rutkay Kamal’dan dikkat çeken itiraf: Eşimi çok kıskanırım #Shorts",
       "published": "2026-10-29T08:14:14Z",
       "thumbnail": "https://i.ytimg.com/vi/7npdcTLvqEU/mqdefault.jpg",
-      "views": 291,
-      "likes": 1,
+      "views": 977,
+      "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -2074,7 +2114,7 @@
       "title": "Şebnem Dönmez: Projelerim Olunca Konuşmayı Seviyorum #Shorts",
       "published": "2026-10-28T18:30:57Z",
       "thumbnail": "https://i.ytimg.com/vi/DKiBFa1MZ_g/mqdefault.jpg",
-      "views": 983,
+      "views": 982,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2085,7 +2125,7 @@
       "title": "Yönetmeni yanıtladı: Matthew Perry belgeselinde Friends yıldızları neden yok? #Shorts",
       "published": "2026-10-28T18:30:53Z",
       "thumbnail": "https://i.ytimg.com/vi/qpkDGjxRh7w/mqdefault.jpg",
-      "views": 54,
+      "views": 59,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2096,7 +2136,7 @@
       "title": "Edebiyat Klasiği Sinemaya Taşınıyor: \"Kürk Mantolu Madonna\" Filminde Maria Puder Rolünü Kim Canlandı",
       "published": "2026-10-28T13:22:30Z",
       "thumbnail": "https://i.ytimg.com/vi/RTv4lmth9vU/mqdefault.jpg",
-      "views": 141,
+      "views": 142,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2107,7 +2147,7 @@
       "title": "Kendall Jenner'ın Eski Aşkı NBA Yıldızı Devin Booker’dan Hande Erçel'e Sürpriz Hamle #Shorts",
       "published": "2026-10-28T13:22:30Z",
       "thumbnail": "https://i.ytimg.com/vi/d4-fmYOct7A/mqdefault.jpg",
-      "views": 937,
+      "views": 941,
       "likes": 9,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2118,7 +2158,7 @@
       "title": "Eşini öpmelere doyamadı! Başak Dizer eşi Kıvanç Tatlıtuğ’un doğum gününü kutladı: İyi ki doğdun Aşk!",
       "published": "2026-10-28T08:04:31Z",
       "thumbnail": "https://i.ytimg.com/vi/AKRZynK5RAA/mqdefault.jpg",
-      "views": 27,
+      "views": 28,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2140,7 +2180,7 @@
       "title": "Oğuzhan Koç’la ne zaman evlenecek? Hazal Subaşı’ndan olay ’evlilik’ yanıtı: Biraz fazla yoğunuz #Sho",
       "published": "2026-10-27T18:18:30Z",
       "thumbnail": "https://i.ytimg.com/vi/GVqcHRka_zc/mqdefault.jpg",
-      "views": 234,
+      "views": 235,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2173,7 +2213,7 @@
       "title": "Serenay Sarıkaya'dan spor sonrası paylaşım! \"Antrenman böyle bitti\" notu dikkat çekti #Shorts",
       "published": "2026-10-27T12:34:15Z",
       "thumbnail": "https://i.ytimg.com/vi/rhPkF5FtG4Y/mqdefault.jpg",
-      "views": 707,
+      "views": 708,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2195,7 +2235,7 @@
       "title": "Çocuklar Duymasın'ın Havuç'u Furkan Kızılay Sakarya'da Trafik Kazasına Karıştı! #Shorts",
       "published": "2026-10-27T07:37:43Z",
       "thumbnail": "https://i.ytimg.com/vi/Fw5oJVHt1Qg/mqdefault.jpg",
-      "views": 948,
+      "views": 949,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2228,7 +2268,7 @@
       "title": "Müzisyen Nev son yolculuğuna uğurlandı; sınıf arkadaşı Süleyman Soylu da cenaze törenine katıldı #Sh",
       "published": "2026-10-26T07:35:20Z",
       "thumbnail": "https://i.ytimg.com/vi/oVl-guyPEW8/mqdefault.jpg",
-      "views": 612,
+      "views": 613,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2244,29 +2284,7 @@
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "_dGJpUpbey0",
-      "title": "Engin Altan Düzyatan babasını son yolculuğuna uğurladı! Cenazeye sanat ve siyaset dünyasından çok sa",
-      "published": "2026-10-25T16:46:01Z",
-      "thumbnail": "https://i.ytimg.com/vi/_dGJpUpbey0/mqdefault.jpg",
-      "views": 1035,
-      "likes": 6,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "jsIUGWP0yzQ",
-      "title": "Oyuncu İpek Karapınar anne oldu: Minik oğlunu kucağına aldı! İsim tercihi çok beğenildi... #Shorts",
-      "published": "2026-10-25T16:45:59Z",
-      "thumbnail": "https://i.ytimg.com/vi/jsIUGWP0yzQ/mqdefault.jpg",
-      "views": 1008,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-29T11:06:55Z"
+  "lastUpdated": "2026-10-29T17:26:03Z"
 }
