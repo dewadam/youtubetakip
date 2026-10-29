@@ -574,12 +574,18 @@
           "subs": 18,
           "views": 40022,
           "videos": 75
+        },
+        {
+          "ts": "2026-10-29T04:37:28Z",
+          "subs": 18,
+          "views": 41456,
+          "videos": 75
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-28T23:53:56Z",
+        "ts": "2026-10-29T04:37:28Z",
         "subs": 18,
-        "views": 40022,
+        "views": 41456,
         "videos": 75
       }
     },
@@ -1199,10 +1205,16 @@
           "subs": 3,
           "views": 6423,
           "videos": 19
+        },
+        {
+          "ts": "2026-10-29T04:37:28Z",
+          "subs": 3,
+          "views": 6423,
+          "videos": 19
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-28T23:53:56Z",
+        "ts": "2026-10-29T04:37:28Z",
         "subs": 3,
         "views": 6423,
         "videos": 19
@@ -1758,10 +1770,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-10-29T04:37:28Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-28T23:53:56Z",
+        "ts": "2026-10-29T04:37:28Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -1770,11 +1788,22 @@
   },
   "videos": [
     {
+      "videoId": "wNHvZB7xZH0",
+      "title": "29 Ekim güncel akaryakıt fiyatları #Shorts",
+      "published": "2026-10-29T01:32:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/wNHvZB7xZH0/mqdefault.jpg",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "channelTitle": "Yol Masrafı"
+    },
+    {
       "videoId": "TLQenyD7Nm0",
       "title": "Motorine zam! 28 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-28T00:56:54Z",
       "thumbnail": "https://i.ytimg.com/vi/TLQenyD7Nm0/mqdefault.jpg",
-      "views": 106,
+      "views": 111,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2005,7 +2034,7 @@
       "title": "Şebnem Dönmez: Projelerim Olunca Konuşmayı Seviyorum #Shorts",
       "published": "2026-10-28T18:30:57Z",
       "thumbnail": "https://i.ytimg.com/vi/DKiBFa1MZ_g/mqdefault.jpg",
-      "views": 978,
+      "views": 983,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2016,7 +2045,7 @@
       "title": "Yönetmeni yanıtladı: Matthew Perry belgeselinde Friends yıldızları neden yok? #Shorts",
       "published": "2026-10-28T18:30:53Z",
       "thumbnail": "https://i.ytimg.com/vi/qpkDGjxRh7w/mqdefault.jpg",
-      "views": 38,
+      "views": 52,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2038,7 +2067,7 @@
       "title": "Kendall Jenner'ın Eski Aşkı NBA Yıldızı Devin Booker’dan Hande Erçel'e Sürpriz Hamle #Shorts",
       "published": "2026-10-28T13:22:30Z",
       "thumbnail": "https://i.ytimg.com/vi/d4-fmYOct7A/mqdefault.jpg",
-      "views": 924,
+      "views": 932,
       "likes": 9,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2049,7 +2078,7 @@
       "title": "Eşini öpmelere doyamadı! Başak Dizer eşi Kıvanç Tatlıtuğ’un doğum gününü kutladı: İyi ki doğdun Aşk!",
       "published": "2026-10-28T08:04:31Z",
       "thumbnail": "https://i.ytimg.com/vi/AKRZynK5RAA/mqdefault.jpg",
-      "views": 18,
+      "views": 26,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2071,7 +2100,7 @@
       "title": "Oğuzhan Koç’la ne zaman evlenecek? Hazal Subaşı’ndan olay ’evlilik’ yanıtı: Biraz fazla yoğunuz #Sho",
       "published": "2026-10-27T18:18:30Z",
       "thumbnail": "https://i.ytimg.com/vi/GVqcHRka_zc/mqdefault.jpg",
-      "views": 232,
+      "views": 233,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2082,7 +2111,7 @@
       "title": "Şöhretin en güzel hali! Şov dünyasını elinin tersiyle itmişti: Gamze Özçelik’in hayatlara dokunan ha",
       "published": "2026-10-27T18:18:28Z",
       "thumbnail": "https://i.ytimg.com/vi/sgsfVn9j7b0/mqdefault.jpg",
-      "views": 343,
+      "views": 337,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2104,7 +2133,7 @@
       "title": "Serenay Sarıkaya'dan spor sonrası paylaşım! \"Antrenman böyle bitti\" notu dikkat çekti #Shorts",
       "published": "2026-10-27T12:34:15Z",
       "thumbnail": "https://i.ytimg.com/vi/rhPkF5FtG4Y/mqdefault.jpg",
-      "views": 704,
+      "views": 707,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2115,7 +2144,7 @@
       "title": "Ayşegül Aldinç, Fişekhane konserinde 2 saat sahnede kalıp anılarını anlattı #Shorts",
       "published": "2026-10-27T07:37:53Z",
       "thumbnail": "https://i.ytimg.com/vi/JtAReVaONOc/mqdefault.jpg",
-      "views": 975,
+      "views": 976,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2148,7 +2177,7 @@
       "title": "Ünlü boksör Mike Tyson'a İstanbul'da derbi soruldu: Sadece Brezilya ve Arjantin'i takip ediyorum #Sh",
       "published": "2026-10-26T13:52:46Z",
       "thumbnail": "https://i.ytimg.com/vi/sKU4mrsFF8E/mqdefault.jpg",
-      "views": 358,
+      "views": 356,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2181,7 +2210,7 @@
       "title": "Engin Altan Düzyatan babasını son yolculuğuna uğurladı! Cenazeye sanat ve siyaset dünyasından çok sa",
       "published": "2026-10-25T16:46:01Z",
       "thumbnail": "https://i.ytimg.com/vi/_dGJpUpbey0/mqdefault.jpg",
-      "views": 1033,
+      "views": 1034,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2221,5 +2250,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-28T23:53:56Z"
+  "lastUpdated": "2026-10-29T04:37:28Z"
 }
