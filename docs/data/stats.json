@@ -598,10 +598,16 @@
           "subs": 20,
           "views": 44028,
           "videos": 81
+        },
+        {
+          "ts": "2026-10-30T01:40:40Z",
+          "subs": 20,
+          "views": 44028,
+          "videos": 81
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-29T21:56:07Z",
+        "ts": "2026-10-30T01:40:40Z",
         "subs": 20,
         "views": 44028,
         "videos": 81
@@ -1247,13 +1253,19 @@
           "subs": 3,
           "views": 6554,
           "videos": 20
+        },
+        {
+          "ts": "2026-10-30T01:40:40Z",
+          "subs": 3,
+          "views": 6554,
+          "videos": 21
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-29T21:56:07Z",
+        "ts": "2026-10-30T01:40:40Z",
         "subs": 3,
         "views": 6554,
-        "videos": 20
+        "videos": 21
       }
     },
     "UC0faIhjf4Is3plnq0zEoQoQ": {
@@ -1830,10 +1842,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-10-30T01:40:40Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-29T21:56:07Z",
+        "ts": "2026-10-30T01:40:40Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -1842,11 +1860,22 @@
   },
   "videos": [
     {
+      "videoId": "Bs2TO2ZFC8k",
+      "title": "30 Ekim güncel akaryakıt fiyatları #Shorts",
+      "published": "2026-10-30T01:32:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/Bs2TO2ZFC8k/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "channelTitle": "Yol Masrafı"
+    },
+    {
       "videoId": "wNHvZB7xZH0",
       "title": "29 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-29T01:32:06Z",
       "thumbnail": "https://i.ytimg.com/vi/wNHvZB7xZH0/mqdefault.jpg",
-      "views": 172,
+      "views": 380,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1857,7 +1886,7 @@
       "title": "Motorine zam! 28 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-28T00:56:54Z",
       "thumbnail": "https://i.ytimg.com/vi/TLQenyD7Nm0/mqdefault.jpg",
-      "views": 348,
+      "views": 484,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2051,17 +2080,6 @@
       "channelTitle": "Yol Masrafı"
     },
     {
-      "videoId": "NAV-XPUvMQY",
-      "title": "Benzinde indirim ve Motorine zam! 10 Ekim akaryakıt fiyatları #Shorts",
-      "published": "2026-10-10T18:09:16Z",
-      "thumbnail": "https://i.ytimg.com/vi/NAV-XPUvMQY/mqdefault.jpg",
-      "views": 371,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
-      "channelTitle": "Yol Masrafı"
-    },
-    {
       "videoId": "veNf0lsDXDE",
       "title": "Hayvan Dostlarım 🐮🦆 | Türkçe Çocuk Şarkısı",
       "published": "2026-10-26T21:26:58Z",
@@ -2088,7 +2106,7 @@
       "title": "Doğa Rutkay Kamal’dan eşi Kerimcan Kamal itirafı! Kıskançlığını açık açık anlattı: O detayı da sakla",
       "published": "2026-10-29T18:40:36Z",
       "thumbnail": "https://i.ytimg.com/vi/c_cUIr2cU0o/mqdefault.jpg",
-      "views": 762,
+      "views": 1006,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2099,7 +2117,7 @@
       "title": "Güzelliği sınırları aştı! Kendall Jenner’ın eski sevgilisi Hande Erçel hayranı çıktı #Shorts",
       "published": "2026-10-29T18:40:32Z",
       "thumbnail": "https://i.ytimg.com/vi/C25TZn8nJTU/mqdefault.jpg",
-      "views": 753,
+      "views": 1008,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2110,7 +2128,7 @@
       "title": "\"Kösem\" Beren Saat ile \"Sultan Ahmet\" Ekin Koç 10 Yıl Sonra Aynı Filmde Buluşuyor #Shorts",
       "published": "2026-10-29T13:31:32Z",
       "thumbnail": "https://i.ytimg.com/vi/dlmqqs8LSOA/mqdefault.jpg",
-      "views": 969,
+      "views": 1010,
       "likes": 12,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2121,7 +2139,7 @@
       "title": "Gamze Erçel'e Sürpriz Baby Shower: Pembe Konsept ve Çiçeklerle Süslenen Kutlamaya Ünlüler Akın Etti!",
       "published": "2026-10-29T13:31:24Z",
       "thumbnail": "https://i.ytimg.com/vi/_u3QiBnFhjY/mqdefault.jpg",
-      "views": 877,
+      "views": 1031,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2132,7 +2150,7 @@
       "title": "Cenazesinde El Ele Vermişlerdi: Friends Ekibinin Matthew Perry Belgeselinde Neden Yer Almadığı Belli",
       "published": "2026-10-29T08:14:28Z",
       "thumbnail": "https://i.ytimg.com/vi/5oUOaSDpD90/mqdefault.jpg",
-      "views": 80,
+      "views": 131,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2143,7 +2161,7 @@
       "title": "Doğa Rutkay Kamal’dan dikkat çeken itiraf: Eşimi çok kıskanırım #Shorts",
       "published": "2026-10-29T08:14:14Z",
       "thumbnail": "https://i.ytimg.com/vi/7npdcTLvqEU/mqdefault.jpg",
-      "views": 985,
+      "views": 987,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2165,7 +2183,7 @@
       "title": "Yönetmeni yanıtladı: Matthew Perry belgeselinde Friends yıldızları neden yok? #Shorts",
       "published": "2026-10-28T18:30:53Z",
       "thumbnail": "https://i.ytimg.com/vi/qpkDGjxRh7w/mqdefault.jpg",
-      "views": 72,
+      "views": 84,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2187,7 +2205,7 @@
       "title": "Kendall Jenner'ın Eski Aşkı NBA Yıldızı Devin Booker’dan Hande Erçel'e Sürpriz Hamle #Shorts",
       "published": "2026-10-28T13:22:30Z",
       "thumbnail": "https://i.ytimg.com/vi/d4-fmYOct7A/mqdefault.jpg",
-      "views": 940,
+      "views": 945,
       "likes": 9,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2220,7 +2238,7 @@
       "title": "Oğuzhan Koç’la ne zaman evlenecek? Hazal Subaşı’ndan olay ’evlilik’ yanıtı: Biraz fazla yoğunuz #Sho",
       "published": "2026-10-27T18:18:30Z",
       "thumbnail": "https://i.ytimg.com/vi/GVqcHRka_zc/mqdefault.jpg",
-      "views": 236,
+      "views": 237,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2304,5 +2322,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-29T21:56:07Z"
+  "lastUpdated": "2026-10-30T01:40:40Z"
 }
