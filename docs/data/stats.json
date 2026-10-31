@@ -628,12 +628,18 @@
           "subs": 26,
           "views": 49420,
           "videos": 87
+        },
+        {
+          "ts": "2026-10-31T02:38:33Z",
+          "subs": 26,
+          "views": 52051,
+          "videos": 87
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-30T23:16:56Z",
+        "ts": "2026-10-31T02:38:33Z",
         "subs": 26,
-        "views": 49420,
+        "views": 52051,
         "videos": 87
       }
     },
@@ -1307,13 +1313,19 @@
           "subs": 4,
           "views": 7306,
           "videos": 21
+        },
+        {
+          "ts": "2026-10-31T02:38:33Z",
+          "subs": 4,
+          "views": 7306,
+          "videos": 22
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-30T23:16:56Z",
+        "ts": "2026-10-31T02:38:33Z",
         "subs": 4,
         "views": 7306,
-        "videos": 21
+        "videos": 22
       }
     },
     "UC0faIhjf4Is3plnq0zEoQoQ": {
@@ -1920,10 +1932,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-10-31T02:38:33Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-30T23:16:56Z",
+        "ts": "2026-10-31T02:38:33Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -1932,11 +1950,22 @@
   },
   "videos": [
     {
+      "videoId": "pZ_OeT0Wr7c",
+      "title": "31 Ekim güncel akaryakıt fiyatları #Shorts",
+      "published": "2026-10-31T01:25:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/pZ_OeT0Wr7c/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "channelTitle": "Yol Masrafı"
+    },
+    {
       "videoId": "Bs2TO2ZFC8k",
       "title": "30 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-30T01:32:04Z",
       "thumbnail": "https://i.ytimg.com/vi/Bs2TO2ZFC8k/mqdefault.jpg",
-      "views": 224,
+      "views": 288,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1947,7 +1976,7 @@
       "title": "29 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-29T01:32:06Z",
       "thumbnail": "https://i.ytimg.com/vi/wNHvZB7xZH0/mqdefault.jpg",
-      "views": 594,
+      "views": 664,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2141,17 +2170,6 @@
       "channelTitle": "Yol Masrafı"
     },
     {
-      "videoId": "qmtC1XdHKjs",
-      "title": "ZES ve Trugo şarj fiyatları: 10 Ekim AC ve DC kWh ücreti #Shorts",
-      "published": "2026-10-10T19:09:43Z",
-      "thumbnail": "https://i.ytimg.com/vi/qmtC1XdHKjs/mqdefault.jpg",
-      "views": 248,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
-      "channelTitle": "Yol Masrafı"
-    },
-    {
       "videoId": "veNf0lsDXDE",
       "title": "Hayvan Dostlarım 🐮🦆 | Türkçe Çocuk Şarkısı",
       "published": "2026-10-26T21:26:58Z",
@@ -2178,7 +2196,7 @@
       "title": "Star Trek'in Kaptan Jean-Luc Picard'ı, X-Men'in Profesör X'i: Ünlü oyuncu Patrick Stewart, 86 yaşınd",
       "published": "2026-10-30T18:13:26Z",
       "thumbnail": "https://i.ytimg.com/vi/cK3iwT51UZs/mqdefault.jpg",
-      "views": 25,
+      "views": 42,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2189,7 +2207,7 @@
       "title": "Game of Thrones'un Jaime Lannister'ı Hava Saldırısı Alarmında Kiev Metrosundaydı: Sığınaktaki Hali G",
       "published": "2026-10-30T18:13:09Z",
       "thumbnail": "https://i.ytimg.com/vi/CohRU7n72pk/mqdefault.jpg",
-      "views": 172,
+      "views": 222,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2211,7 +2229,7 @@
       "title": "Güller ve Günahlar 39.bölümüyle yayınlandı: Kanal D ile Güller ve Günahlar son bölüm izle #Shorts",
       "published": "2026-10-30T13:19:20Z",
       "thumbnail": "https://i.ytimg.com/vi/Ecckvy3zD-k/mqdefault.jpg",
-      "views": 455,
+      "views": 664,
       "likes": 10,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2222,7 +2240,7 @@
       "title": "Sinema dünyasından bir yıldız kaydı… Uzay Yolu efsanesi Patrick Stewart hayatını kaybetti #Shorts",
       "published": "2026-10-30T08:19:39Z",
       "thumbnail": "https://i.ytimg.com/vi/2V13JixLMe4/mqdefault.jpg",
-      "views": 91,
+      "views": 93,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2233,7 +2251,7 @@
       "title": "'Çukur'un Timsah Celil'i Meli Bendeli tahliye oldu: İlk açıklamasını yaptı #Shorts",
       "published": "2026-10-30T08:19:33Z",
       "thumbnail": "https://i.ytimg.com/vi/BgYD9-WMP7o/mqdefault.jpg",
-      "views": 619,
+      "views": 753,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2255,7 +2273,7 @@
       "title": "Güzelliği sınırları aştı! Kendall Jenner’ın eski sevgilisi Hande Erçel hayranı çıktı #Shorts",
       "published": "2026-10-29T18:40:32Z",
       "thumbnail": "https://i.ytimg.com/vi/C25TZn8nJTU/mqdefault.jpg",
-      "views": 1045,
+      "views": 1046,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2266,7 +2284,7 @@
       "title": "\"Kösem\" Beren Saat ile \"Sultan Ahmet\" Ekin Koç 10 Yıl Sonra Aynı Filmde Buluşuyor #Shorts",
       "published": "2026-10-29T13:31:32Z",
       "thumbnail": "https://i.ytimg.com/vi/dlmqqs8LSOA/mqdefault.jpg",
-      "views": 1059,
+      "views": 1060,
       "likes": 12,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2277,7 +2295,7 @@
       "title": "Gamze Erçel'e Sürpriz Baby Shower: Pembe Konsept ve Çiçeklerle Süslenen Kutlamaya Ünlüler Akın Etti!",
       "published": "2026-10-29T13:31:24Z",
       "thumbnail": "https://i.ytimg.com/vi/_u3QiBnFhjY/mqdefault.jpg",
-      "views": 1044,
+      "views": 1045,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2288,7 +2306,7 @@
       "title": "Cenazesinde El Ele Vermişlerdi: Friends Ekibinin Matthew Perry Belgeselinde Neden Yer Almadığı Belli",
       "published": "2026-10-29T08:14:28Z",
       "thumbnail": "https://i.ytimg.com/vi/5oUOaSDpD90/mqdefault.jpg",
-      "views": 231,
+      "views": 253,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2354,7 +2372,7 @@
       "title": "Eşini öpmelere doyamadı! Başak Dizer eşi Kıvanç Tatlıtuğ’un doğum gününü kutladı: İyi ki doğdun Aşk!",
       "published": "2026-10-28T08:04:31Z",
       "thumbnail": "https://i.ytimg.com/vi/AKRZynK5RAA/mqdefault.jpg",
-      "views": 36,
+      "views": 42,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2394,5 +2412,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-30T23:16:56Z"
+  "lastUpdated": "2026-10-31T02:38:33Z"
 }
