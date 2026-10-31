@@ -640,13 +640,19 @@
           "subs": 26,
           "views": 52051,
           "videos": 88
+        },
+        {
+          "ts": "2026-10-31T15:05:24Z",
+          "subs": 29,
+          "views": 52051,
+          "videos": 91
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-31T08:53:53Z",
-        "subs": 26,
+        "ts": "2026-10-31T15:05:24Z",
+        "subs": 29,
         "views": 52051,
-        "videos": 88
+        "videos": 91
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -1331,10 +1337,16 @@
           "subs": 4,
           "views": 7619,
           "videos": 22
+        },
+        {
+          "ts": "2026-10-31T15:05:24Z",
+          "subs": 4,
+          "views": 7619,
+          "videos": 22
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-31T08:53:53Z",
+        "ts": "2026-10-31T15:05:24Z",
         "subs": 4,
         "views": 7619,
         "videos": 22
@@ -1956,10 +1968,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-10-31T15:05:24Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-10-31T08:53:53Z",
+        "ts": "2026-10-31T15:05:24Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -1972,7 +1990,7 @@
       "title": "31 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-31T01:25:20Z",
       "thumbnail": "https://i.ytimg.com/vi/pZ_OeT0Wr7c/mqdefault.jpg",
-      "views": 27,
+      "views": 34,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -1983,7 +2001,7 @@
       "title": "30 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-30T01:32:04Z",
       "thumbnail": "https://i.ytimg.com/vi/Bs2TO2ZFC8k/mqdefault.jpg",
-      "views": 371,
+      "views": 506,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2005,7 +2023,7 @@
       "title": "Motorine zam! 28 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-28T00:56:54Z",
       "thumbnail": "https://i.ytimg.com/vi/TLQenyD7Nm0/mqdefault.jpg",
-      "views": 492,
+      "views": 493,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2016,7 +2034,7 @@
       "title": "26 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-25T23:45:26Z",
       "thumbnail": "https://i.ytimg.com/vi/d8gtTqsxSZw/mqdefault.jpg",
-      "views": 259,
+      "views": 260,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2049,7 +2067,7 @@
       "title": "23 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-23T00:22:56Z",
       "thumbnail": "https://i.ytimg.com/vi/tJqzyR_YUcc/mqdefault.jpg",
-      "views": 586,
+      "views": 587,
       "likes": 1,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2210,11 +2228,33 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "_lxRx0F8sgY",
+      "title": "Yeşilçam’ın sevilen aktörü Ediz Hun’dan acı sözler: Yeşilçam artık bitti! #Shorts",
+      "published": "2026-10-31T12:56:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/_lxRx0F8sgY/mqdefault.jpg",
+      "views": 301,
+      "likes": 5,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "R7UUHZ--oL4",
+      "title": "Fırat Tanış: 52 yaşındayım, biraz geç kaldık #Shorts",
+      "published": "2026-10-31T12:56:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/R7UUHZ--oL4/mqdefault.jpg",
+      "views": 179,
+      "likes": 1,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "NIxqpT2GY_U",
       "title": "Ünlü oyuncunun hesabı hacklendi! İpek Karapınar'dan takipçilerine önemli uyarı #Shorts",
       "published": "2026-10-31T08:11:01Z",
       "thumbnail": "https://i.ytimg.com/vi/NIxqpT2GY_U/mqdefault.jpg",
-      "views": 0,
+      "views": 251,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2225,8 +2265,8 @@
       "title": "Murat Yıldırım ve Iman Elbani, Tokyo Film Festivali'nin Kırmızı Halısında Boy Gösterdi #Shorts",
       "published": "2026-10-31T08:10:57Z",
       "thumbnail": "https://i.ytimg.com/vi/mjagWWwA1Ok/mqdefault.jpg",
-      "views": 0,
-      "likes": 0,
+      "views": 591,
+      "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -2236,7 +2276,7 @@
       "title": "Star Trek'in Kaptan Jean-Luc Picard'ı, X-Men'in Profesör X'i: Ünlü oyuncu Patrick Stewart, 86 yaşınd",
       "published": "2026-10-30T18:13:26Z",
       "thumbnail": "https://i.ytimg.com/vi/cK3iwT51UZs/mqdefault.jpg",
-      "views": 43,
+      "views": 48,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2247,7 +2287,7 @@
       "title": "Game of Thrones'un Jaime Lannister'ı Hava Saldırısı Alarmında Kiev Metrosundaydı: Sığınaktaki Hali G",
       "published": "2026-10-30T18:13:09Z",
       "thumbnail": "https://i.ytimg.com/vi/CohRU7n72pk/mqdefault.jpg",
-      "views": 230,
+      "views": 234,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2258,7 +2298,7 @@
       "title": "Murat Yıldırım'ın performansına övgüler yağdı #Shorts",
       "published": "2026-10-30T13:19:26Z",
       "thumbnail": "https://i.ytimg.com/vi/q8brVoITurk/mqdefault.jpg",
-      "views": 979,
+      "views": 981,
       "likes": 12,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2269,7 +2309,7 @@
       "title": "Güller ve Günahlar 39.bölümüyle yayınlandı: Kanal D ile Güller ve Günahlar son bölüm izle #Shorts",
       "published": "2026-10-30T13:19:20Z",
       "thumbnail": "https://i.ytimg.com/vi/Ecckvy3zD-k/mqdefault.jpg",
-      "views": 725,
+      "views": 765,
       "likes": 10,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2291,7 +2331,7 @@
       "title": "'Çukur'un Timsah Celil'i Meli Bendeli tahliye oldu: İlk açıklamasını yaptı #Shorts",
       "published": "2026-10-30T08:19:33Z",
       "thumbnail": "https://i.ytimg.com/vi/BgYD9-WMP7o/mqdefault.jpg",
-      "views": 895,
+      "views": 935,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2302,7 +2342,7 @@
       "title": "Doğa Rutkay Kamal’dan eşi Kerimcan Kamal itirafı! Kıskançlığını açık açık anlattı: O detayı da sakla",
       "published": "2026-10-29T18:40:36Z",
       "thumbnail": "https://i.ytimg.com/vi/c_cUIr2cU0o/mqdefault.jpg",
-      "views": 1016,
+      "views": 1018,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2313,7 +2353,7 @@
       "title": "Güzelliği sınırları aştı! Kendall Jenner’ın eski sevgilisi Hande Erçel hayranı çıktı #Shorts",
       "published": "2026-10-29T18:40:32Z",
       "thumbnail": "https://i.ytimg.com/vi/C25TZn8nJTU/mqdefault.jpg",
-      "views": 1047,
+      "views": 1050,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2335,7 +2375,7 @@
       "title": "Gamze Erçel'e Sürpriz Baby Shower: Pembe Konsept ve Çiçeklerle Süslenen Kutlamaya Ünlüler Akın Etti!",
       "published": "2026-10-29T13:31:24Z",
       "thumbnail": "https://i.ytimg.com/vi/_u3QiBnFhjY/mqdefault.jpg",
-      "views": 1046,
+      "views": 1047,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2346,7 +2386,7 @@
       "title": "Cenazesinde El Ele Vermişlerdi: Friends Ekibinin Matthew Perry Belgeselinde Neden Yer Almadığı Belli",
       "published": "2026-10-29T08:14:28Z",
       "thumbnail": "https://i.ytimg.com/vi/5oUOaSDpD90/mqdefault.jpg",
-      "views": 255,
+      "views": 287,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2357,7 +2397,7 @@
       "title": "Doğa Rutkay Kamal’dan dikkat çeken itiraf: Eşimi çok kıskanırım #Shorts",
       "published": "2026-10-29T08:14:14Z",
       "thumbnail": "https://i.ytimg.com/vi/7npdcTLvqEU/mqdefault.jpg",
-      "views": 1000,
+      "views": 1002,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2401,34 +2441,12 @@
       "title": "Kendall Jenner'ın Eski Aşkı NBA Yıldızı Devin Booker’dan Hande Erçel'e Sürpriz Hamle #Shorts",
       "published": "2026-10-28T13:22:30Z",
       "thumbnail": "https://i.ytimg.com/vi/d4-fmYOct7A/mqdefault.jpg",
-      "views": 997,
+      "views": 999,
       "likes": 9,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "AKRZynK5RAA",
-      "title": "Eşini öpmelere doyamadı! Başak Dizer eşi Kıvanç Tatlıtuğ’un doğum gününü kutladı: İyi ki doğdun Aşk!",
-      "published": "2026-10-28T08:04:31Z",
-      "thumbnail": "https://i.ytimg.com/vi/AKRZynK5RAA/mqdefault.jpg",
-      "views": 42,
-      "likes": 2,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "_wjv9sn-ZwM",
-      "title": "Damla Sönmez'den dikkat çeken itiraf! 20'li yaşlarında aydınlanma yaşadı #Shorts",
-      "published": "2026-10-28T08:04:31Z",
-      "thumbnail": "https://i.ytimg.com/vi/_wjv9sn-ZwM/mqdefault.jpg",
-      "views": 317,
-      "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-10-31T08:53:53Z"
+  "lastUpdated": "2026-10-31T15:05:24Z"
 }
