@@ -670,13 +670,19 @@
           "subs": 32,
           "views": 57150,
           "videos": 93
+        },
+        {
+          "ts": "2026-11-01T15:08:34Z",
+          "subs": 33,
+          "views": 57150,
+          "videos": 97
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-01T08:03:05Z",
-        "subs": 32,
+        "ts": "2026-11-01T15:08:34Z",
+        "subs": 33,
         "views": 57150,
-        "videos": 93
+        "videos": 97
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -1391,10 +1397,16 @@
           "subs": 4,
           "views": 8118,
           "videos": 23
+        },
+        {
+          "ts": "2026-11-01T15:08:34Z",
+          "subs": 4,
+          "views": 8118,
+          "videos": 23
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-01T08:03:05Z",
+        "ts": "2026-11-01T15:08:34Z",
         "subs": 4,
         "views": 8118,
         "videos": 23
@@ -2046,10 +2058,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-01T15:08:34Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-01T08:03:05Z",
+        "ts": "2026-11-01T15:08:34Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -2062,7 +2080,7 @@
       "title": "Benzine zam ve Motorine zam! 1 Kasım akaryakıt fiyatları #Shorts",
       "published": "2026-11-01T00:42:34Z",
       "thumbnail": "https://i.ytimg.com/vi/cJ4Ovyd004g/mqdefault.jpg",
-      "views": 61,
+      "views": 122,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2073,7 +2091,7 @@
       "title": "31 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-31T01:25:20Z",
       "thumbnail": "https://i.ytimg.com/vi/pZ_OeT0Wr7c/mqdefault.jpg",
-      "views": 92,
+      "views": 221,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2172,7 +2190,7 @@
       "title": "21 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-21T00:22:32Z",
       "thumbnail": "https://i.ytimg.com/vi/Ywq7gfm8czY/mqdefault.jpg",
-      "views": 421,
+      "views": 422,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2216,7 +2234,7 @@
       "title": "Benzine zam ve Motorine zam! 17 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-17T00:09:28Z",
       "thumbnail": "https://i.ytimg.com/vi/bLHff7RwbX0/mqdefault.jpg",
-      "views": 978,
+      "views": 979,
       "likes": 1,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2300,11 +2318,55 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "LCM15AWyKlE",
+      "title": "Bursa’da ‘Alaturka’nın Yıldızları’ sahne aldı - Olay Gazetesi Bursa #Shorts",
+      "published": "2026-11-01T13:43:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/LCM15AWyKlE/mqdefault.jpg",
+      "views": 12,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "WePeoaTJNEU",
+      "title": "‘Susuz Yaz’ benim ilk aşkım!’ #Shorts",
+      "published": "2026-11-01T13:43:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/WePeoaTJNEU/mqdefault.jpg",
+      "views": 60,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "WUY9fKXIGYA",
+      "title": "\"Bazı Yaptırımlara Gelemem\": Erman Toroğlu Sözcü TV'deki Canlı Yayında İstifa Ettiğini Duyurdu #Shor",
+      "published": "2026-11-01T08:55:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/WUY9fKXIGYA/mqdefault.jpg",
+      "views": 1085,
+      "likes": 2,
+      "comments": 2,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "Uu4257qRPTU",
+      "title": "İbrahim Çelikkol ve oğlu Ali’nin Belek tatili sosyal medyayı salladı! #Shorts",
+      "published": "2026-11-01T08:55:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/Uu4257qRPTU/mqdefault.jpg",
+      "views": 740,
+      "likes": 2,
+      "comments": 1,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "bpBwVX0M4J8",
       "title": "'Star Trek' ve 'X-Men' filmlerinin yıldızı Patrick Stewart, 86 yaşında hayatını kaybetti #Shorts",
       "published": "2026-10-31T17:23:44Z",
       "thumbnail": "https://i.ytimg.com/vi/bpBwVX0M4J8/mqdefault.jpg",
-      "views": 86,
+      "views": 89,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2315,7 +2377,7 @@
       "title": "Müstehcenlik suçlamasıyla tutuklanmıştı! Meli Bendeli'den tahliye sonrası ilk paylaşım #Shorts",
       "published": "2026-10-31T17:23:42Z",
       "thumbnail": "https://i.ytimg.com/vi/cSiF9Ah-Eas/mqdefault.jpg",
-      "views": 1045,
+      "views": 1049,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2326,7 +2388,7 @@
       "title": "Yeşilçam’ın sevilen aktörü Ediz Hun’dan acı sözler: Yeşilçam artık bitti! #Shorts",
       "published": "2026-10-31T12:56:14Z",
       "thumbnail": "https://i.ytimg.com/vi/_lxRx0F8sgY/mqdefault.jpg",
-      "views": 1052,
+      "views": 1055,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2337,7 +2399,7 @@
       "title": "Fırat Tanış: 52 yaşındayım, biraz geç kaldık #Shorts",
       "published": "2026-10-31T12:56:04Z",
       "thumbnail": "https://i.ytimg.com/vi/R7UUHZ--oL4/mqdefault.jpg",
-      "views": 997,
+      "views": 998,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2359,7 +2421,7 @@
       "title": "Murat Yıldırım ve Iman Elbani, Tokyo Film Festivali'nin Kırmızı Halısında Boy Gösterdi #Shorts",
       "published": "2026-10-31T08:10:57Z",
       "thumbnail": "https://i.ytimg.com/vi/mjagWWwA1Ok/mqdefault.jpg",
-      "views": 944,
+      "views": 948,
       "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2381,7 +2443,7 @@
       "title": "Game of Thrones'un Jaime Lannister'ı Hava Saldırısı Alarmında Kiev Metrosundaydı: Sığınaktaki Hali G",
       "published": "2026-10-30T18:13:09Z",
       "thumbnail": "https://i.ytimg.com/vi/CohRU7n72pk/mqdefault.jpg",
-      "views": 254,
+      "views": 258,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2403,7 +2465,7 @@
       "title": "Güller ve Günahlar 39.bölümüyle yayınlandı: Kanal D ile Güller ve Günahlar son bölüm izle #Shorts",
       "published": "2026-10-30T13:19:20Z",
       "thumbnail": "https://i.ytimg.com/vi/Ecckvy3zD-k/mqdefault.jpg",
-      "views": 829,
+      "views": 850,
       "likes": 10,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2425,7 +2487,7 @@
       "title": "'Çukur'un Timsah Celil'i Meli Bendeli tahliye oldu: İlk açıklamasını yaptı #Shorts",
       "published": "2026-10-30T08:19:33Z",
       "thumbnail": "https://i.ytimg.com/vi/BgYD9-WMP7o/mqdefault.jpg",
-      "views": 946,
+      "views": 948,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2474,51 +2536,7 @@
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "5oUOaSDpD90",
-      "title": "Cenazesinde El Ele Vermişlerdi: Friends Ekibinin Matthew Perry Belgeselinde Neden Yer Almadığı Belli",
-      "published": "2026-10-29T08:14:28Z",
-      "thumbnail": "https://i.ytimg.com/vi/5oUOaSDpD90/mqdefault.jpg",
-      "views": 284,
-      "likes": 1,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "7npdcTLvqEU",
-      "title": "Doğa Rutkay Kamal’dan dikkat çeken itiraf: Eşimi çok kıskanırım #Shorts",
-      "published": "2026-10-29T08:14:14Z",
-      "thumbnail": "https://i.ytimg.com/vi/7npdcTLvqEU/mqdefault.jpg",
-      "views": 1003,
-      "likes": 3,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "DKiBFa1MZ_g",
-      "title": "Şebnem Dönmez: Projelerim Olunca Konuşmayı Seviyorum #Shorts",
-      "published": "2026-10-28T18:30:57Z",
-      "thumbnail": "https://i.ytimg.com/vi/DKiBFa1MZ_g/mqdefault.jpg",
-      "views": 1005,
-      "likes": 2,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "qpkDGjxRh7w",
-      "title": "Yönetmeni yanıtladı: Matthew Perry belgeselinde Friends yıldızları neden yok? #Shorts",
-      "published": "2026-10-28T18:30:53Z",
-      "thumbnail": "https://i.ytimg.com/vi/qpkDGjxRh7w/mqdefault.jpg",
-      "views": 102,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-11-01T08:03:05Z"
+  "lastUpdated": "2026-11-01T15:08:34Z"
 }
