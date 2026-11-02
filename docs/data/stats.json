@@ -694,13 +694,19 @@
           "subs": 34,
           "views": 57567,
           "videos": 98
+        },
+        {
+          "ts": "2026-11-02T09:58:42Z",
+          "subs": 34,
+          "views": 59892,
+          "videos": 100
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-02T02:31:48Z",
+        "ts": "2026-11-02T09:58:42Z",
         "subs": 34,
-        "views": 57567,
-        "videos": 98
+        "views": 59892,
+        "videos": 100
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -1439,12 +1445,18 @@
           "subs": 4,
           "views": 8358,
           "videos": 24
+        },
+        {
+          "ts": "2026-11-02T09:58:42Z",
+          "subs": 4,
+          "views": 8642,
+          "videos": 24
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-02T02:31:48Z",
+        "ts": "2026-11-02T09:58:42Z",
         "subs": 4,
-        "views": 8358,
+        "views": 8642,
         "videos": 24
       }
     },
@@ -2118,10 +2130,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-02T09:58:42Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-02T02:31:48Z",
+        "ts": "2026-11-02T09:58:42Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -2134,7 +2152,7 @@
       "title": "2 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-02T01:13:37Z",
       "thumbnail": "https://i.ytimg.com/vi/XbbnG2zgims/mqdefault.jpg",
-      "views": 1,
+      "views": 15,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2145,7 +2163,7 @@
       "title": "Benzine zam ve Motorine zam! 1 Kasım akaryakıt fiyatları #Shorts",
       "published": "2026-11-01T00:42:34Z",
       "thumbnail": "https://i.ytimg.com/vi/cJ4Ovyd004g/mqdefault.jpg",
-      "views": 135,
+      "views": 212,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2156,7 +2174,7 @@
       "title": "31 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-31T01:25:20Z",
       "thumbnail": "https://i.ytimg.com/vi/pZ_OeT0Wr7c/mqdefault.jpg",
-      "views": 449,
+      "views": 452,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2178,7 +2196,7 @@
       "title": "29 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-29T01:32:06Z",
       "thumbnail": "https://i.ytimg.com/vi/wNHvZB7xZH0/mqdefault.jpg",
-      "views": 665,
+      "views": 664,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2372,6 +2390,28 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "teu3nyKUp6I",
+      "title": "Şevket Çoruh'tan Altın Portakal'da olay yaratan hareket! Pınar Altuğ'u pas geçti, Tamer Karadağlı'ya",
+      "published": "2026-11-02T09:03:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/teu3nyKUp6I/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "3V16h90GE0Q",
+      "title": "Tarihi kent Petra’da sürpriz buluşma: Engin Altan Düzyatan ve Mike Tyson bir araya geldi... #Shorts",
+      "published": "2026-11-02T09:02:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/3V16h90GE0Q/mqdefault.jpg",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "k5RQUS3UtBs",
       "title": "Hastalığına meydan okuyup sahneye döndü, konserlerden 125 milyon dolar kazandı #Shorts",
       "published": "2026-11-01T18:06:40Z",
@@ -2387,7 +2427,7 @@
       "title": "Céline Dion, Paris'te verdiği sadece 16 konserden 125 milyon dolar kazandı. #Shorts",
       "published": "2026-11-01T18:06:32Z",
       "thumbnail": "https://i.ytimg.com/vi/CxXsQ8Vz83Y/mqdefault.jpg",
-      "views": 184,
+      "views": 185,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2409,7 +2449,7 @@
       "title": "‘Susuz Yaz’ benim ilk aşkım!’ #Shorts",
       "published": "2026-11-01T13:43:03Z",
       "thumbnail": "https://i.ytimg.com/vi/WePeoaTJNEU/mqdefault.jpg",
-      "views": 103,
+      "views": 105,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2420,7 +2460,7 @@
       "title": "\"Bazı Yaptırımlara Gelemem\": Erman Toroğlu Sözcü TV'deki Canlı Yayında İstifa Ettiğini Duyurdu #Shor",
       "published": "2026-11-01T08:55:27Z",
       "thumbnail": "https://i.ytimg.com/vi/WUY9fKXIGYA/mqdefault.jpg",
-      "views": 1251,
+      "views": 1283,
       "likes": 2,
       "comments": 2,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2431,7 +2471,7 @@
       "title": "İbrahim Çelikkol ve oğlu Ali’nin Belek tatili sosyal medyayı salladı! #Shorts",
       "published": "2026-11-01T08:55:25Z",
       "thumbnail": "https://i.ytimg.com/vi/Uu4257qRPTU/mqdefault.jpg",
-      "views": 988,
+      "views": 989,
       "likes": 2,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2453,7 +2493,7 @@
       "title": "Müstehcenlik suçlamasıyla tutuklanmıştı! Meli Bendeli'den tahliye sonrası ilk paylaşım #Shorts",
       "published": "2026-10-31T17:23:42Z",
       "thumbnail": "https://i.ytimg.com/vi/cSiF9Ah-Eas/mqdefault.jpg",
-      "views": 1047,
+      "views": 1049,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2464,7 +2504,7 @@
       "title": "Yeşilçam’ın sevilen aktörü Ediz Hun’dan acı sözler: Yeşilçam artık bitti! #Shorts",
       "published": "2026-10-31T12:56:14Z",
       "thumbnail": "https://i.ytimg.com/vi/_lxRx0F8sgY/mqdefault.jpg",
-      "views": 1055,
+      "views": 1056,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2568,29 +2608,7 @@
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "c_cUIr2cU0o",
-      "title": "Doğa Rutkay Kamal’dan eşi Kerimcan Kamal itirafı! Kıskançlığını açık açık anlattı: O detayı da sakla",
-      "published": "2026-10-29T18:40:36Z",
-      "thumbnail": "https://i.ytimg.com/vi/c_cUIr2cU0o/mqdefault.jpg",
-      "views": 1020,
-      "likes": 1,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "C25TZn8nJTU",
-      "title": "Güzelliği sınırları aştı! Kendall Jenner’ın eski sevgilisi Hande Erçel hayranı çıktı #Shorts",
-      "published": "2026-10-29T18:40:32Z",
-      "thumbnail": "https://i.ytimg.com/vi/C25TZn8nJTU/mqdefault.jpg",
-      "views": 1055,
-      "likes": 6,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-11-02T02:31:48Z"
+  "lastUpdated": "2026-11-02T09:58:42Z"
 }
