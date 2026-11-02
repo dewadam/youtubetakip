@@ -688,10 +688,16 @@
           "subs": 34,
           "views": 57567,
           "videos": 98
+        },
+        {
+          "ts": "2026-11-02T02:31:48Z",
+          "subs": 34,
+          "views": 57567,
+          "videos": 98
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-01T23:07:01Z",
+        "ts": "2026-11-02T02:31:48Z",
         "subs": 34,
         "views": 57567,
         "videos": 98
@@ -1427,13 +1433,19 @@
           "subs": 4,
           "views": 8358,
           "videos": 23
+        },
+        {
+          "ts": "2026-11-02T02:31:48Z",
+          "subs": 4,
+          "views": 8358,
+          "videos": 24
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-01T23:07:01Z",
+        "ts": "2026-11-02T02:31:48Z",
         "subs": 4,
         "views": 8358,
-        "videos": 23
+        "videos": 24
       }
     },
     "UC0faIhjf4Is3plnq0zEoQoQ": {
@@ -2100,10 +2112,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-02T02:31:48Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-01T23:07:01Z",
+        "ts": "2026-11-02T02:31:48Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -2112,11 +2130,22 @@
   },
   "videos": [
     {
+      "videoId": "XbbnG2zgims",
+      "title": "2 Kasım güncel akaryakıt fiyatları #Shorts",
+      "published": "2026-11-02T01:13:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/XbbnG2zgims/mqdefault.jpg",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "channelTitle": "Yol Masrafı"
+    },
+    {
       "videoId": "cJ4Ovyd004g",
       "title": "Benzine zam ve Motorine zam! 1 Kasım akaryakıt fiyatları #Shorts",
       "published": "2026-11-01T00:42:34Z",
       "thumbnail": "https://i.ytimg.com/vi/cJ4Ovyd004g/mqdefault.jpg",
-      "views": 134,
+      "views": 135,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2127,7 +2156,7 @@
       "title": "31 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-31T01:25:20Z",
       "thumbnail": "https://i.ytimg.com/vi/pZ_OeT0Wr7c/mqdefault.jpg",
-      "views": 335,
+      "views": 449,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2160,7 +2189,7 @@
       "title": "Motorine zam! 28 Ekim akaryakıt fiyatları #Shorts",
       "published": "2026-10-28T00:56:54Z",
       "thumbnail": "https://i.ytimg.com/vi/TLQenyD7Nm0/mqdefault.jpg",
-      "views": 495,
+      "views": 496,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2321,17 +2350,6 @@
       "channelTitle": "Yol Masrafı"
     },
     {
-      "videoId": "K2pU5D09k5w",
-      "title": "12 Ekim güncel akaryakıt fiyatları #Shorts",
-      "published": "2026-10-12T05:48:43Z",
-      "thumbnail": "https://i.ytimg.com/vi/K2pU5D09k5w/mqdefault.jpg",
-      "views": 133,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
-      "channelTitle": "Yol Masrafı"
-    },
-    {
       "videoId": "veNf0lsDXDE",
       "title": "Hayvan Dostlarım 🐮🦆 | Türkçe Çocuk Şarkısı",
       "published": "2026-10-26T21:26:58Z",
@@ -2369,7 +2387,7 @@
       "title": "Céline Dion, Paris'te verdiği sadece 16 konserden 125 milyon dolar kazandı. #Shorts",
       "published": "2026-11-01T18:06:32Z",
       "thumbnail": "https://i.ytimg.com/vi/CxXsQ8Vz83Y/mqdefault.jpg",
-      "views": 181,
+      "views": 184,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2391,7 +2409,7 @@
       "title": "‘Susuz Yaz’ benim ilk aşkım!’ #Shorts",
       "published": "2026-11-01T13:43:03Z",
       "thumbnail": "https://i.ytimg.com/vi/WePeoaTJNEU/mqdefault.jpg",
-      "views": 94,
+      "views": 103,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2402,7 +2420,7 @@
       "title": "\"Bazı Yaptırımlara Gelemem\": Erman Toroğlu Sözcü TV'deki Canlı Yayında İstifa Ettiğini Duyurdu #Shor",
       "published": "2026-11-01T08:55:27Z",
       "thumbnail": "https://i.ytimg.com/vi/WUY9fKXIGYA/mqdefault.jpg",
-      "views": 1223,
+      "views": 1251,
       "likes": 2,
       "comments": 2,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2413,7 +2431,7 @@
       "title": "İbrahim Çelikkol ve oğlu Ali’nin Belek tatili sosyal medyayı salladı! #Shorts",
       "published": "2026-11-01T08:55:25Z",
       "thumbnail": "https://i.ytimg.com/vi/Uu4257qRPTU/mqdefault.jpg",
-      "views": 982,
+      "views": 988,
       "likes": 2,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2435,7 +2453,7 @@
       "title": "Müstehcenlik suçlamasıyla tutuklanmıştı! Meli Bendeli'den tahliye sonrası ilk paylaşım #Shorts",
       "published": "2026-10-31T17:23:42Z",
       "thumbnail": "https://i.ytimg.com/vi/cSiF9Ah-Eas/mqdefault.jpg",
-      "views": 1044,
+      "views": 1047,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2446,7 +2464,7 @@
       "title": "Yeşilçam’ın sevilen aktörü Ediz Hun’dan acı sözler: Yeşilçam artık bitti! #Shorts",
       "published": "2026-10-31T12:56:14Z",
       "thumbnail": "https://i.ytimg.com/vi/_lxRx0F8sgY/mqdefault.jpg",
-      "views": 1054,
+      "views": 1055,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2523,7 +2541,7 @@
       "title": "Güller ve Günahlar 39.bölümüyle yayınlandı: Kanal D ile Güller ve Günahlar son bölüm izle #Shorts",
       "published": "2026-10-30T13:19:20Z",
       "thumbnail": "https://i.ytimg.com/vi/Ecckvy3zD-k/mqdefault.jpg",
-      "views": 854,
+      "views": 856,
       "likes": 10,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2534,7 +2552,7 @@
       "title": "Sinema dünyasından bir yıldız kaydı… Uzay Yolu efsanesi Patrick Stewart hayatını kaybetti #Shorts",
       "published": "2026-10-30T08:19:39Z",
       "thumbnail": "https://i.ytimg.com/vi/2V13JixLMe4/mqdefault.jpg",
-      "views": 94,
+      "views": 95,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2567,12 +2585,12 @@
       "title": "Güzelliği sınırları aştı! Kendall Jenner’ın eski sevgilisi Hande Erçel hayranı çıktı #Shorts",
       "published": "2026-10-29T18:40:32Z",
       "thumbnail": "https://i.ytimg.com/vi/C25TZn8nJTU/mqdefault.jpg",
-      "views": 1057,
+      "views": 1055,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-11-01T23:07:01Z"
+  "lastUpdated": "2026-11-02T02:31:48Z"
 }
