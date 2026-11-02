@@ -700,13 +700,19 @@
           "subs": 34,
           "views": 59892,
           "videos": 100
+        },
+        {
+          "ts": "2026-11-02T20:13:02Z",
+          "subs": 36,
+          "views": 60531,
+          "videos": 102
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-02T09:58:42Z",
-        "subs": 34,
-        "views": 59892,
-        "videos": 100
+        "ts": "2026-11-02T20:13:02Z",
+        "subs": 36,
+        "views": 60531,
+        "videos": 102
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -1451,12 +1457,18 @@
           "subs": 4,
           "views": 8642,
           "videos": 24
+        },
+        {
+          "ts": "2026-11-02T20:13:02Z",
+          "subs": 4,
+          "views": 8897,
+          "videos": 24
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-02T09:58:42Z",
+        "ts": "2026-11-02T20:13:02Z",
         "subs": 4,
-        "views": 8642,
+        "views": 8897,
         "videos": 24
       }
     },
@@ -2136,10 +2148,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-02T20:13:02Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-02T09:58:42Z",
+        "ts": "2026-11-02T20:13:02Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -2152,7 +2170,7 @@
       "title": "2 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-02T01:13:37Z",
       "thumbnail": "https://i.ytimg.com/vi/XbbnG2zgims/mqdefault.jpg",
-      "views": 15,
+      "views": 28,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2163,7 +2181,7 @@
       "title": "Benzine zam ve Motorine zam! 1 Kasım akaryakıt fiyatları #Shorts",
       "published": "2026-11-01T00:42:34Z",
       "thumbnail": "https://i.ytimg.com/vi/cJ4Ovyd004g/mqdefault.jpg",
-      "views": 212,
+      "views": 575,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2174,7 +2192,7 @@
       "title": "31 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-31T01:25:20Z",
       "thumbnail": "https://i.ytimg.com/vi/pZ_OeT0Wr7c/mqdefault.jpg",
-      "views": 452,
+      "views": 454,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2185,7 +2203,7 @@
       "title": "30 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-30T01:32:04Z",
       "thumbnail": "https://i.ytimg.com/vi/Bs2TO2ZFC8k/mqdefault.jpg",
-      "views": 540,
+      "views": 542,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2251,7 +2269,7 @@
       "title": "23 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-23T00:22:56Z",
       "thumbnail": "https://i.ytimg.com/vi/tJqzyR_YUcc/mqdefault.jpg",
-      "views": 587,
+      "views": 588,
       "likes": 1,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2390,12 +2408,34 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "C29iyKgj1zc",
+      "title": "Nev’in ardından miras tartışması başlamıştı: Ağabeyi hakkındaki iddialara yanıt verdi! #Shorts",
+      "published": "2026-11-02T16:27:48Z",
+      "thumbnail": "https://i.ytimg.com/vi/C29iyKgj1zc/mqdefault.jpg",
+      "views": 106,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "sTjaGD8Ie2I",
+      "title": "Hakkı Bulut'un şaşırtan vasiyet kararı: Çocukları için dikkat çeken sözler #Shorts",
+      "published": "2026-11-02T16:27:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/sTjaGD8Ie2I/mqdefault.jpg",
+      "views": 725,
+      "likes": 3,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "teu3nyKUp6I",
       "title": "Şevket Çoruh'tan Altın Portakal'da olay yaratan hareket! Pınar Altuğ'u pas geçti, Tamer Karadağlı'ya",
       "published": "2026-11-02T09:03:02Z",
       "thumbnail": "https://i.ytimg.com/vi/teu3nyKUp6I/mqdefault.jpg",
-      "views": 0,
-      "likes": 0,
+      "views": 982,
+      "likes": 9,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -2405,8 +2445,8 @@
       "title": "Tarihi kent Petra’da sürpriz buluşma: Engin Altan Düzyatan ve Mike Tyson bir araya geldi... #Shorts",
       "published": "2026-11-02T09:02:59Z",
       "thumbnail": "https://i.ytimg.com/vi/3V16h90GE0Q/mqdefault.jpg",
-      "views": 1,
-      "likes": 0,
+      "views": 304,
+      "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -2416,7 +2456,7 @@
       "title": "Hastalığına meydan okuyup sahneye döndü, konserlerden 125 milyon dolar kazandı #Shorts",
       "published": "2026-11-01T18:06:40Z",
       "thumbnail": "https://i.ytimg.com/vi/k5RQUS3UtBs/mqdefault.jpg",
-      "views": 155,
+      "views": 156,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2427,8 +2467,8 @@
       "title": "Céline Dion, Paris'te verdiği sadece 16 konserden 125 milyon dolar kazandı. #Shorts",
       "published": "2026-11-01T18:06:32Z",
       "thumbnail": "https://i.ytimg.com/vi/CxXsQ8Vz83Y/mqdefault.jpg",
-      "views": 185,
-      "likes": 1,
+      "views": 187,
+      "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -2438,7 +2478,7 @@
       "title": "Bursa’da ‘Alaturka’nın Yıldızları’ sahne aldı - Olay Gazetesi Bursa #Shorts",
       "published": "2026-11-01T13:43:10Z",
       "thumbnail": "https://i.ytimg.com/vi/LCM15AWyKlE/mqdefault.jpg",
-      "views": 91,
+      "views": 95,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2449,7 +2489,7 @@
       "title": "‘Susuz Yaz’ benim ilk aşkım!’ #Shorts",
       "published": "2026-11-01T13:43:03Z",
       "thumbnail": "https://i.ytimg.com/vi/WePeoaTJNEU/mqdefault.jpg",
-      "views": 105,
+      "views": 108,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2460,7 +2500,7 @@
       "title": "\"Bazı Yaptırımlara Gelemem\": Erman Toroğlu Sözcü TV'deki Canlı Yayında İstifa Ettiğini Duyurdu #Shor",
       "published": "2026-11-01T08:55:27Z",
       "thumbnail": "https://i.ytimg.com/vi/WUY9fKXIGYA/mqdefault.jpg",
-      "views": 1283,
+      "views": 1329,
       "likes": 2,
       "comments": 2,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2471,7 +2511,7 @@
       "title": "İbrahim Çelikkol ve oğlu Ali’nin Belek tatili sosyal medyayı salladı! #Shorts",
       "published": "2026-11-01T08:55:25Z",
       "thumbnail": "https://i.ytimg.com/vi/Uu4257qRPTU/mqdefault.jpg",
-      "views": 989,
+      "views": 991,
       "likes": 2,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2482,7 +2522,7 @@
       "title": "'Star Trek' ve 'X-Men' filmlerinin yıldızı Patrick Stewart, 86 yaşında hayatını kaybetti #Shorts",
       "published": "2026-10-31T17:23:44Z",
       "thumbnail": "https://i.ytimg.com/vi/bpBwVX0M4J8/mqdefault.jpg",
-      "views": 90,
+      "views": 91,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2493,7 +2533,7 @@
       "title": "Müstehcenlik suçlamasıyla tutuklanmıştı! Meli Bendeli'den tahliye sonrası ilk paylaşım #Shorts",
       "published": "2026-10-31T17:23:42Z",
       "thumbnail": "https://i.ytimg.com/vi/cSiF9Ah-Eas/mqdefault.jpg",
-      "views": 1049,
+      "views": 1053,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2570,7 +2610,7 @@
       "title": "Murat Yıldırım'ın performansına övgüler yağdı #Shorts",
       "published": "2026-10-30T13:19:26Z",
       "thumbnail": "https://i.ytimg.com/vi/q8brVoITurk/mqdefault.jpg",
-      "views": 1019,
+      "views": 1020,
       "likes": 12,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2581,34 +2621,12 @@
       "title": "Güller ve Günahlar 39.bölümüyle yayınlandı: Kanal D ile Güller ve Günahlar son bölüm izle #Shorts",
       "published": "2026-10-30T13:19:20Z",
       "thumbnail": "https://i.ytimg.com/vi/Ecckvy3zD-k/mqdefault.jpg",
-      "views": 856,
+      "views": 857,
       "likes": 10,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "2V13JixLMe4",
-      "title": "Sinema dünyasından bir yıldız kaydı… Uzay Yolu efsanesi Patrick Stewart hayatını kaybetti #Shorts",
-      "published": "2026-10-30T08:19:39Z",
-      "thumbnail": "https://i.ytimg.com/vi/2V13JixLMe4/mqdefault.jpg",
-      "views": 95,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "BgYD9-WMP7o",
-      "title": "'Çukur'un Timsah Celil'i Meli Bendeli tahliye oldu: İlk açıklamasını yaptı #Shorts",
-      "published": "2026-10-30T08:19:33Z",
-      "thumbnail": "https://i.ytimg.com/vi/BgYD9-WMP7o/mqdefault.jpg",
-      "views": 950,
-      "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-11-02T09:58:42Z"
+  "lastUpdated": "2026-11-02T20:13:02Z"
 }
