@@ -718,13 +718,19 @@
           "subs": 36,
           "views": 63164,
           "videos": 106
+        },
+        {
+          "ts": "2026-11-03T17:34:52Z",
+          "subs": 36,
+          "views": 63164,
+          "videos": 109
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-03T09:51:49Z",
+        "ts": "2026-11-03T17:34:52Z",
         "subs": 36,
         "views": 63164,
-        "videos": 106
+        "videos": 109
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -1487,10 +1493,16 @@
           "subs": 4,
           "views": 9265,
           "videos": 25
+        },
+        {
+          "ts": "2026-11-03T17:34:52Z",
+          "subs": 4,
+          "views": 9265,
+          "videos": 25
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-03T09:51:49Z",
+        "ts": "2026-11-03T17:34:52Z",
         "subs": 4,
         "views": 9265,
         "videos": 25
@@ -2190,10 +2202,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-03T17:34:52Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-03T09:51:49Z",
+        "ts": "2026-11-03T17:34:52Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -2206,7 +2224,7 @@
       "title": "Benzine zam! 3 Kasım akaryakıt fiyatları #Shorts",
       "published": "2026-11-03T03:17:59Z",
       "thumbnail": "https://i.ytimg.com/vi/Y5IIX3RTv0U/mqdefault.jpg",
-      "views": 86,
+      "views": 210,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2217,7 +2235,7 @@
       "title": "2 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-02T01:13:37Z",
       "thumbnail": "https://i.ytimg.com/vi/XbbnG2zgims/mqdefault.jpg",
-      "views": 170,
+      "views": 243,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2444,12 +2462,34 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "depismMbOTc",
+      "title": "İlyas Yalçıntaş hakkında tahliye kararı! Duruşma 15 Aralıka ertelendi - Magazin Haberleri #Shorts",
+      "published": "2026-11-03T14:33:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/depismMbOTc/mqdefault.jpg",
+      "views": 157,
+      "likes": 2,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "JZD3Ce_4_eg",
+      "title": "Ebru Gündeş Havalimanında Hayranıyla İkinci Kez Buluştu! O Fotoğraf Yeniden Gündem Oldu #Shorts",
+      "published": "2026-11-03T14:33:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/JZD3Ce_4_eg/mqdefault.jpg",
+      "views": 760,
+      "likes": 11,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "YftiKqVMUDg",
       "title": "Murat Boz'un Fon ve Hisselerde Battığı İddia Edildi: Şarkıcıdan \"Hadi Ya? Benim Niye Haberim Yok\" Ya",
       "published": "2026-11-03T09:12:49Z",
       "thumbnail": "https://i.ytimg.com/vi/YftiKqVMUDg/mqdefault.jpg",
-      "views": 1,
-      "likes": 0,
+      "views": 544,
+      "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -2459,7 +2499,7 @@
       "title": "\"Afife\" oyunu, İstanbul ve Ankara'da yeniden tiyatroseverlerle buluşacak #Shorts",
       "published": "2026-11-03T09:12:45Z",
       "thumbnail": "https://i.ytimg.com/vi/SimXRvNdmTg/mqdefault.jpg",
-      "views": 0,
+      "views": 56,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2470,7 +2510,7 @@
       "title": "Seren Serengil mirasını kime bırakacağını açıkladı! “Tek bir şartım var” #Shorts",
       "published": "2026-11-02T21:56:10Z",
       "thumbnail": "https://i.ytimg.com/vi/t4dYARIK8KE/mqdefault.jpg",
-      "views": 1006,
+      "views": 1013,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2481,7 +2521,7 @@
       "title": "Rapçi Killa Hakan’dan üzen haber! Yoğun bakıma kaldırıldı - Galeri - Trend Magazin #Shorts",
       "published": "2026-11-02T21:55:52Z",
       "thumbnail": "https://i.ytimg.com/vi/AL3hSAgXoKE/mqdefault.jpg",
-      "views": 47,
+      "views": 66,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2492,7 +2532,7 @@
       "title": "Nev’in ardından miras tartışması başlamıştı: Ağabeyi hakkındaki iddialara yanıt verdi! #Shorts",
       "published": "2026-11-02T16:27:48Z",
       "thumbnail": "https://i.ytimg.com/vi/C29iyKgj1zc/mqdefault.jpg",
-      "views": 115,
+      "views": 120,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2503,7 +2543,7 @@
       "title": "Hakkı Bulut'un şaşırtan vasiyet kararı: Çocukları için dikkat çeken sözler #Shorts",
       "published": "2026-11-02T16:27:42Z",
       "thumbnail": "https://i.ytimg.com/vi/sTjaGD8Ie2I/mqdefault.jpg",
-      "views": 1034,
+      "views": 1040,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2514,7 +2554,7 @@
       "title": "Şevket Çoruh'tan Altın Portakal'da olay yaratan hareket! Pınar Altuğ'u pas geçti, Tamer Karadağlı'ya",
       "published": "2026-11-02T09:03:02Z",
       "thumbnail": "https://i.ytimg.com/vi/teu3nyKUp6I/mqdefault.jpg",
-      "views": 1015,
+      "views": 1032,
       "likes": 10,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2525,7 +2565,7 @@
       "title": "Tarihi kent Petra’da sürpriz buluşma: Engin Altan Düzyatan ve Mike Tyson bir araya geldi... #Shorts",
       "published": "2026-11-02T09:02:59Z",
       "thumbnail": "https://i.ytimg.com/vi/3V16h90GE0Q/mqdefault.jpg",
-      "views": 342,
+      "views": 353,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2558,7 +2598,7 @@
       "title": "Bursa’da ‘Alaturka’nın Yıldızları’ sahne aldı - Olay Gazetesi Bursa #Shorts",
       "published": "2026-11-01T13:43:10Z",
       "thumbnail": "https://i.ytimg.com/vi/LCM15AWyKlE/mqdefault.jpg",
-      "views": 94,
+      "views": 95,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2569,7 +2609,7 @@
       "title": "‘Susuz Yaz’ benim ilk aşkım!’ #Shorts",
       "published": "2026-11-01T13:43:03Z",
       "thumbnail": "https://i.ytimg.com/vi/WePeoaTJNEU/mqdefault.jpg",
-      "views": 109,
+      "views": 110,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2580,7 +2620,7 @@
       "title": "\"Bazı Yaptırımlara Gelemem\": Erman Toroğlu Sözcü TV'deki Canlı Yayında İstifa Ettiğini Duyurdu #Shor",
       "published": "2026-11-01T08:55:27Z",
       "thumbnail": "https://i.ytimg.com/vi/WUY9fKXIGYA/mqdefault.jpg",
-      "views": 1354,
+      "views": 1373,
       "likes": 2,
       "comments": 2,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2613,7 +2653,7 @@
       "title": "Müstehcenlik suçlamasıyla tutuklanmıştı! Meli Bendeli'den tahliye sonrası ilk paylaşım #Shorts",
       "published": "2026-10-31T17:23:42Z",
       "thumbnail": "https://i.ytimg.com/vi/cSiF9Ah-Eas/mqdefault.jpg",
-      "views": 1055,
+      "views": 1058,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2635,34 +2675,12 @@
       "title": "Fırat Tanış: 52 yaşındayım, biraz geç kaldık #Shorts",
       "published": "2026-10-31T12:56:04Z",
       "thumbnail": "https://i.ytimg.com/vi/R7UUHZ--oL4/mqdefault.jpg",
-      "views": 1009,
+      "views": 1011,
       "likes": 3,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "NIxqpT2GY_U",
-      "title": "Ünlü oyuncunun hesabı hacklendi! İpek Karapınar'dan takipçilerine önemli uyarı #Shorts",
-      "published": "2026-10-31T08:11:01Z",
-      "thumbnail": "https://i.ytimg.com/vi/NIxqpT2GY_U/mqdefault.jpg",
-      "views": 338,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "mjagWWwA1Ok",
-      "title": "Murat Yıldırım ve Iman Elbani, Tokyo Film Festivali'nin Kırmızı Halısında Boy Gösterdi #Shorts",
-      "published": "2026-10-31T08:10:57Z",
-      "thumbnail": "https://i.ytimg.com/vi/mjagWWwA1Ok/mqdefault.jpg",
-      "views": 950,
-      "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-11-03T09:51:49Z"
+  "lastUpdated": "2026-11-03T17:34:52Z"
 }
