@@ -124,14 +124,18 @@ def main():
     stats.setdefault("channels", {}); stats.setdefault("videos", [])
     now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     failures = 0
+    keep_ids = set()          # channels.json'da olan kanalların ID'leri
+    prune_safe = True         # emin olamazsak hiçbir kanalı silme
+    failed_idents = []
     for ident in identifiers:
         try:
             ch = resolve_channel(ident)
             if not ch:
-                failures += 1
+                failures += 1; failed_idents.append(ident)
                 print(f"UYARI: Kanal bulunamadı: {ident}", file=sys.stderr)
                 continue
             cid = ch["id"]; sn = ch.get("snippet", {}); st = ch.get("statistics", {})
+            keep_ids.add(cid)
             uploads = ch.get("contentDetails", {}).get("relatedPlaylists", {}).get("uploads")
             if not uploads:
                 raise ValueError("Kanalın yüklemeler oynatma listesi bulunamadı")
@@ -161,8 +165,30 @@ def main():
                 stats["videos"].append(v)
             print(f"OK {sn.get('title', cid)} ({cid}): {len(vids)} video")
         except Exception as e:
-            failures += 1
+            failures += 1; failed_idents.append(ident)
             print(f"HATA {ident}: {type(e).__name__}: {e}", file=sys.stderr)
+
+    # Başarısız kanalların geçmişi silinmesin: ID'si bilinenleri koru,
+    # ID'si bilinmeyen (@handle vb.) bir kanal hata verdiyse bu tur silme yapma.
+    for ident in failed_idents:
+        try:
+            norm = normalize_channel_identifier(ident)
+        except Exception:
+            norm = ""
+        if norm.startswith("UC") and len(norm) >= 20:
+            keep_ids.add(norm)
+        else:
+            prune_safe = False
+
+    # channels.json'dan çıkarılan kanalları stats.json'dan da sil
+    if prune_safe and keep_ids:
+        removed = [cid for cid in stats["channels"] if cid not in keep_ids]
+        for cid in removed:
+            title = stats["channels"][cid].get("title", cid)
+            del stats["channels"][cid]
+            print(f"Silindi (channels.json'da yok): {title} ({cid})")
+        if removed:
+            stats["videos"] = [v for v in stats["videos"] if v.get("channelId") in keep_ids]
 
     # En az bir kanal başarıyla çekildiyse güncelleme zamanını yaz.
     if len(stats["channels"]) > 0:
