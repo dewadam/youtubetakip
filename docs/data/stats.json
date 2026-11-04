@@ -760,13 +760,19 @@
           "subs": 36,
           "views": 64311,
           "videos": 109
+        },
+        {
+          "ts": "2026-11-04T09:55:55Z",
+          "subs": 36,
+          "views": 65570,
+          "videos": 111
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-04T06:33:26Z",
+        "ts": "2026-11-04T09:55:55Z",
         "subs": 36,
-        "views": 64311,
-        "videos": 109
+        "views": 65570,
+        "videos": 111
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -1571,12 +1577,18 @@
           "subs": 5,
           "views": 9467,
           "videos": 26
+        },
+        {
+          "ts": "2026-11-04T09:55:55Z",
+          "subs": 5,
+          "views": 9912,
+          "videos": 26
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-04T06:33:26Z",
+        "ts": "2026-11-04T09:55:55Z",
         "subs": 5,
-        "views": 9467,
+        "views": 9912,
         "videos": 26
       }
     },
@@ -2316,10 +2328,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-04T09:55:55Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-04T06:33:26Z",
+        "ts": "2026-11-04T09:55:55Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -2341,13 +2359,19 @@
           "subs": 6,
           "views": 9186,
           "videos": 22
+        },
+        {
+          "ts": "2026-11-04T09:55:55Z",
+          "subs": 7,
+          "views": 9186,
+          "videos": 23
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-04T06:33:26Z",
-        "subs": 6,
+        "ts": "2026-11-04T09:55:55Z",
+        "subs": 7,
         "views": 9186,
-        "videos": 22
+        "videos": 23
       }
     }
   },
@@ -2368,7 +2392,7 @@
       "title": "Benzine zam! 3 Kasım akaryakıt fiyatları #Shorts",
       "published": "2026-11-03T03:17:59Z",
       "thumbnail": "https://i.ytimg.com/vi/Y5IIX3RTv0U/mqdefault.jpg",
-      "views": 236,
+      "views": 253,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2379,7 +2403,7 @@
       "title": "2 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-02T01:13:37Z",
       "thumbnail": "https://i.ytimg.com/vi/XbbnG2zgims/mqdefault.jpg",
-      "views": 445,
+      "views": 446,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2595,11 +2619,33 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "1Rde_0OSDsE",
+      "title": "RAPÇİ KİLLA HAKAN KİMDİR, KAÇ YAŞINDA? Killa Hakan yoğun bakımda mı, sağlık durumu nasıl? #Shorts",
+      "published": "2026-11-04T08:48:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/1Rde_0OSDsE/mqdefault.jpg",
+      "views": 4,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "WpLDB5ycE_4",
+      "title": "Yılmaz Erdoğan, 'Organize İşler'deki kam davulu sahnesi nedeniyle özür diledi #Shorts",
+      "published": "2026-11-04T08:48:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/WpLDB5ycE_4/mqdefault.jpg",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "depismMbOTc",
       "title": "İlyas Yalçıntaş hakkında tahliye kararı! Duruşma 15 Aralıka ertelendi - Magazin Haberleri #Shorts",
       "published": "2026-11-03T14:33:23Z",
       "thumbnail": "https://i.ytimg.com/vi/depismMbOTc/mqdefault.jpg",
-      "views": 420,
+      "views": 432,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2610,7 +2656,7 @@
       "title": "Ebru Gündeş Havalimanında Hayranıyla İkinci Kez Buluştu! O Fotoğraf Yeniden Gündem Oldu #Shorts",
       "published": "2026-11-03T14:33:17Z",
       "thumbnail": "https://i.ytimg.com/vi/JZD3Ce_4_eg/mqdefault.jpg",
-      "views": 1114,
+      "views": 1168,
       "likes": 11,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2632,7 +2678,7 @@
       "title": "\"Afife\" oyunu, İstanbul ve Ankara'da yeniden tiyatroseverlerle buluşacak #Shorts",
       "published": "2026-11-03T09:12:45Z",
       "thumbnail": "https://i.ytimg.com/vi/SimXRvNdmTg/mqdefault.jpg",
-      "views": 91,
+      "views": 93,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2654,7 +2700,7 @@
       "title": "Rapçi Killa Hakan’dan üzen haber! Yoğun bakıma kaldırıldı - Galeri - Trend Magazin #Shorts",
       "published": "2026-11-02T21:55:52Z",
       "thumbnail": "https://i.ytimg.com/vi/AL3hSAgXoKE/mqdefault.jpg",
-      "views": 129,
+      "views": 136,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2676,7 +2722,7 @@
       "title": "Hakkı Bulut'un şaşırtan vasiyet kararı: Çocukları için dikkat çeken sözler #Shorts",
       "published": "2026-11-02T16:27:42Z",
       "thumbnail": "https://i.ytimg.com/vi/sTjaGD8Ie2I/mqdefault.jpg",
-      "views": 1043,
+      "views": 1044,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2698,7 +2744,7 @@
       "title": "Tarihi kent Petra’da sürpriz buluşma: Engin Altan Düzyatan ve Mike Tyson bir araya geldi... #Shorts",
       "published": "2026-11-02T09:02:59Z",
       "thumbnail": "https://i.ytimg.com/vi/3V16h90GE0Q/mqdefault.jpg",
-      "views": 396,
+      "views": 404,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2753,7 +2799,7 @@
       "title": "\"Bazı Yaptırımlara Gelemem\": Erman Toroğlu Sözcü TV'deki Canlı Yayında İstifa Ettiğini Duyurdu #Shor",
       "published": "2026-11-01T08:55:27Z",
       "thumbnail": "https://i.ytimg.com/vi/WUY9fKXIGYA/mqdefault.jpg",
-      "views": 1407,
+      "views": 1414,
       "likes": 2,
       "comments": 2,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2764,7 +2810,7 @@
       "title": "İbrahim Çelikkol ve oğlu Ali’nin Belek tatili sosyal medyayı salladı! #Shorts",
       "published": "2026-11-01T08:55:25Z",
       "thumbnail": "https://i.ytimg.com/vi/Uu4257qRPTU/mqdefault.jpg",
-      "views": 999,
+      "views": 1000,
       "likes": 2,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2793,33 +2839,22 @@
       "channelTitle": "VİP Magazin Gündemi"
     },
     {
-      "videoId": "_lxRx0F8sgY",
-      "title": "Yeşilçam’ın sevilen aktörü Ediz Hun’dan acı sözler: Yeşilçam artık bitti! #Shorts",
-      "published": "2026-10-31T12:56:14Z",
-      "thumbnail": "https://i.ytimg.com/vi/_lxRx0F8sgY/mqdefault.jpg",
-      "views": 1058,
-      "likes": 7,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "R7UUHZ--oL4",
-      "title": "Fırat Tanış: 52 yaşındayım, biraz geç kaldık #Shorts",
-      "published": "2026-10-31T12:56:04Z",
-      "thumbnail": "https://i.ytimg.com/vi/R7UUHZ--oL4/mqdefault.jpg",
-      "views": 1016,
-      "likes": 3,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
+      "videoId": "UYjRIPR3Bbc",
+      "title": "1860'ta Bir Resim Göndermek 1 Saat Sürüyordu! 😱 #shorts",
+      "published": "2026-11-04T09:00:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/UYjRIPR3Bbc/mqdefault.jpg",
+      "views": 21,
+      "likes": 0,
+      "comments": 1,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
     },
     {
       "videoId": "947ghNCkkVc",
       "title": "1000°C Aleve Dayanıp Pişmeyen Yumurtanın Sırrı! #shorts",
       "published": "2026-11-03T16:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/947ghNCkkVc/mqdefault.jpg",
-      "views": 15,
+      "views": 17,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -2830,7 +2865,7 @@
       "title": "Görmeden 3 Kat Hızlı Okuyan Cihaz: Optofon! #shorts",
       "published": "2026-11-03T09:00:55Z",
       "thumbnail": "https://i.ytimg.com/vi/3tsZyUSFXj8/mqdefault.jpg",
-      "views": 115,
+      "views": 116,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -2852,7 +2887,7 @@
       "title": "Edison'ın Uykuda Yaptığı Gizli İcat! | Mucidin Bilinmeyen Geçmişi",
       "published": "2026-11-02T13:30:35Z",
       "thumbnail": "https://i.ytimg.com/vi/YtYT4EGZwMY/mqdefault.jpg",
-      "views": 352,
+      "views": 355,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -2863,7 +2898,7 @@
       "title": "Deniz Altındaki Mekanik Telefon Ağı Nasıl Çalışır? #shorts",
       "published": "2026-11-02T09:00:57Z",
       "thumbnail": "https://i.ytimg.com/vi/MZKB2la66Ig/mqdefault.jpg",
-      "views": 294,
+      "views": 297,
       "likes": 3,
       "comments": 1,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -2885,8 +2920,8 @@
       "title": "Thomas Edison: Karanlığı Yok Eden Mucidin Gerçek Hikâyesi | Belgesel",
       "published": "2026-11-02T03:09:38Z",
       "thumbnail": "https://i.ytimg.com/vi/5sup0laUYZY/mqdefault.jpg",
-      "views": 84,
-      "likes": 1,
+      "views": 86,
+      "likes": 2,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
@@ -2918,7 +2953,7 @@
       "title": "Mısır Piramitlerinin 4500 Yıllık Sırrı Çözüldü! #shorts",
       "published": "2026-11-01T18:44:12Z",
       "thumbnail": "https://i.ytimg.com/vi/CcAxiBOTK2k/mqdefault.jpg",
-      "views": 395,
+      "views": 396,
       "likes": 6,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3022,18 +3057,7 @@
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
-    },
-    {
-      "videoId": "NDSlzwIWNqw",
-      "title": "Dünyada kaç karınca var? Cevap inanılmaz 🐜 #shorts",
-      "published": "2026-10-30T18:27:42Z",
-      "thumbnail": "https://i.ytimg.com/vi/NDSlzwIWNqw/mqdefault.jpg",
-      "views": 1189,
-      "likes": 12,
-      "comments": 0,
-      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
-      "channelTitle": "MerakLab"
     }
   ],
-  "lastUpdated": "2026-11-04T06:33:26Z"
+  "lastUpdated": "2026-11-04T09:55:55Z"
 }
