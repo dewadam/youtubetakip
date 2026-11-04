@@ -730,12 +730,18 @@
           "subs": 36,
           "views": 63164,
           "videos": 109
+        },
+        {
+          "ts": "2026-11-04T02:43:19Z",
+          "subs": 36,
+          "views": 64311,
+          "videos": 109
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-03T22:31:36Z",
+        "ts": "2026-11-04T02:43:19Z",
         "subs": 36,
-        "views": 63164,
+        "views": 64311,
         "videos": 109
       }
     },
@@ -1511,13 +1517,19 @@
           "subs": 5,
           "views": 9265,
           "videos": 25
+        },
+        {
+          "ts": "2026-11-04T02:43:19Z",
+          "subs": 5,
+          "views": 9467,
+          "videos": 26
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-03T22:31:36Z",
+        "ts": "2026-11-04T02:43:19Z",
         "subs": 5,
-        "views": 9265,
-        "videos": 25
+        "views": 9467,
+        "videos": 26
       }
     },
     "UC0faIhjf4Is3plnq0zEoQoQ": {
@@ -2226,10 +2238,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-04T02:43:19Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-03T22:31:36Z",
+        "ts": "2026-11-04T02:43:19Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -2238,11 +2256,22 @@
   },
   "videos": [
     {
+      "videoId": "mYZx9ilpRGs",
+      "title": "4 Kasım güncel akaryakıt fiyatları #Shorts",
+      "published": "2026-11-04T01:52:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/mYZx9ilpRGs/mqdefault.jpg",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "channelTitle": "Yol Masrafı"
+    },
+    {
       "videoId": "Y5IIX3RTv0U",
       "title": "Benzine zam! 3 Kasım akaryakıt fiyatları #Shorts",
       "published": "2026-11-03T03:17:59Z",
       "thumbnail": "https://i.ytimg.com/vi/Y5IIX3RTv0U/mqdefault.jpg",
-      "views": 212,
+      "views": 214,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2253,7 +2282,7 @@
       "title": "2 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-02T01:13:37Z",
       "thumbnail": "https://i.ytimg.com/vi/XbbnG2zgims/mqdefault.jpg",
-      "views": 357,
+      "views": 445,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2264,7 +2293,7 @@
       "title": "Benzine zam ve Motorine zam! 1 Kasım akaryakıt fiyatları #Shorts",
       "published": "2026-11-01T00:42:34Z",
       "thumbnail": "https://i.ytimg.com/vi/cJ4Ovyd004g/mqdefault.jpg",
-      "views": 727,
+      "views": 728,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2447,17 +2476,6 @@
       "channelTitle": "Yol Masrafı"
     },
     {
-      "videoId": "i15HUJGDPyA",
-      "title": "14 Ekim güncel akaryakıt fiyatları #Shorts",
-      "published": "2026-10-14T00:51:12Z",
-      "thumbnail": "https://i.ytimg.com/vi/i15HUJGDPyA/mqdefault.jpg",
-      "views": 145,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
-      "channelTitle": "Yol Masrafı"
-    },
-    {
       "videoId": "veNf0lsDXDE",
       "title": "Hayvan Dostlarım 🐮🦆 | Türkçe Çocuk Şarkısı",
       "published": "2026-10-26T21:26:58Z",
@@ -2484,7 +2502,7 @@
       "title": "İlyas Yalçıntaş hakkında tahliye kararı! Duruşma 15 Aralıka ertelendi - Magazin Haberleri #Shorts",
       "published": "2026-11-03T14:33:23Z",
       "thumbnail": "https://i.ytimg.com/vi/depismMbOTc/mqdefault.jpg",
-      "views": 299,
+      "views": 417,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2495,7 +2513,7 @@
       "title": "Ebru Gündeş Havalimanında Hayranıyla İkinci Kez Buluştu! O Fotoğraf Yeniden Gündem Oldu #Shorts",
       "published": "2026-11-03T14:33:17Z",
       "thumbnail": "https://i.ytimg.com/vi/JZD3Ce_4_eg/mqdefault.jpg",
-      "views": 1104,
+      "views": 1112,
       "likes": 11,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2517,7 +2535,7 @@
       "title": "\"Afife\" oyunu, İstanbul ve Ankara'da yeniden tiyatroseverlerle buluşacak #Shorts",
       "published": "2026-11-03T09:12:45Z",
       "thumbnail": "https://i.ytimg.com/vi/SimXRvNdmTg/mqdefault.jpg",
-      "views": 89,
+      "views": 91,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2528,7 +2546,7 @@
       "title": "Seren Serengil mirasını kime bırakacağını açıkladı! “Tek bir şartım var” #Shorts",
       "published": "2026-11-02T21:56:10Z",
       "thumbnail": "https://i.ytimg.com/vi/t4dYARIK8KE/mqdefault.jpg",
-      "views": 1006,
+      "views": 1010,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2539,7 +2557,7 @@
       "title": "Rapçi Killa Hakan’dan üzen haber! Yoğun bakıma kaldırıldı - Galeri - Trend Magazin #Shorts",
       "published": "2026-11-02T21:55:52Z",
       "thumbnail": "https://i.ytimg.com/vi/AL3hSAgXoKE/mqdefault.jpg",
-      "views": 94,
+      "views": 126,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2561,7 +2579,7 @@
       "title": "Hakkı Bulut'un şaşırtan vasiyet kararı: Çocukları için dikkat çeken sözler #Shorts",
       "published": "2026-11-02T16:27:42Z",
       "thumbnail": "https://i.ytimg.com/vi/sTjaGD8Ie2I/mqdefault.jpg",
-      "views": 1038,
+      "views": 1042,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2572,7 +2590,7 @@
       "title": "Şevket Çoruh'tan Altın Portakal'da olay yaratan hareket! Pınar Altuğ'u pas geçti, Tamer Karadağlı'ya",
       "published": "2026-11-02T09:03:02Z",
       "thumbnail": "https://i.ytimg.com/vi/teu3nyKUp6I/mqdefault.jpg",
-      "views": 1040,
+      "views": 1041,
       "likes": 10,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2583,7 +2601,7 @@
       "title": "Tarihi kent Petra’da sürpriz buluşma: Engin Altan Düzyatan ve Mike Tyson bir araya geldi... #Shorts",
       "published": "2026-11-02T09:02:59Z",
       "thumbnail": "https://i.ytimg.com/vi/3V16h90GE0Q/mqdefault.jpg",
-      "views": 380,
+      "views": 393,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2638,7 +2656,7 @@
       "title": "\"Bazı Yaptırımlara Gelemem\": Erman Toroğlu Sözcü TV'deki Canlı Yayında İstifa Ettiğini Duyurdu #Shor",
       "published": "2026-11-01T08:55:27Z",
       "thumbnail": "https://i.ytimg.com/vi/WUY9fKXIGYA/mqdefault.jpg",
-      "views": 1376,
+      "views": 1401,
       "likes": 2,
       "comments": 2,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2649,7 +2667,7 @@
       "title": "İbrahim Çelikkol ve oğlu Ali’nin Belek tatili sosyal medyayı salladı! #Shorts",
       "published": "2026-11-01T08:55:25Z",
       "thumbnail": "https://i.ytimg.com/vi/Uu4257qRPTU/mqdefault.jpg",
-      "views": 997,
+      "views": 999,
       "likes": 2,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2682,7 +2700,7 @@
       "title": "Yeşilçam’ın sevilen aktörü Ediz Hun’dan acı sözler: Yeşilçam artık bitti! #Shorts",
       "published": "2026-10-31T12:56:14Z",
       "thumbnail": "https://i.ytimg.com/vi/_lxRx0F8sgY/mqdefault.jpg",
-      "views": 1056,
+      "views": 1058,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2700,5 +2718,5 @@
       "channelTitle": "VİP Magazin Gündemi"
     }
   ],
-  "lastUpdated": "2026-11-03T22:31:36Z"
+  "lastUpdated": "2026-11-04T02:43:19Z"
 }
