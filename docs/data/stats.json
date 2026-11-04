@@ -748,10 +748,16 @@
           "subs": 36,
           "views": 64311,
           "videos": 109
+        },
+        {
+          "ts": "2026-11-04T06:28:41Z",
+          "subs": 36,
+          "views": 64311,
+          "videos": 109
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-04T06:27:24Z",
+        "ts": "2026-11-04T06:28:41Z",
         "subs": 36,
         "views": 64311,
         "videos": 109
@@ -1547,10 +1553,16 @@
           "subs": 5,
           "views": 9912,
           "videos": 26
+        },
+        {
+          "ts": "2026-11-04T06:28:41Z",
+          "subs": 5,
+          "views": 9912,
+          "videos": 26
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-04T06:27:24Z",
+        "ts": "2026-11-04T06:28:41Z",
         "subs": 5,
         "views": 9912,
         "videos": 26
@@ -2280,10 +2292,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-04T06:28:41Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-04T06:27:24Z",
+        "ts": "2026-11-04T06:28:41Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -2313,9 +2331,39 @@
         "views": 0,
         "videos": 1
       }
+    },
+    "UCCnx6P_R_uEHPbK5P5gOJJg": {
+      "id": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "title": "MerakLab",
+      "thumbnail": "https://yt3.ggpht.com/XB5Hw-QSpOrWtbntrdI9nahr7nwBwKzPDAGTsDGaYXajN9lbBpuNMC-edYBS1vCbmR_L1ZC-=s88-c-k-c0x00ffffff-no-rj",
+      "history": [
+        {
+          "ts": "2026-11-04T06:28:41Z",
+          "subs": 6,
+          "views": 9186,
+          "videos": 22
+        }
+      ],
+      "lastSnapshot": {
+        "ts": "2026-11-04T06:28:41Z",
+        "subs": 6,
+        "views": 9186,
+        "videos": 22
+      }
     }
   },
   "videos": [
+    {
+      "videoId": "HyGUUkiP0Xc",
+      "title": "Buyuk Buhranda Turkiyenin sanayi hamlesi",
+      "published": "2026-10-30T17:00:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/HyGUUkiP0Xc/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCw9TV6NXWn4Q-WZEP_p_LJQ",
+      "channelTitle": "gsggsdg"
+    },
     {
       "videoId": "mYZx9ilpRGs",
       "title": "4 Kasım güncel akaryakıt fiyatları #Shorts",
@@ -2662,7 +2710,7 @@
       "title": "Tarihi kent Petra’da sürpriz buluşma: Engin Altan Düzyatan ve Mike Tyson bir araya geldi... #Shorts",
       "published": "2026-11-02T09:02:59Z",
       "thumbnail": "https://i.ytimg.com/vi/3V16h90GE0Q/mqdefault.jpg",
-      "views": 393,
+      "views": 396,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2717,7 +2765,7 @@
       "title": "\"Bazı Yaptırımlara Gelemem\": Erman Toroğlu Sözcü TV'deki Canlı Yayında İstifa Ettiğini Duyurdu #Shor",
       "published": "2026-11-01T08:55:27Z",
       "thumbnail": "https://i.ytimg.com/vi/WUY9fKXIGYA/mqdefault.jpg",
-      "views": 1407,
+      "views": 1408,
       "likes": 2,
       "comments": 2,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2779,16 +2827,225 @@
       "channelTitle": "VİP Magazin Gündemi"
     },
     {
-      "videoId": "HyGUUkiP0Xc",
-      "title": "Buyuk Buhranda Turkiyenin sanayi hamlesi",
-      "published": "2026-10-30T17:00:28Z",
-      "thumbnail": "https://i.ytimg.com/vi/HyGUUkiP0Xc/mqdefault.jpg",
-      "views": 0,
+      "videoId": "947ghNCkkVc",
+      "title": "1000°C Aleve Dayanıp Pişmeyen Yumurtanın Sırrı! #shorts",
+      "published": "2026-11-03T16:00:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/947ghNCkkVc/mqdefault.jpg",
+      "views": 15,
       "likes": 0,
       "comments": 0,
-      "channelId": "UCw9TV6NXWn4Q-WZEP_p_LJQ",
-      "channelTitle": "gsggsdg"
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "3tsZyUSFXj8",
+      "title": "Görmeden 3 Kat Hızlı Okuyan Cihaz: Optofon! #shorts",
+      "published": "2026-11-03T09:00:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/3tsZyUSFXj8/mqdefault.jpg",
+      "views": 112,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "f0V0oHWTBC0",
+      "title": "Klavye Sesinden Şifrenizi Çalabilirler mi? ⌨️🔊 #shorts",
+      "published": "2026-11-02T16:00:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/f0V0oHWTBC0/mqdefault.jpg",
+      "views": 117,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "YtYT4EGZwMY",
+      "title": "Edison'ın Uykuda Yaptığı Gizli İcat! | Mucidin Bilinmeyen Geçmişi",
+      "published": "2026-11-02T13:30:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/YtYT4EGZwMY/mqdefault.jpg",
+      "views": 352,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "MZKB2la66Ig",
+      "title": "Deniz Altındaki Mekanik Telefon Ağı Nasıl Çalışır? #shorts",
+      "published": "2026-11-02T09:00:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/MZKB2la66Ig/mqdefault.jpg",
+      "views": 294,
+      "likes": 3,
+      "comments": 1,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "je56WTW0y88",
+      "title": "Güvercin Güdümlü Bombalar Gerçek miydi? 🐦💣 #shorts",
+      "published": "2026-11-02T03:24:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/je56WTW0y88/mqdefault.jpg",
+      "views": 261,
+      "likes": 2,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "5sup0laUYZY",
+      "title": "Thomas Edison: Karanlığı Yok Eden Mucidin Gerçek Hikâyesi | Belgesel",
+      "published": "2026-11-02T03:09:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/5sup0laUYZY/mqdefault.jpg",
+      "views": 83,
+      "likes": 1,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "3A055LCG4q4",
+      "title": "Nikola Tesla'nın Zihnini Değiştiren Büyük Acı! ⚡",
+      "published": "2026-11-01T20:57:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/3A055LCG4q4/mqdefault.jpg",
+      "views": 16,
+      "likes": 1,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "2hmU0L4Wdzo",
+      "title": "Tesla: Akımın Ardındaki Adam | MerakLab",
+      "published": "2026-11-01T18:48:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/2hmU0L4Wdzo/mqdefault.jpg",
+      "views": 8,
+      "likes": 1,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "CcAxiBOTK2k",
+      "title": "Mısır Piramitlerinin 4500 Yıllık Sırrı Çözüldü! #shorts",
+      "published": "2026-11-01T18:44:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/CcAxiBOTK2k/mqdefault.jpg",
+      "views": 395,
+      "likes": 6,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "w_8G86VheF8",
+      "title": "Ay Fotoğrafı Çekmek İçin Ne Kadar Hızlı Olmalısınız? #shorts",
+      "published": "2026-11-01T09:07:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/w_8G86VheF8/mqdefault.jpg",
+      "views": 593,
+      "likes": 5,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "uX3vW5nbNRc",
+      "title": "Bir Yıldız Kaç Gezegenini Uzaya Fırlatabilir? 🌌 #shorts",
+      "published": "2026-10-31T16:06:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/uX3vW5nbNRc/mqdefault.jpg",
+      "views": 250,
+      "likes": 1,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "6BZRcJokK2w",
+      "title": "İnsanlık Yılda Ne Kadar Çöp Üretiyor? 😱 #shorts",
+      "published": "2026-10-31T15:39:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/6BZRcJokK2w/mqdefault.jpg",
+      "views": 280,
+      "likes": 1,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "3Q_6UEqU25A",
+      "title": "Göl Suyu Yapraktan Eski Olabilir Mi? 🌊🍂 #shorts",
+      "published": "2026-10-31T15:14:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/3Q_6UEqU25A/mqdefault.jpg",
+      "views": 400,
+      "likes": 4,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "K3Gi5Nn7Y0E",
+      "title": "Okyanus Dibi Kaç Milyon Batık Gemi Saklıyor? #shorts",
+      "published": "2026-10-31T15:14:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/K3Gi5Nn7Y0E/mqdefault.jpg",
+      "views": 449,
+      "likes": 5,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "mlro5qeu49o",
+      "title": "Gece Uyurken Kaç Litre Hava Soluyorsun? 💤💨 #shorts",
+      "published": "2026-10-31T15:01:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/mlro5qeu49o/mqdefault.jpg",
+      "views": 1173,
+      "likes": 8,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "-Q7J_dLnRl0",
+      "title": "Kalbin Yılda Kaç Kez Atar? Şaşırtıcı Gerçek! #shorts",
+      "published": "2026-10-31T14:36:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/-Q7J_dLnRl0/mqdefault.jpg",
+      "views": 960,
+      "likes": 12,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "GDFzHHDCpdU",
+      "title": "1 Çay Kaşığı Nötron Yıldızı Kaç Ton Eder? 🥄✨ #shorts",
+      "published": "2026-10-30T20:47:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/GDFzHHDCpdU/mqdefault.jpg",
+      "views": 687,
+      "likes": 9,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "ux7qDpTiJ5c",
+      "title": "İnsan Beyni Günde Kaç Bilgi İşler? Şok Eden Gerçek! #shorts",
+      "published": "2026-10-30T19:11:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/ux7qDpTiJ5c/mqdefault.jpg",
+      "views": 606,
+      "likes": 8,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
+    },
+    {
+      "videoId": "NDSlzwIWNqw",
+      "title": "Dünyada kaç karınca var? Cevap inanılmaz 🐜 #shorts",
+      "published": "2026-10-30T18:27:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/NDSlzwIWNqw/mqdefault.jpg",
+      "views": 1189,
+      "likes": 12,
+      "comments": 0,
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
     }
   ],
-  "lastUpdated": "2026-11-04T06:27:24Z"
+  "lastUpdated": "2026-11-04T06:28:41Z"
 }
