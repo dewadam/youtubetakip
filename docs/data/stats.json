@@ -742,10 +742,16 @@
           "subs": 36,
           "views": 64311,
           "videos": 109
+        },
+        {
+          "ts": "2026-11-04T06:27:24Z",
+          "subs": 36,
+          "views": 64311,
+          "videos": 109
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-04T06:23:53Z",
+        "ts": "2026-11-04T06:27:24Z",
         "subs": 36,
         "views": 64311,
         "videos": 109
@@ -1535,12 +1541,18 @@
           "subs": 5,
           "views": 9467,
           "videos": 26
+        },
+        {
+          "ts": "2026-11-04T06:27:24Z",
+          "subs": 5,
+          "views": 9912,
+          "videos": 26
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-04T06:23:53Z",
+        "ts": "2026-11-04T06:27:24Z",
         "subs": 5,
-        "views": 9467,
+        "views": 9912,
         "videos": 26
       }
     },
@@ -2262,10 +2274,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-04T06:27:24Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-04T06:23:53Z",
+        "ts": "2026-11-04T06:27:24Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -2281,10 +2299,16 @@
           "subs": 0,
           "views": 0,
           "videos": 1
+        },
+        {
+          "ts": "2026-11-04T06:27:24Z",
+          "subs": 0,
+          "views": 0,
+          "videos": 1
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-04T06:23:53Z",
+        "ts": "2026-11-04T06:27:24Z",
         "subs": 0,
         "views": 0,
         "videos": 1
@@ -2550,7 +2574,7 @@
       "title": "Ebru Gündeş Havalimanında Hayranıyla İkinci Kez Buluştu! O Fotoğraf Yeniden Gündem Oldu #Shorts",
       "published": "2026-11-03T14:33:17Z",
       "thumbnail": "https://i.ytimg.com/vi/JZD3Ce_4_eg/mqdefault.jpg",
-      "views": 1114,
+      "views": 1115,
       "likes": 11,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2638,7 +2662,7 @@
       "title": "Tarihi kent Petra’da sürpriz buluşma: Engin Altan Düzyatan ve Mike Tyson bir araya geldi... #Shorts",
       "published": "2026-11-02T09:02:59Z",
       "thumbnail": "https://i.ytimg.com/vi/3V16h90GE0Q/mqdefault.jpg",
-      "views": 396,
+      "views": 393,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2766,5 +2790,5 @@
       "channelTitle": "gsggsdg"
     }
   ],
-  "lastUpdated": "2026-11-04T06:23:53Z"
+  "lastUpdated": "2026-11-04T06:27:24Z"
 }
