@@ -113,7 +113,10 @@ def load_json(path, default):
 def main():
     if not API_KEY:
         print("HATA: YOUTUBE_API_KEY yok.", file=sys.stderr); sys.exit(1)
-    config = load_json(CHANNELS_FILE, {"channels": []})
+    try:
+        config = json.loads(CHANNELS_FILE.read_text(encoding="utf-8"))
+    except Exception as e:
+        print(f"HATA: channels.json okunamadı: {e}", file=sys.stderr); sys.exit(1)
     identifiers = config.get("channels", [])
     if not identifiers:
         print("channels.json boş."); return
@@ -169,7 +172,8 @@ def main():
         print(f"Kaydedildi: {STATS_FILE}")
     if failures:
         print(f"UYARI: {failures} kanal işlenemedi.", file=sys.stderr)
-        sys.exit(1)
+        if failures == len(identifiers):
+            sys.exit(1)  # sadece hiçbir kanal çekilemediyse hata ver
 
 if __name__ == "__main__":
     main()
