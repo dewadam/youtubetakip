@@ -754,10 +754,16 @@
           "subs": 36,
           "views": 64311,
           "videos": 109
+        },
+        {
+          "ts": "2026-11-04T06:33:26Z",
+          "subs": 36,
+          "views": 64311,
+          "videos": 109
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-04T06:28:41Z",
+        "ts": "2026-11-04T06:33:26Z",
         "subs": 36,
         "views": 64311,
         "videos": 109
@@ -1559,12 +1565,18 @@
           "subs": 5,
           "views": 9912,
           "videos": 26
+        },
+        {
+          "ts": "2026-11-04T06:33:26Z",
+          "subs": 5,
+          "views": 9467,
+          "videos": 26
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-04T06:28:41Z",
+        "ts": "2026-11-04T06:33:26Z",
         "subs": 5,
-        "views": 9912,
+        "views": 9467,
         "videos": 26
       }
     },
@@ -2298,38 +2310,19 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-04T06:33:26Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-04T06:28:41Z",
+        "ts": "2026-11-04T06:33:26Z",
         "subs": 0,
         "views": 6,
         "videos": 2
-      }
-    },
-    "UCw9TV6NXWn4Q-WZEP_p_LJQ": {
-      "id": "UCw9TV6NXWn4Q-WZEP_p_LJQ",
-      "title": "gsggsdg",
-      "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nr7Lt2gYMHmuJFz67U7ZBR1IPcgI2sEthAAz-isCC0_C4WXVAkXQmoyMkDbLr9Fzyc4g=s88-c-k-c0x00ffffff-no-rj",
-      "history": [
-        {
-          "ts": "2026-11-04T06:23:53Z",
-          "subs": 0,
-          "views": 0,
-          "videos": 1
-        },
-        {
-          "ts": "2026-11-04T06:27:24Z",
-          "subs": 0,
-          "views": 0,
-          "videos": 1
-        }
-      ],
-      "lastSnapshot": {
-        "ts": "2026-11-04T06:27:24Z",
-        "subs": 0,
-        "views": 0,
-        "videos": 1
       }
     },
     "UCCnx6P_R_uEHPbK5P5gOJJg": {
@@ -2342,10 +2335,16 @@
           "subs": 6,
           "views": 9186,
           "videos": 22
+        },
+        {
+          "ts": "2026-11-04T06:33:26Z",
+          "subs": 6,
+          "views": 9186,
+          "videos": 22
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-04T06:28:41Z",
+        "ts": "2026-11-04T06:33:26Z",
         "subs": 6,
         "views": 9186,
         "videos": 22
@@ -2353,17 +2352,6 @@
     }
   },
   "videos": [
-    {
-      "videoId": "HyGUUkiP0Xc",
-      "title": "Buyuk Buhranda Turkiyenin sanayi hamlesi",
-      "published": "2026-10-30T17:00:28Z",
-      "thumbnail": "https://i.ytimg.com/vi/HyGUUkiP0Xc/mqdefault.jpg",
-      "views": 0,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UCw9TV6NXWn4Q-WZEP_p_LJQ",
-      "channelTitle": "gsggsdg"
-    },
     {
       "videoId": "mYZx9ilpRGs",
       "title": "4 Kasım güncel akaryakıt fiyatları #Shorts",
@@ -2622,7 +2610,7 @@
       "title": "Ebru Gündeş Havalimanında Hayranıyla İkinci Kez Buluştu! O Fotoğraf Yeniden Gündem Oldu #Shorts",
       "published": "2026-11-03T14:33:17Z",
       "thumbnail": "https://i.ytimg.com/vi/JZD3Ce_4_eg/mqdefault.jpg",
-      "views": 1115,
+      "views": 1114,
       "likes": 11,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2765,7 +2753,7 @@
       "title": "\"Bazı Yaptırımlara Gelemem\": Erman Toroğlu Sözcü TV'deki Canlı Yayında İstifa Ettiğini Duyurdu #Shor",
       "published": "2026-11-01T08:55:27Z",
       "thumbnail": "https://i.ytimg.com/vi/WUY9fKXIGYA/mqdefault.jpg",
-      "views": 1408,
+      "views": 1407,
       "likes": 2,
       "comments": 2,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2842,7 +2830,7 @@
       "title": "Görmeden 3 Kat Hızlı Okuyan Cihaz: Optofon! #shorts",
       "published": "2026-11-03T09:00:55Z",
       "thumbnail": "https://i.ytimg.com/vi/3tsZyUSFXj8/mqdefault.jpg",
-      "views": 112,
+      "views": 115,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -2897,7 +2885,7 @@
       "title": "Thomas Edison: Karanlığı Yok Eden Mucidin Gerçek Hikâyesi | Belgesel",
       "published": "2026-11-02T03:09:38Z",
       "thumbnail": "https://i.ytimg.com/vi/5sup0laUYZY/mqdefault.jpg",
-      "views": 83,
+      "views": 84,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3047,5 +3035,5 @@
       "channelTitle": "MerakLab"
     }
   ],
-  "lastUpdated": "2026-11-04T06:28:41Z"
+  "lastUpdated": "2026-11-04T06:33:26Z"
 }
