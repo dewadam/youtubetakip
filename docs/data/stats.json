@@ -808,13 +808,19 @@
           "subs": 37,
           "views": 72733,
           "videos": 118
+        },
+        {
+          "ts": "2026-11-06T14:48:44Z",
+          "subs": 37,
+          "views": 72733,
+          "videos": 122
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-06T06:45:17Z",
+        "ts": "2026-11-06T14:48:44Z",
         "subs": 37,
         "views": 72733,
-        "videos": 118
+        "videos": 122
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -1667,10 +1673,16 @@
           "subs": 5,
           "views": 10650,
           "videos": 28
+        },
+        {
+          "ts": "2026-11-06T14:48:44Z",
+          "subs": 5,
+          "views": 10650,
+          "videos": 28
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-06T06:45:17Z",
+        "ts": "2026-11-06T14:48:44Z",
         "subs": 5,
         "views": 10650,
         "videos": 28
@@ -2460,10 +2472,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-06T14:48:44Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-06T06:45:17Z",
+        "ts": "2026-11-06T14:48:44Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -2533,13 +2551,19 @@
           "subs": 7,
           "views": 9889,
           "videos": 26
+        },
+        {
+          "ts": "2026-11-06T14:48:44Z",
+          "subs": 7,
+          "views": 9889,
+          "videos": 27
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-06T06:45:17Z",
+        "ts": "2026-11-06T14:48:44Z",
         "subs": 7,
         "views": 9889,
-        "videos": 26
+        "videos": 27
       }
     }
   },
@@ -2549,7 +2573,7 @@
       "title": "Benzinde indirim ve Motorine zam! 6 Kasım akaryakıt fiyatları #Shorts",
       "published": "2026-11-06T01:59:18Z",
       "thumbnail": "https://i.ytimg.com/vi/hmRkwkTisTY/mqdefault.jpg",
-      "views": 84,
+      "views": 163,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2560,7 +2584,7 @@
       "title": "5 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-05T01:59:54Z",
       "thumbnail": "https://i.ytimg.com/vi/Bshx_3HruBw/mqdefault.jpg",
-      "views": 57,
+      "views": 118,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2571,7 +2595,7 @@
       "title": "4 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-04T01:52:28Z",
       "thumbnail": "https://i.ytimg.com/vi/mYZx9ilpRGs/mqdefault.jpg",
-      "views": 419,
+      "views": 421,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2787,11 +2811,55 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "j_aSn7PpcDk",
+      "title": "Cem Yılmaz'dan aşk hayatıyla ilgili şaşırtan açıklama: Doktor yasakladı #Shorts",
+      "published": "2026-11-06T14:31:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/j_aSn7PpcDk/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "-nln4Wvegvc",
+      "title": "76 yaşındaki Morgan Fairchild bir yetişkin içerik platformunda hesap açtı #Shorts",
+      "published": "2026-11-06T14:31:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/-nln4Wvegvc/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "0v7P5WsNUek",
+      "title": "Yoğun Bakımdan Çıkan Murat Cemcir Aylar Sonra Kameralar Karşısında Sağlık Durumunu Anlattı #Shorts",
+      "published": "2026-11-06T09:04:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/0v7P5WsNUek/mqdefault.jpg",
+      "views": 111,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "Y5SFMqydV28",
+      "title": "Ünlüleri buluşturan davet. Serenay Sarıkaya ve Ajda Pekkan düeti geceye damga vurdu #Shorts",
+      "published": "2026-11-06T09:03:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/Y5SFMqydV28/mqdefault.jpg",
+      "views": 620,
+      "likes": 6,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "f5X_7PmmPqM",
       "title": "Cüneyt Arkın'ın ailesi harekete geçti... Altı film şirketine telif davası... Odatv araştırdı: Günde",
       "published": "2026-11-05T20:16:50Z",
       "thumbnail": "https://i.ytimg.com/vi/f5X_7PmmPqM/mqdefault.jpg",
-      "views": 566,
+      "views": 575,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2802,7 +2870,7 @@
       "title": "Şarkıcı Sinan Özen trafik kazası geçirdi #Shorts",
       "published": "2026-11-05T20:16:40Z",
       "thumbnail": "https://i.ytimg.com/vi/4-kYzgdU_fo/mqdefault.jpg",
-      "views": 1052,
+      "views": 1061,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2813,7 +2881,7 @@
       "title": "Şarkıcı Derya Uluğ ile Asil Gök'ün düğün tarihi belli oldu: Nikah masasına oturuyorlar #Shorts",
       "published": "2026-11-05T09:12:28Z",
       "thumbnail": "https://i.ytimg.com/vi/OOOK7w-E5b0/mqdefault.jpg",
-      "views": 957,
+      "views": 958,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2824,7 +2892,7 @@
       "title": "Mahkeme heyeti Ela Rümeysa Cebeci ile Sadettin Saran hakkında \"uyuşturucu veya uyarıcı madde ticaret",
       "published": "2026-11-05T09:11:40Z",
       "thumbnail": "https://i.ytimg.com/vi/8d3HZXRcAoo/mqdefault.jpg",
-      "views": 31,
+      "views": 34,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2835,7 +2903,7 @@
       "title": "Fon soruşturması. Fatma Betül Sayan Kaya, İlyas Kaya ve İbrahim Ömer Gönül ifadeye çağrıldı #Shorts",
       "published": "2026-11-04T20:01:50Z",
       "thumbnail": "https://i.ytimg.com/vi/Gsn1jp_4pZA/mqdefault.jpg",
-      "views": 73,
+      "views": 76,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2879,7 +2947,7 @@
       "title": "RAPÇİ KİLLA HAKAN KİMDİR, KAÇ YAŞINDA? Killa Hakan yoğun bakımda mı, sağlık durumu nasıl? #Shorts",
       "published": "2026-11-04T08:48:12Z",
       "thumbnail": "https://i.ytimg.com/vi/1Rde_0OSDsE/mqdefault.jpg",
-      "views": 285,
+      "views": 299,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2890,7 +2958,7 @@
       "title": "Yılmaz Erdoğan, 'Organize İşler'deki kam davulu sahnesi nedeniyle özür diledi #Shorts",
       "published": "2026-11-04T08:48:09Z",
       "thumbnail": "https://i.ytimg.com/vi/WpLDB5ycE_4/mqdefault.jpg",
-      "views": 981,
+      "views": 985,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2912,7 +2980,7 @@
       "title": "Ebru Gündeş Havalimanında Hayranıyla İkinci Kez Buluştu! O Fotoğraf Yeniden Gündem Oldu #Shorts",
       "published": "2026-11-03T14:33:17Z",
       "thumbnail": "https://i.ytimg.com/vi/JZD3Ce_4_eg/mqdefault.jpg",
-      "views": 1387,
+      "views": 1388,
       "likes": 13,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2923,7 +2991,7 @@
       "title": "Murat Boz'un Fon ve Hisselerde Battığı İddia Edildi: Şarkıcıdan \"Hadi Ya? Benim Niye Haberim Yok\" Ya",
       "published": "2026-11-03T09:12:49Z",
       "thumbnail": "https://i.ytimg.com/vi/YftiKqVMUDg/mqdefault.jpg",
-      "views": 902,
+      "views": 903,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2963,55 +3031,22 @@
       "channelTitle": "VİP Magazin Gündemi"
     },
     {
-      "videoId": "C29iyKgj1zc",
-      "title": "Nev’in ardından miras tartışması başlamıştı: Ağabeyi hakkındaki iddialara yanıt verdi! #Shorts",
-      "published": "2026-11-02T16:27:48Z",
-      "thumbnail": "https://i.ytimg.com/vi/C29iyKgj1zc/mqdefault.jpg",
-      "views": 123,
+      "videoId": "hIUTR7oMf-o",
+      "title": "Görünmez Torpidolar Nasıl Hedefi Bulur? 🌊🚀 #shorts",
+      "published": "2026-11-06T09:01:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/hIUTR7oMf-o/mqdefault.jpg",
+      "views": 36,
       "likes": 0,
       "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "sTjaGD8Ie2I",
-      "title": "Hakkı Bulut'un şaşırtan vasiyet kararı: Çocukları için dikkat çeken sözler #Shorts",
-      "published": "2026-11-02T16:27:42Z",
-      "thumbnail": "https://i.ytimg.com/vi/sTjaGD8Ie2I/mqdefault.jpg",
-      "views": 1047,
-      "likes": 3,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "teu3nyKUp6I",
-      "title": "Şevket Çoruh'tan Altın Portakal'da olay yaratan hareket! Pınar Altuğ'u pas geçti, Tamer Karadağlı'ya",
-      "published": "2026-11-02T09:03:02Z",
-      "thumbnail": "https://i.ytimg.com/vi/teu3nyKUp6I/mqdefault.jpg",
-      "views": 1057,
-      "likes": 10,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "3V16h90GE0Q",
-      "title": "Tarihi kent Petra’da sürpriz buluşma: Engin Altan Düzyatan ve Mike Tyson bir araya geldi... #Shorts",
-      "published": "2026-11-02T09:02:59Z",
-      "thumbnail": "https://i.ytimg.com/vi/3V16h90GE0Q/mqdefault.jpg",
-      "views": 411,
-      "likes": 7,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
     },
     {
       "videoId": "fzDbDbKjx1Y",
       "title": "Zamanı Yavaşlatan Kuantum Cıva Teknolojisi! #shorts",
       "published": "2026-11-05T16:01:04Z",
       "thumbnail": "https://i.ytimg.com/vi/fzDbDbKjx1Y/mqdefault.jpg",
-      "views": 60,
+      "views": 62,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3033,7 +3068,7 @@
       "title": "7 Yıl Pilsiz Çalışan Casus Böcek: The Thing! #shorts",
       "published": "2026-11-04T16:00:50Z",
       "thumbnail": "https://i.ytimg.com/vi/B73stvI1MCE/mqdefault.jpg",
-      "views": 83,
+      "views": 84,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3044,7 +3079,7 @@
       "title": "1860'ta Bir Resim Göndermek 1 Saat Sürüyordu! 😱 #shorts",
       "published": "2026-11-04T09:00:55Z",
       "thumbnail": "https://i.ytimg.com/vi/UYjRIPR3Bbc/mqdefault.jpg",
-      "views": 130,
+      "views": 135,
       "likes": 1,
       "comments": 1,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3132,7 +3167,7 @@
       "title": "Nikola Tesla'nın Zihnini Değiştiren Büyük Acı! ⚡",
       "published": "2026-11-01T20:57:08Z",
       "thumbnail": "https://i.ytimg.com/vi/3A055LCG4q4/mqdefault.jpg",
-      "views": 17,
+      "views": 18,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3214,18 +3249,7 @@
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
-    },
-    {
-      "videoId": "mlro5qeu49o",
-      "title": "Gece Uyurken Kaç Litre Hava Soluyorsun? 💤💨 #shorts",
-      "published": "2026-10-31T15:01:30Z",
-      "thumbnail": "https://i.ytimg.com/vi/mlro5qeu49o/mqdefault.jpg",
-      "views": 1173,
-      "likes": 8,
-      "comments": 0,
-      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
-      "channelTitle": "MerakLab"
     }
   ],
-  "lastUpdated": "2026-11-06T06:45:17Z"
+  "lastUpdated": "2026-11-06T14:48:44Z"
 }
