@@ -826,12 +826,18 @@
           "subs": 38,
           "views": 74428,
           "videos": 125
+        },
+        {
+          "ts": "2026-11-07T06:23:39Z",
+          "subs": 38,
+          "views": 76818,
+          "videos": 125
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-07T00:23:31Z",
+        "ts": "2026-11-07T06:23:39Z",
         "subs": 38,
-        "views": 74428,
+        "views": 76818,
         "videos": 125
       }
     },
@@ -1703,13 +1709,19 @@
           "subs": 5,
           "views": 10865,
           "videos": 28
+        },
+        {
+          "ts": "2026-11-07T06:23:39Z",
+          "subs": 5,
+          "views": 11194,
+          "videos": 29
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-07T00:23:31Z",
+        "ts": "2026-11-07T06:23:39Z",
         "subs": 5,
-        "views": 10865,
-        "videos": 28
+        "views": 11194,
+        "videos": 29
       }
     },
     "UC0faIhjf4Is3plnq0zEoQoQ": {
@@ -2514,10 +2526,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-07T06:23:39Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-07T00:23:31Z",
+        "ts": "2026-11-07T06:23:39Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -2605,23 +2623,40 @@
           "subs": 7,
           "views": 9921,
           "videos": 28
+        },
+        {
+          "ts": "2026-11-07T06:23:39Z",
+          "subs": 7,
+          "views": 9994,
+          "videos": 28
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-07T00:23:31Z",
+        "ts": "2026-11-07T06:23:39Z",
         "subs": 7,
-        "views": 9921,
+        "views": 9994,
         "videos": 28
       }
     }
   },
   "videos": [
     {
+      "videoId": "esKpilrd0E4",
+      "title": "Motorinde indirim! 7 Kasım akaryakıt fiyatları #Shorts",
+      "published": "2026-11-07T01:34:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/esKpilrd0E4/mqdefault.jpg",
+      "views": 57,
+      "likes": 1,
+      "comments": 0,
+      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "channelTitle": "Yol Masrafı"
+    },
+    {
       "videoId": "hmRkwkTisTY",
       "title": "Benzinde indirim ve Motorine zam! 6 Kasım akaryakıt fiyatları #Shorts",
       "published": "2026-11-06T01:59:18Z",
       "thumbnail": "https://i.ytimg.com/vi/hmRkwkTisTY/mqdefault.jpg",
-      "views": 435,
+      "views": 491,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2632,7 +2667,7 @@
       "title": "5 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-05T01:59:54Z",
       "thumbnail": "https://i.ytimg.com/vi/Bshx_3HruBw/mqdefault.jpg",
-      "views": 168,
+      "views": 179,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2643,7 +2678,7 @@
       "title": "4 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-04T01:52:28Z",
       "thumbnail": "https://i.ytimg.com/vi/mYZx9ilpRGs/mqdefault.jpg",
-      "views": 421,
+      "views": 422,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2676,7 +2711,7 @@
       "title": "Benzine zam ve Motorine zam! 1 Kasım akaryakıt fiyatları #Shorts",
       "published": "2026-11-01T00:42:34Z",
       "thumbnail": "https://i.ytimg.com/vi/cJ4Ovyd004g/mqdefault.jpg",
-      "views": 726,
+      "views": 727,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2826,17 +2861,6 @@
       "channelTitle": "Yol Masrafı"
     },
     {
-      "videoId": "bLHff7RwbX0",
-      "title": "Benzine zam ve Motorine zam! 17 Ekim akaryakıt fiyatları #Shorts",
-      "published": "2026-10-17T00:09:28Z",
-      "thumbnail": "https://i.ytimg.com/vi/bLHff7RwbX0/mqdefault.jpg",
-      "views": 979,
-      "likes": 1,
-      "comments": 0,
-      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
-      "channelTitle": "Yol Masrafı"
-    },
-    {
       "videoId": "veNf0lsDXDE",
       "title": "Hayvan Dostlarım 🐮🦆 | Türkçe Çocuk Şarkısı",
       "published": "2026-10-26T21:26:58Z",
@@ -2863,7 +2887,7 @@
       "title": "Seren Serengil yaşadığı sağlık sorunlarını anlattı: 42 kiloda kemiklerim adeta eridi #Shorts",
       "published": "2026-11-06T19:41:53Z",
       "thumbnail": "https://i.ytimg.com/vi/HQPiUq4B_Ew/mqdefault.jpg",
-      "views": 812,
+      "views": 1134,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2874,7 +2898,7 @@
       "title": "Muhteşem Yüzyıl'ın Hatice Sultan'ı ve Pargalı İbrahim'i yıllar sonra aynı karede #Shorts",
       "published": "2026-11-06T19:41:42Z",
       "thumbnail": "https://i.ytimg.com/vi/wG5rTmCwXRM/mqdefault.jpg",
-      "views": 751,
+      "views": 1063,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2885,7 +2909,7 @@
       "title": "Cem Yılmaz'dan aşk hayatıyla ilgili şaşırtan açıklama: Doktor yasakladı #Shorts",
       "published": "2026-11-06T14:31:21Z",
       "thumbnail": "https://i.ytimg.com/vi/j_aSn7PpcDk/mqdefault.jpg",
-      "views": 975,
+      "views": 978,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2896,8 +2920,8 @@
       "title": "76 yaşındaki Morgan Fairchild bir yetişkin içerik platformunda hesap açtı #Shorts",
       "published": "2026-11-06T14:31:19Z",
       "thumbnail": "https://i.ytimg.com/vi/-nln4Wvegvc/mqdefault.jpg",
-      "views": 262,
-      "likes": 2,
+      "views": 473,
+      "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -2907,7 +2931,7 @@
       "title": "Yoğun Bakımdan Çıkan Murat Cemcir Aylar Sonra Kameralar Karşısında Sağlık Durumunu Anlattı #Shorts",
       "published": "2026-11-06T09:04:10Z",
       "thumbnail": "https://i.ytimg.com/vi/0v7P5WsNUek/mqdefault.jpg",
-      "views": 997,
+      "views": 1001,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2940,7 +2964,7 @@
       "title": "Şarkıcı Sinan Özen trafik kazası geçirdi #Shorts",
       "published": "2026-11-05T20:16:40Z",
       "thumbnail": "https://i.ytimg.com/vi/4-kYzgdU_fo/mqdefault.jpg",
-      "views": 1158,
+      "views": 1159,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2951,7 +2975,7 @@
       "title": "Şarkıcı Derya Uluğ ile Asil Gök'ün düğün tarihi belli oldu: Nikah masasına oturuyorlar #Shorts",
       "published": "2026-11-05T09:12:28Z",
       "thumbnail": "https://i.ytimg.com/vi/OOOK7w-E5b0/mqdefault.jpg",
-      "views": 959,
+      "views": 960,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2962,7 +2986,7 @@
       "title": "Mahkeme heyeti Ela Rümeysa Cebeci ile Sadettin Saran hakkında \"uyuşturucu veya uyarıcı madde ticaret",
       "published": "2026-11-05T09:11:40Z",
       "thumbnail": "https://i.ytimg.com/vi/8d3HZXRcAoo/mqdefault.jpg",
-      "views": 42,
+      "views": 58,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2973,7 +2997,7 @@
       "title": "Fon soruşturması. Fatma Betül Sayan Kaya, İlyas Kaya ve İbrahim Ömer Gönül ifadeye çağrıldı #Shorts",
       "published": "2026-11-04T20:01:50Z",
       "thumbnail": "https://i.ytimg.com/vi/Gsn1jp_4pZA/mqdefault.jpg",
-      "views": 78,
+      "views": 79,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2984,7 +3008,7 @@
       "title": "Mehmet Günsür'den eşiyle ilgili olumsuz yorumlara yanıt: 'Onunla her gün 10 kez evlenebilirim' #Shor",
       "published": "2026-11-04T20:01:47Z",
       "thumbnail": "https://i.ytimg.com/vi/uNjbwTdsi7M/mqdefault.jpg",
-      "views": 1032,
+      "views": 1033,
       "likes": 10,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -2995,7 +3019,7 @@
       "title": "Ekranların Yıldızı Demet Özdemir, Prime Video Dizisi \"Grand Maison İstanbul\"un Başrolünde! #Shorts",
       "published": "2026-11-04T14:47:47Z",
       "thumbnail": "https://i.ytimg.com/vi/7QCb9uYK41Y/mqdefault.jpg",
-      "views": 507,
+      "views": 508,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3006,7 +3030,7 @@
       "title": "Uyuşturucu davasında 2. duruşma görüldü: Spiker Ela Rümeysa Cebeci, Sadettin Saran ile mesajlaşmalar",
       "published": "2026-11-04T14:47:45Z",
       "thumbnail": "https://i.ytimg.com/vi/dopMYrph3Vc/mqdefault.jpg",
-      "views": 1016,
+      "views": 1017,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3017,7 +3041,7 @@
       "title": "RAPÇİ KİLLA HAKAN KİMDİR, KAÇ YAŞINDA? Killa Hakan yoğun bakımda mı, sağlık durumu nasıl? #Shorts",
       "published": "2026-11-04T08:48:12Z",
       "thumbnail": "https://i.ytimg.com/vi/1Rde_0OSDsE/mqdefault.jpg",
-      "views": 303,
+      "views": 305,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3028,7 +3052,7 @@
       "title": "Yılmaz Erdoğan, 'Organize İşler'deki kam davulu sahnesi nedeniyle özür diledi #Shorts",
       "published": "2026-11-04T08:48:09Z",
       "thumbnail": "https://i.ytimg.com/vi/WpLDB5ycE_4/mqdefault.jpg",
-      "views": 987,
+      "views": 989,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3072,7 +3096,7 @@
       "title": "\"Afife\" oyunu, İstanbul ve Ankara'da yeniden tiyatroseverlerle buluşacak #Shorts",
       "published": "2026-11-03T09:12:45Z",
       "thumbnail": "https://i.ytimg.com/vi/SimXRvNdmTg/mqdefault.jpg",
-      "views": 105,
+      "views": 106,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3094,7 +3118,7 @@
       "title": "Görünmez Torpidolar Nasıl Hedefi Bulur? 🌊🚀 #shorts",
       "published": "2026-11-06T09:01:07Z",
       "thumbnail": "https://i.ytimg.com/vi/hIUTR7oMf-o/mqdefault.jpg",
-      "views": 69,
+      "views": 90,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3105,7 +3129,7 @@
       "title": "Zamanı Yavaşlatan Kuantum Cıva Teknolojisi! #shorts",
       "published": "2026-11-05T16:01:04Z",
       "thumbnail": "https://i.ytimg.com/vi/fzDbDbKjx1Y/mqdefault.jpg",
-      "views": 63,
+      "views": 69,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3116,7 +3140,7 @@
       "title": "140 Yıl Önceki Elektrikli Köpek Neydi? 🐶⚡ #shorts",
       "published": "2026-11-05T09:00:51Z",
       "thumbnail": "https://i.ytimg.com/vi/tzFs0iCxiao/mqdefault.jpg",
-      "views": 51,
+      "views": 52,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3182,7 +3206,7 @@
       "title": "Edison'ın Uykuda Yaptığı Gizli İcat! | Mucidin Bilinmeyen Geçmişi",
       "published": "2026-11-02T13:30:35Z",
       "thumbnail": "https://i.ytimg.com/vi/YtYT4EGZwMY/mqdefault.jpg",
-      "views": 372,
+      "views": 370,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3215,7 +3239,7 @@
       "title": "Thomas Edison: Karanlığı Yok Eden Mucidin Gerçek Hikâyesi | Belgesel",
       "published": "2026-11-02T03:09:38Z",
       "thumbnail": "https://i.ytimg.com/vi/5sup0laUYZY/mqdefault.jpg",
-      "views": 115,
+      "views": 117,
       "likes": 2,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3299,5 +3323,5 @@
       "channelTitle": "MerakLab"
     }
   ],
-  "lastUpdated": "2026-11-07T00:23:31Z"
+  "lastUpdated": "2026-11-07T06:23:39Z"
 }
