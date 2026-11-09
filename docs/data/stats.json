@@ -880,10 +880,16 @@
           "subs": 39,
           "views": 87735,
           "videos": 137
+        },
+        {
+          "ts": "2026-11-09T02:03:18Z",
+          "subs": 39,
+          "views": 87735,
+          "videos": 137
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-08T22:44:49Z",
+        "ts": "2026-11-09T02:03:18Z",
         "subs": 39,
         "views": 87735,
         "videos": 137
@@ -1811,13 +1817,19 @@
           "subs": 7,
           "views": 12347,
           "videos": 30
+        },
+        {
+          "ts": "2026-11-09T02:03:18Z",
+          "subs": 7,
+          "views": 12347,
+          "videos": 31
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-08T22:44:49Z",
+        "ts": "2026-11-09T02:03:18Z",
         "subs": 7,
         "views": 12347,
-        "videos": 30
+        "videos": 31
       }
     },
     "UC0faIhjf4Is3plnq0zEoQoQ": {
@@ -2676,10 +2688,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-09T02:03:18Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-08T22:44:49Z",
+        "ts": "2026-11-09T02:03:18Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -2821,10 +2839,16 @@
           "subs": 9,
           "views": 11192,
           "videos": 32
+        },
+        {
+          "ts": "2026-11-09T02:03:18Z",
+          "subs": 9,
+          "views": 11192,
+          "videos": 32
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-08T22:44:49Z",
+        "ts": "2026-11-09T02:03:18Z",
         "subs": 9,
         "views": 11192,
         "videos": 32
@@ -2832,6 +2856,17 @@
     }
   },
   "videos": [
+    {
+      "videoId": "81lRuHSpu6g",
+      "title": "9 Kasım güncel akaryakıt fiyatları #Shorts",
+      "published": "2026-11-09T01:24:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/81lRuHSpu6g/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
+      "channelTitle": "Yol Masrafı"
+    },
     {
       "videoId": "UiD8qhdIYb8",
       "title": "8 Kasım güncel akaryakıt fiyatları #Shorts",
@@ -2848,7 +2883,7 @@
       "title": "Motorinde indirim! 7 Kasım akaryakıt fiyatları #Shorts",
       "published": "2026-11-07T01:34:29Z",
       "thumbnail": "https://i.ytimg.com/vi/esKpilrd0E4/mqdefault.jpg",
-      "views": 937,
+      "views": 938,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2881,7 +2916,7 @@
       "title": "4 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-04T01:52:28Z",
       "thumbnail": "https://i.ytimg.com/vi/mYZx9ilpRGs/mqdefault.jpg",
-      "views": 419,
+      "views": 418,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -2925,7 +2960,7 @@
       "title": "31 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-31T01:25:20Z",
       "thumbnail": "https://i.ytimg.com/vi/pZ_OeT0Wr7c/mqdefault.jpg",
-      "views": 456,
+      "views": 457,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -3042,17 +3077,6 @@
       "channelTitle": "Yol Masrafı"
     },
     {
-      "videoId": "6BhwZI1QLpE",
-      "title": "19 Ekim güncel akaryakıt fiyatları #Shorts",
-      "published": "2026-10-18T23:54:22Z",
-      "thumbnail": "https://i.ytimg.com/vi/6BhwZI1QLpE/mqdefault.jpg",
-      "views": 61,
-      "likes": 1,
-      "comments": 0,
-      "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
-      "channelTitle": "Yol Masrafı"
-    },
-    {
       "videoId": "veNf0lsDXDE",
       "title": "Hayvan Dostlarım 🐮🦆 | Türkçe Çocuk Şarkısı",
       "published": "2026-10-26T21:26:58Z",
@@ -3079,7 +3103,7 @@
       "title": "Şafak Sezer, Bülent Ersoy'un makyaj sürecini anlattı: Normal makyajı 10 saat, zombi makyajı 15 dakik",
       "published": "2026-11-08T18:05:02Z",
       "thumbnail": "https://i.ytimg.com/vi/XUDszq37mgA/mqdefault.jpg",
-      "views": 71,
+      "views": 72,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3090,8 +3114,8 @@
       "title": "Eda Ece'nin babası hastaneye kaldırıldı! Ünlü oyuncudan duygulandıran paylaşım #Shorts",
       "published": "2026-11-08T18:04:59Z",
       "thumbnail": "https://i.ytimg.com/vi/dtIP1MkdP6E/mqdefault.jpg",
-      "views": 1062,
-      "likes": 6,
+      "views": 1095,
+      "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -3112,7 +3136,7 @@
       "title": "Ahmet Selçuk İlkan'dan Coşkun Sabah'ın 'Emek hırsızı' iddiasına yanıt: Ben şiirle o polemiklerle anı",
       "published": "2026-11-08T13:45:56Z",
       "thumbnail": "https://i.ytimg.com/vi/EAdaxCTh4u8/mqdefault.jpg",
-      "views": 1025,
+      "views": 1051,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3134,7 +3158,7 @@
       "title": "'Vizontele' müjdesi! Yılmaz Erdoğan tarih vererek duyurdu #Shorts",
       "published": "2026-11-08T08:45:55Z",
       "thumbnail": "https://i.ytimg.com/vi/HwxXAg9_d60/mqdefault.jpg",
-      "views": 927,
+      "views": 928,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3145,7 +3169,7 @@
       "title": "Muhteşem Yüzyıl’ın unutulmaz ikilisi yıllar sonra bir arada: Selma Ergeç ve Okan Yalabık’tan yeni ka",
       "published": "2026-11-07T17:52:26Z",
       "thumbnail": "https://i.ytimg.com/vi/chZnkUF0xY4/mqdefault.jpg",
-      "views": 1032,
+      "views": 1034,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3156,7 +3180,7 @@
       "title": "Deli Yürek ve Yabancı Damat'ın senaristi Güliz Kucur yaşamını yitirdi #Shorts",
       "published": "2026-11-07T17:52:23Z",
       "thumbnail": "https://i.ytimg.com/vi/BzSWpL1K7cU/mqdefault.jpg",
-      "views": 1104,
+      "views": 1105,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3178,7 +3202,7 @@
       "title": "Friends'in Yıldızı Morgan Fairchild 76 Yaşında OnlyFans Hesabı Açtı! #Shorts",
       "published": "2026-11-07T13:25:52Z",
       "thumbnail": "https://i.ytimg.com/vi/zSUjZNwnnfM/mqdefault.jpg",
-      "views": 998,
+      "views": 1002,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3200,7 +3224,7 @@
       "title": "Oyuncu Yeşim Gül'ün acı günü: Hayat arkadaşı Gökhan Suar yaşamını yitirdi #Shorts",
       "published": "2026-11-07T08:32:14Z",
       "thumbnail": "https://i.ytimg.com/vi/hAriXYSLIeU/mqdefault.jpg",
-      "views": 1232,
+      "views": 1233,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3288,7 +3312,7 @@
       "title": "Şarkıcı Sinan Özen trafik kazası geçirdi #Shorts",
       "published": "2026-11-05T20:16:40Z",
       "thumbnail": "https://i.ytimg.com/vi/4-kYzgdU_fo/mqdefault.jpg",
-      "views": 1189,
+      "views": 1190,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3299,7 +3323,7 @@
       "title": "MacBook Pro Nasıl Devrim Yaptı? Intel'den M3'e İnanılmaz Güç! #shorts",
       "published": "2026-11-08T16:00:55Z",
       "thumbnail": "https://i.ytimg.com/vi/gOO5lkSyVj0/mqdefault.jpg",
-      "views": 232,
+      "views": 314,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3321,7 +3345,7 @@
       "title": "iOS 27.2 Yayınlandı: Bütün Yeni Özellikler! #shorts",
       "published": "2026-11-07T16:01:29Z",
       "thumbnail": "https://i.ytimg.com/vi/3I4ry1v2hgg/mqdefault.jpg",
-      "views": 365,
+      "views": 388,
       "likes": 2,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3332,7 +3356,7 @@
       "title": "Elektriksiz Su Bilgisayarları Nasıl Çalışır? 💧💻 #shorts",
       "published": "2026-11-07T09:01:00Z",
       "thumbnail": "https://i.ytimg.com/vi/43k33o95u7k/mqdefault.jpg",
-      "views": 734,
+      "views": 786,
       "likes": 6,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3409,7 +3433,7 @@
       "title": "1000°C Aleve Dayanıp Pişmeyen Yumurtanın Sırrı! #shorts",
       "published": "2026-11-03T16:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/947ghNCkkVc/mqdefault.jpg",
-      "views": 217,
+      "views": 216,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3515,5 +3539,5 @@
       "channelTitle": "MerakLab"
     }
   ],
-  "lastUpdated": "2026-11-08T22:44:49Z"
+  "lastUpdated": "2026-11-09T02:03:18Z"
 }
