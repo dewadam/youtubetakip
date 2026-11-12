@@ -940,13 +940,19 @@
           "subs": 42,
           "views": 99951,
           "videos": 149
+        },
+        {
+          "ts": "2026-11-12T00:57:14Z",
+          "subs": 43,
+          "views": 102283,
+          "videos": 151
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-11T18:29:47Z",
-        "subs": 42,
-        "views": 99951,
-        "videos": 149
+        "ts": "2026-11-12T00:57:14Z",
+        "subs": 43,
+        "views": 102283,
+        "videos": 151
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -1931,10 +1937,16 @@
           "subs": 7,
           "views": 13159,
           "videos": 33
+        },
+        {
+          "ts": "2026-11-12T00:57:14Z",
+          "subs": 7,
+          "views": 13159,
+          "videos": 33
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-11T18:29:47Z",
+        "ts": "2026-11-12T00:57:14Z",
         "subs": 7,
         "views": 13159,
         "videos": 33
@@ -2856,10 +2868,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-12T00:57:14Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-11T18:29:47Z",
+        "ts": "2026-11-12T00:57:14Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -3061,13 +3079,19 @@
           "subs": 10,
           "views": 12563,
           "videos": 37
+        },
+        {
+          "ts": "2026-11-12T00:57:14Z",
+          "subs": 11,
+          "views": 13296,
+          "videos": 38
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-11T18:29:47Z",
-        "subs": 10,
-        "views": 12563,
-        "videos": 37
+        "ts": "2026-11-12T00:57:14Z",
+        "subs": 11,
+        "views": 13296,
+        "videos": 38
       }
     }
   },
@@ -3077,7 +3101,7 @@
       "title": "11 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-11T01:42:12Z",
       "thumbnail": "https://i.ytimg.com/vi/8vGMIKYYeHY/mqdefault.jpg",
-      "views": 48,
+      "views": 97,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -3088,7 +3112,7 @@
       "title": "10 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-10T03:57:44Z",
       "thumbnail": "https://i.ytimg.com/vi/TIqnLGLLhC4/mqdefault.jpg",
-      "views": 195,
+      "views": 564,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -3121,7 +3145,7 @@
       "title": "Motorinde indirim! 7 Kasım akaryakıt fiyatları #Shorts",
       "published": "2026-11-07T01:34:29Z",
       "thumbnail": "https://i.ytimg.com/vi/esKpilrd0E4/mqdefault.jpg",
-      "views": 942,
+      "views": 944,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -3143,7 +3167,7 @@
       "title": "5 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-05T01:59:54Z",
       "thumbnail": "https://i.ytimg.com/vi/Bshx_3HruBw/mqdefault.jpg",
-      "views": 177,
+      "views": 178,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -3198,7 +3222,7 @@
       "title": "31 Ekim güncel akaryakıt fiyatları #Shorts",
       "published": "2026-10-31T01:25:20Z",
       "thumbnail": "https://i.ytimg.com/vi/pZ_OeT0Wr7c/mqdefault.jpg",
-      "views": 457,
+      "views": 458,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -3315,11 +3339,33 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "FxYvlO8LP_Q",
+      "title": "Siyasete atılmıştı! İbrahim Tatlıses'in eski eşi Ayşegül Yıldız şimdi bambaşka bir meslek yapıyor #S",
+      "published": "2026-11-11T19:52:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/FxYvlO8LP_Q/mqdefault.jpg",
+      "views": 778,
+      "likes": 2,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "6jItJTjSL2A",
+      "title": "Türkan Şoray’a Trabzon Altın Taka Film Festivali’nde Onur Ödülü #Shorts",
+      "published": "2026-11-11T19:52:47Z",
+      "thumbnail": "https://i.ytimg.com/vi/6jItJTjSL2A/mqdefault.jpg",
+      "views": 884,
+      "likes": 5,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "b3vfoIRzlV8",
       "title": "'Mike Hammer' ve 'Prison Break'teki rolleriyle tanınan ABD'li ünlü aktör Stacy Keach hayatını kaybet",
       "published": "2026-11-11T09:02:16Z",
       "thumbnail": "https://i.ytimg.com/vi/b3vfoIRzlV8/mqdefault.jpg",
-      "views": 7,
+      "views": 17,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3330,7 +3376,7 @@
       "title": "Ajda Pekkan'dan yıllar sonra şaşırtan itiraf: Tüpü açtım intihar edecektim #Shorts",
       "published": "2026-11-11T09:02:00Z",
       "thumbnail": "https://i.ytimg.com/vi/SA5DQlAi-Fk/mqdefault.jpg",
-      "views": 947,
+      "views": 969,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3341,7 +3387,7 @@
       "title": "Bahattin Uygun kimdir, nereli, kaç yaşında vefat etti? Gürkan Uygun'un babası Bahattin Uygun neden ö",
       "published": "2026-11-10T15:12:39Z",
       "thumbnail": "https://i.ytimg.com/vi/8x0rB9mW_tI/mqdefault.jpg",
-      "views": 1070,
+      "views": 1083,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3352,7 +3398,7 @@
       "title": "Robert De Niro'nun ikizlerinin annesi, model ve oyuncu Toukie Smith 74 yaşında hayatını kaybetti #Sh",
       "published": "2026-11-10T15:12:28Z",
       "thumbnail": "https://i.ytimg.com/vi/NzqO3RsOfYs/mqdefault.jpg",
-      "views": 968,
+      "views": 974,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3363,7 +3409,7 @@
       "title": "Melike Şahin Oğlu Ali Robin'le Poz Verdi: Yakasındaki \"Diva Yorgun\" Yazılı Altın Takı Dikkat Çekti #",
       "published": "2026-11-10T09:35:44Z",
       "thumbnail": "https://i.ytimg.com/vi/bh_giUntIPU/mqdefault.jpg",
-      "views": 1061,
+      "views": 1062,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3374,7 +3420,7 @@
       "title": "Şafak Karalı Son Yolculuğuna Uğurlandı: Barış Falay'ın Veda Konuşması Salonu Sessizliğe Boğdu #Short",
       "published": "2026-11-10T09:35:36Z",
       "thumbnail": "https://i.ytimg.com/vi/S6mcFgWearw/mqdefault.jpg",
-      "views": 1279,
+      "views": 1302,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3385,7 +3431,7 @@
       "title": "Suzan Sabancı, yakın dostu Diana Ross ile İstanbul'da hasret giderdi #Shorts",
       "published": "2026-11-09T22:41:54Z",
       "thumbnail": "https://i.ytimg.com/vi/ESj3375V45Y/mqdefault.jpg",
-      "views": 253,
+      "views": 292,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3396,7 +3442,7 @@
       "title": "Şafak Karali hayatını kaybetti: Şafak Karali kimdir? | Aktüel Haberleri #Shorts",
       "published": "2026-11-09T22:41:51Z",
       "thumbnail": "https://i.ytimg.com/vi/OykUjabr4_k/mqdefault.jpg",
-      "views": 2047,
+      "views": 2115,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3407,7 +3453,7 @@
       "title": "Kurtlar Vadisi'nin Memati'si Gürkan Uygun'un acı günü! Babası son yolculuğuna uğurlandı #Shorts",
       "published": "2026-11-09T16:56:12Z",
       "thumbnail": "https://i.ytimg.com/vi/yiX72A0ZS4A/mqdefault.jpg",
-      "views": 1702,
+      "views": 1764,
       "likes": 14,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3418,7 +3464,7 @@
       "title": "Arnold Schwarzenegger'in oğlu Joseph Baena profesyonel vücut geliştirmeci oldu: İlk yarışmasında der",
       "published": "2026-11-09T16:56:11Z",
       "thumbnail": "https://i.ytimg.com/vi/lb1qJybXVh8/mqdefault.jpg",
-      "views": 75,
+      "views": 77,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3429,7 +3475,7 @@
       "title": "Biri 65 Diğeri 67 Yaşında: Hakan Peker ve Abisi Zafer Peker Gençlere Taş Çıkarıyor #Shorts",
       "published": "2026-11-09T09:26:06Z",
       "thumbnail": "https://i.ytimg.com/vi/6F6jHGFs3Wc/mqdefault.jpg",
-      "views": 1022,
+      "views": 1024,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3440,7 +3486,7 @@
       "title": "Eda Eceden hastane odasından endişelendiren paylaşım: Babası hastaneye kaldırıldı - Son Dakika Magaz",
       "published": "2026-11-09T09:26:06Z",
       "thumbnail": "https://i.ytimg.com/vi/ov6XOB7X2Lw/mqdefault.jpg",
-      "views": 974,
+      "views": 976,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3451,7 +3497,7 @@
       "title": "Şafak Sezer, Bülent Ersoy'un makyaj sürecini anlattı: Normal makyajı 10 saat, zombi makyajı 15 dakik",
       "published": "2026-11-08T18:05:02Z",
       "thumbnail": "https://i.ytimg.com/vi/XUDszq37mgA/mqdefault.jpg",
-      "views": 86,
+      "views": 87,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3462,7 +3508,7 @@
       "title": "Eda Ece'nin babası hastaneye kaldırıldı! Ünlü oyuncudan duygulandıran paylaşım #Shorts",
       "published": "2026-11-08T18:04:59Z",
       "thumbnail": "https://i.ytimg.com/vi/dtIP1MkdP6E/mqdefault.jpg",
-      "views": 1113,
+      "views": 1117,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3484,7 +3530,7 @@
       "title": "Ahmet Selçuk İlkan'dan Coşkun Sabah'ın 'Emek hırsızı' iddiasına yanıt: Ben şiirle o polemiklerle anı",
       "published": "2026-11-08T13:45:56Z",
       "thumbnail": "https://i.ytimg.com/vi/EAdaxCTh4u8/mqdefault.jpg",
-      "views": 1074,
+      "views": 1082,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3506,41 +3552,30 @@
       "title": "'Vizontele' müjdesi! Yılmaz Erdoğan tarih vererek duyurdu #Shorts",
       "published": "2026-11-08T08:45:55Z",
       "thumbnail": "https://i.ytimg.com/vi/HwxXAg9_d60/mqdefault.jpg",
-      "views": 939,
+      "views": 940,
       "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
     },
     {
-      "videoId": "chZnkUF0xY4",
-      "title": "Muhteşem Yüzyıl’ın unutulmaz ikilisi yıllar sonra bir arada: Selma Ergeç ve Okan Yalabık’tan yeni ka",
-      "published": "2026-11-07T17:52:26Z",
-      "thumbnail": "https://i.ytimg.com/vi/chZnkUF0xY4/mqdefault.jpg",
-      "views": 1042,
-      "likes": 2,
+      "videoId": "10UwbrVjIXI",
+      "title": "Fosil Kemiğinde 68 Milyon Yıllık Kan Hücresi Nasıl Kaldı? #shorts",
+      "published": "2026-11-11T18:54:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/10UwbrVjIXI/mqdefault.jpg",
+      "views": 124,
+      "likes": 1,
       "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "BzSWpL1K7cU",
-      "title": "Deli Yürek ve Yabancı Damat'ın senaristi Güliz Kucur yaşamını yitirdi #Shorts",
-      "published": "2026-11-07T17:52:23Z",
-      "thumbnail": "https://i.ytimg.com/vi/BzSWpL1K7cU/mqdefault.jpg",
-      "views": 1119,
-      "likes": 3,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
     },
     {
       "videoId": "Aw6XMXOEXmY",
       "title": "4 Milyon Dolarlık Füzeyi 10 Dolarlık Lazer Nasıl Yendi? #shorts",
       "published": "2026-11-10T17:41:46Z",
       "thumbnail": "https://i.ytimg.com/vi/Aw6XMXOEXmY/mqdefault.jpg",
-      "views": 348,
-      "likes": 3,
+      "views": 409,
+      "likes": 5,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
@@ -3550,7 +3585,7 @@
       "title": "Kapalı Cihazlar Elektriğinizi Nasıl Çalıyor? #shorts",
       "published": "2026-11-10T16:00:52Z",
       "thumbnail": "https://i.ytimg.com/vi/jfenlGxLtnI/mqdefault.jpg",
-      "views": 308,
+      "views": 330,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3583,7 +3618,7 @@
       "title": "Gemini 4 Kapsülünden Karbon Fiber Devrimine! #shorts",
       "published": "2026-11-09T09:00:52Z",
       "thumbnail": "https://i.ytimg.com/vi/sM3d9ISSUOk/mqdefault.jpg",
-      "views": 265,
+      "views": 267,
       "likes": 3,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3649,7 +3684,7 @@
       "title": "Görünmez Torpidolar Nasıl Hedefi Bulur? 🌊🚀 #shorts",
       "published": "2026-11-06T09:01:07Z",
       "thumbnail": "https://i.ytimg.com/vi/hIUTR7oMf-o/mqdefault.jpg",
-      "views": 277,
+      "views": 278,
       "likes": 4,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3742,18 +3777,7 @@
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
-    },
-    {
-      "videoId": "MZKB2la66Ig",
-      "title": "Deniz Altındaki Mekanik Telefon Ağı Nasıl Çalışır? #shorts",
-      "published": "2026-11-02T09:00:57Z",
-      "thumbnail": "https://i.ytimg.com/vi/MZKB2la66Ig/mqdefault.jpg",
-      "views": 299,
-      "likes": 3,
-      "comments": 1,
-      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
-      "channelTitle": "MerakLab"
     }
   ],
-  "lastUpdated": "2026-11-11T18:29:47Z"
+  "lastUpdated": "2026-11-12T00:57:14Z"
 }
