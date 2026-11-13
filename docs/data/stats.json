@@ -982,13 +982,19 @@
           "subs": 45,
           "views": 109183,
           "videos": 160
+        },
+        {
+          "ts": "2026-11-13T23:33:50Z",
+          "subs": 46,
+          "views": 109183,
+          "videos": 162
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-13T18:05:44Z",
-        "subs": 45,
+        "ts": "2026-11-13T23:33:50Z",
+        "subs": 46,
         "views": 109183,
-        "videos": 160
+        "videos": 162
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -2015,12 +2021,18 @@
           "subs": 7,
           "views": 13776,
           "videos": 33
+        },
+        {
+          "ts": "2026-11-13T23:33:50Z",
+          "subs": 7,
+          "views": 13786,
+          "videos": 33
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-13T18:05:44Z",
+        "ts": "2026-11-13T23:33:50Z",
         "subs": 7,
-        "views": 13776,
+        "views": 13786,
         "videos": 33
       }
     },
@@ -2982,10 +2994,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-13T23:33:50Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-13T18:05:44Z",
+        "ts": "2026-11-13T23:33:50Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -3229,10 +3247,16 @@
           "subs": 11,
           "views": 13905,
           "videos": 42
+        },
+        {
+          "ts": "2026-11-13T23:33:50Z",
+          "subs": 11,
+          "views": 13905,
+          "videos": 42
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-13T18:05:44Z",
+        "ts": "2026-11-13T23:33:50Z",
         "subs": 11,
         "views": 13905,
         "videos": 42
@@ -3245,7 +3269,7 @@
       "title": "11 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-11T01:42:12Z",
       "thumbnail": "https://i.ytimg.com/vi/8vGMIKYYeHY/mqdefault.jpg",
-      "views": 123,
+      "views": 128,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -3267,7 +3291,7 @@
       "title": "9 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-09T01:24:55Z",
       "thumbnail": "https://i.ytimg.com/vi/81lRuHSpu6g/mqdefault.jpg",
-      "views": 248,
+      "views": 247,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -3289,7 +3313,7 @@
       "title": "Motorinde indirim! 7 Kasım akaryakıt fiyatları #Shorts",
       "published": "2026-11-07T01:34:29Z",
       "thumbnail": "https://i.ytimg.com/vi/esKpilrd0E4/mqdefault.jpg",
-      "views": 947,
+      "views": 948,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -3483,12 +3507,34 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "Bxr1xJu_rZQ",
+      "title": "Jessica Chastain, Lost Lear ile Broadway'e dönüyor: 29 Mart 2027'de Booth Theatre'da #Shorts",
+      "published": "2026-11-13T20:00:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/Bxr1xJu_rZQ/mqdefault.jpg",
+      "views": 48,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "FMByca6_FSs",
+      "title": "Semiramis Pekkan yıllar sonra anlattı. \"Babam beni evlatlık vermeye kalkmış\" #Shorts",
+      "published": "2026-11-13T20:00:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/FMByca6_FSs/mqdefault.jpg",
+      "views": 866,
+      "likes": 7,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "cBo2EW2LovI",
       "title": "Cemre Baysel, Beşiktaşlı Futbolcu Emirhan Topçu'yla Çıkan Aşk İddialarını Doğruladı #Shorts",
       "published": "2026-11-13T14:48:48Z",
       "thumbnail": "https://i.ytimg.com/vi/cBo2EW2LovI/mqdefault.jpg",
-      "views": 764,
-      "likes": 6,
+      "views": 1089,
+      "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -3498,8 +3544,8 @@
       "title": "Halit Ergenç'ten üç çocuğuyla ilgili dikkat çeken sözler: 'Katı bir babayım' #Shorts",
       "published": "2026-11-13T14:48:44Z",
       "thumbnail": "https://i.ytimg.com/vi/bLVokvsMZ8w/mqdefault.jpg",
-      "views": 805,
-      "likes": 6,
+      "views": 1054,
+      "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -3509,7 +3555,7 @@
       "title": "Kemanist Hande Küden, \"aşağılayan tavırları\" gerekçe göstererek orkestradan ayrılmıştı: Fazıl Say'da",
       "published": "2026-11-13T09:18:18Z",
       "thumbnail": "https://i.ytimg.com/vi/talsbBswmQ0/mqdefault.jpg",
-      "views": 292,
+      "views": 318,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3520,7 +3566,7 @@
       "title": "Feyza Civelek: Kalbim Boş, Kariyerime Odaklandım #Shorts",
       "published": "2026-11-13T09:18:09Z",
       "thumbnail": "https://i.ytimg.com/vi/PiyjGojq3pU/mqdefault.jpg",
-      "views": 941,
+      "views": 945,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3564,7 +3610,7 @@
       "title": "Melisa Aslı Pamuk ile Yusuf Yazıcı'dan müjdeli haber: İkinci kez anne ve baba oluyorlar #Shorts",
       "published": "2026-11-12T15:31:41Z",
       "thumbnail": "https://i.ytimg.com/vi/LncYa5Tx5co/mqdefault.jpg",
-      "views": 971,
+      "views": 972,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3575,7 +3621,7 @@
       "title": "2027 Coachella'nın kadrosu açıklandı: Dua Lipa, Tame Impala ve SZA sahne alacak #Shorts",
       "published": "2026-11-12T09:29:53Z",
       "thumbnail": "https://i.ytimg.com/vi/83dFQUt-zqA/mqdefault.jpg",
-      "views": 894,
+      "views": 898,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3586,7 +3632,7 @@
       "title": "Manifest'in kurucusu Tolga Akış, 'müstehcenlik' suçlamasıyla ilk kez hâkim karşısına çıkacak #Shorts",
       "published": "2026-11-12T09:29:47Z",
       "thumbnail": "https://i.ytimg.com/vi/ctCr_Yrrv9o/mqdefault.jpg",
-      "views": 27,
+      "views": 31,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3597,7 +3643,7 @@
       "title": "Siyasete atılmıştı! İbrahim Tatlıses'in eski eşi Ayşegül Yıldız şimdi bambaşka bir meslek yapıyor #S",
       "published": "2026-11-11T19:52:53Z",
       "thumbnail": "https://i.ytimg.com/vi/FxYvlO8LP_Q/mqdefault.jpg",
-      "views": 1058,
+      "views": 1059,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3608,7 +3654,7 @@
       "title": "Türkan Şoray’a Trabzon Altın Taka Film Festivali’nde Onur Ödülü #Shorts",
       "published": "2026-11-11T19:52:47Z",
       "thumbnail": "https://i.ytimg.com/vi/6jItJTjSL2A/mqdefault.jpg",
-      "views": 973,
+      "views": 979,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3630,7 +3676,7 @@
       "title": "Ajda Pekkan'dan yıllar sonra şaşırtan itiraf: Tüpü açtım intihar edecektim #Shorts",
       "published": "2026-11-11T09:02:00Z",
       "thumbnail": "https://i.ytimg.com/vi/SA5DQlAi-Fk/mqdefault.jpg",
-      "views": 985,
+      "views": 987,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3641,7 +3687,7 @@
       "title": "Bahattin Uygun kimdir, nereli, kaç yaşında vefat etti? Gürkan Uygun'un babası Bahattin Uygun neden ö",
       "published": "2026-11-10T15:12:39Z",
       "thumbnail": "https://i.ytimg.com/vi/8x0rB9mW_tI/mqdefault.jpg",
-      "views": 1118,
+      "views": 1125,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3663,7 +3709,7 @@
       "title": "Melike Şahin Oğlu Ali Robin'le Poz Verdi: Yakasındaki \"Diva Yorgun\" Yazılı Altın Takı Dikkat Çekti #",
       "published": "2026-11-10T09:35:44Z",
       "thumbnail": "https://i.ytimg.com/vi/bh_giUntIPU/mqdefault.jpg",
-      "views": 1074,
+      "views": 1080,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3674,30 +3720,8 @@
       "title": "Şafak Karalı Son Yolculuğuna Uğurlandı: Barış Falay'ın Veda Konuşması Salonu Sessizliğe Boğdu #Short",
       "published": "2026-11-10T09:35:36Z",
       "thumbnail": "https://i.ytimg.com/vi/S6mcFgWearw/mqdefault.jpg",
-      "views": 1352,
+      "views": 1356,
       "likes": 3,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "ESj3375V45Y",
-      "title": "Suzan Sabancı, yakın dostu Diana Ross ile İstanbul'da hasret giderdi #Shorts",
-      "published": "2026-11-09T22:41:54Z",
-      "thumbnail": "https://i.ytimg.com/vi/ESj3375V45Y/mqdefault.jpg",
-      "views": 296,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "OykUjabr4_k",
-      "title": "Şafak Karali hayatını kaybetti: Şafak Karali kimdir? | Aktüel Haberleri #Shorts",
-      "published": "2026-11-09T22:41:51Z",
-      "thumbnail": "https://i.ytimg.com/vi/OykUjabr4_k/mqdefault.jpg",
-      "views": 2331,
-      "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -3707,7 +3731,7 @@
       "title": "Sosyal Media Algoritmaları Sizi Nasıl Hapsediyor? #shorts",
       "published": "2026-11-13T17:00:55Z",
       "thumbnail": "https://i.ytimg.com/vi/lijYYpc1wYQ/mqdefault.jpg",
-      "views": 47,
+      "views": 95,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3718,8 +3742,8 @@
       "title": "2027 Yerli Telefon İddiası Gerçek mi? ASELSAN ve 5G Gerçekleri #shorts",
       "published": "2026-11-13T09:00:47Z",
       "thumbnail": "https://i.ytimg.com/vi/-y7qLlFHzzw/mqdefault.jpg",
-      "views": 39,
-      "likes": 0,
+      "views": 62,
+      "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
@@ -3729,7 +3753,7 @@
       "title": "Bayraktar TB2 Nasıl Dron Anasına Dönüşüyor? #shorts",
       "published": "2026-11-12T17:11:50Z",
       "thumbnail": "https://i.ytimg.com/vi/ZQ3Y4rEzno0/mqdefault.jpg",
-      "views": 192,
+      "views": 204,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3751,7 +3775,7 @@
       "title": "Fosil Kemiğinde 68 Milyon Yıllık Kan Hücresi Nasıl Kaldı? #shorts",
       "published": "2026-11-11T18:54:59Z",
       "thumbnail": "https://i.ytimg.com/vi/10UwbrVjIXI/mqdefault.jpg",
-      "views": 176,
+      "views": 180,
       "likes": 2,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3806,7 +3830,7 @@
       "title": "Gemini 4 Kapsülünden Karbon Fiber Devrimine! #shorts",
       "published": "2026-11-09T09:00:52Z",
       "thumbnail": "https://i.ytimg.com/vi/sM3d9ISSUOk/mqdefault.jpg",
-      "views": 272,
+      "views": 273,
       "likes": 3,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3817,7 +3841,7 @@
       "title": "MacBook Pro Nasıl Devrim Yaptı? Intel'den M3'e İnanılmaz Güç! #shorts",
       "published": "2026-11-08T16:00:55Z",
       "thumbnail": "https://i.ytimg.com/vi/gOO5lkSyVj0/mqdefault.jpg",
-      "views": 562,
+      "views": 565,
       "likes": 4,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3905,7 +3929,7 @@
       "title": "7 Yıl Pilsiz Çalışan Casus Böcek: The Thing! #shorts",
       "published": "2026-11-04T16:00:50Z",
       "thumbnail": "https://i.ytimg.com/vi/B73stvI1MCE/mqdefault.jpg",
-      "views": 83,
+      "views": 84,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3923,5 +3947,5 @@
       "channelTitle": "MerakLab"
     }
   ],
-  "lastUpdated": "2026-11-13T18:05:44Z"
+  "lastUpdated": "2026-11-13T23:33:50Z"
 }
