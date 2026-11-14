@@ -994,13 +994,19 @@
           "subs": 46,
           "views": 109183,
           "videos": 162
+        },
+        {
+          "ts": "2026-11-14T10:57:34Z",
+          "subs": 47,
+          "views": 112808,
+          "videos": 165
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-14T03:35:37Z",
-        "subs": 46,
-        "views": 109183,
-        "videos": 162
+        "ts": "2026-11-14T10:57:34Z",
+        "subs": 47,
+        "views": 112808,
+        "videos": 165
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -2039,12 +2045,18 @@
           "subs": 7,
           "views": 13786,
           "videos": 33
+        },
+        {
+          "ts": "2026-11-14T10:57:34Z",
+          "subs": 7,
+          "views": 13794,
+          "videos": 33
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-14T03:35:37Z",
+        "ts": "2026-11-14T10:57:34Z",
         "subs": 7,
-        "views": 13786,
+        "views": 13794,
         "videos": 33
       }
     },
@@ -3018,10 +3030,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-14T10:57:34Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-14T03:35:37Z",
+        "ts": "2026-11-14T10:57:34Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -3277,13 +3295,19 @@
           "subs": 11,
           "views": 13905,
           "videos": 42
+        },
+        {
+          "ts": "2026-11-14T10:57:34Z",
+          "subs": 11,
+          "views": 14096,
+          "videos": 43
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-14T03:35:37Z",
+        "ts": "2026-11-14T10:57:34Z",
         "subs": 11,
-        "views": 13905,
-        "videos": 42
+        "views": 14096,
+        "videos": 43
       }
     }
   },
@@ -3348,7 +3372,7 @@
       "title": "Benzinde indirim ve Motorine zam! 6 Kasım akaryakıt fiyatları #Shorts",
       "published": "2026-11-06T01:59:18Z",
       "thumbnail": "https://i.ytimg.com/vi/hmRkwkTisTY/mqdefault.jpg",
-      "views": 914,
+      "views": 916,
       "likes": 2,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -3531,6 +3555,28 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "bM5ghKNJfic",
+      "title": "Gökberk Yıldırım'dan Aşk İtirafı: \"Bünyemin Aşka İhtiyacı Var\" #Shorts",
+      "published": "2026-11-14T08:47:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/bM5ghKNJfic/mqdefault.jpg",
+      "views": 128,
+      "likes": 2,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "VnaByXhi8JQ",
+      "title": "Semiramis Pekkan'dan yıllar sonra gelen itiraf: 'Müziği bırakmam için Ajda ricacı olmadı ama...' #Sh",
+      "published": "2026-11-14T08:46:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/VnaByXhi8JQ/mqdefault.jpg",
+      "views": 367,
+      "likes": 4,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "Bxr1xJu_rZQ",
       "title": "Jessica Chastain, Lost Lear ile Broadway'e dönüyor: 29 Mart 2027'de Booth Theatre'da #Shorts",
       "published": "2026-11-13T20:00:16Z",
@@ -3546,7 +3592,7 @@
       "title": "Semiramis Pekkan yıllar sonra anlattı. \"Babam beni evlatlık vermeye kalkmış\" #Shorts",
       "published": "2026-11-13T20:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/FMByca6_FSs/mqdefault.jpg",
-      "views": 1157,
+      "views": 1164,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3557,7 +3603,7 @@
       "title": "Cemre Baysel, Beşiktaşlı Futbolcu Emirhan Topçu'yla Çıkan Aşk İddialarını Doğruladı #Shorts",
       "published": "2026-11-13T14:48:48Z",
       "thumbnail": "https://i.ytimg.com/vi/cBo2EW2LovI/mqdefault.jpg",
-      "views": 1096,
+      "views": 1099,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3568,7 +3614,7 @@
       "title": "Halit Ergenç'ten üç çocuğuyla ilgili dikkat çeken sözler: 'Katı bir babayım' #Shorts",
       "published": "2026-11-13T14:48:44Z",
       "thumbnail": "https://i.ytimg.com/vi/bLVokvsMZ8w/mqdefault.jpg",
-      "views": 1060,
+      "views": 1062,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3579,7 +3625,7 @@
       "title": "Kemanist Hande Küden, \"aşağılayan tavırları\" gerekçe göstererek orkestradan ayrılmıştı: Fazıl Say'da",
       "published": "2026-11-13T09:18:18Z",
       "thumbnail": "https://i.ytimg.com/vi/talsbBswmQ0/mqdefault.jpg",
-      "views": 324,
+      "views": 330,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3590,7 +3636,7 @@
       "title": "Feyza Civelek: Kalbim Boş, Kariyerime Odaklandım #Shorts",
       "published": "2026-11-13T09:18:09Z",
       "thumbnail": "https://i.ytimg.com/vi/PiyjGojq3pU/mqdefault.jpg",
-      "views": 945,
+      "views": 946,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3623,7 +3669,7 @@
       "title": "Cüneyt Arkın'ın ailesi 6 şirkete dava açtı: 'Tutamadığı tek söz buydu' #Shorts",
       "published": "2026-11-12T15:31:43Z",
       "thumbnail": "https://i.ytimg.com/vi/D2t-ecF8l0k/mqdefault.jpg",
-      "views": 996,
+      "views": 997,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3634,7 +3680,7 @@
       "title": "Melisa Aslı Pamuk ile Yusuf Yazıcı'dan müjdeli haber: İkinci kez anne ve baba oluyorlar #Shorts",
       "published": "2026-11-12T15:31:41Z",
       "thumbnail": "https://i.ytimg.com/vi/LncYa5Tx5co/mqdefault.jpg",
-      "views": 974,
+      "views": 1011,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3667,7 +3713,7 @@
       "title": "Siyasete atılmıştı! İbrahim Tatlıses'in eski eşi Ayşegül Yıldız şimdi bambaşka bir meslek yapıyor #S",
       "published": "2026-11-11T19:52:53Z",
       "thumbnail": "https://i.ytimg.com/vi/FxYvlO8LP_Q/mqdefault.jpg",
-      "views": 1059,
+      "views": 1060,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3700,7 +3746,7 @@
       "title": "Ajda Pekkan'dan yıllar sonra şaşırtan itiraf: Tüpü açtım intihar edecektim #Shorts",
       "published": "2026-11-11T09:02:00Z",
       "thumbnail": "https://i.ytimg.com/vi/SA5DQlAi-Fk/mqdefault.jpg",
-      "views": 987,
+      "views": 988,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3711,7 +3757,7 @@
       "title": "Bahattin Uygun kimdir, nereli, kaç yaşında vefat etti? Gürkan Uygun'un babası Bahattin Uygun neden ö",
       "published": "2026-11-10T15:12:39Z",
       "thumbnail": "https://i.ytimg.com/vi/8x0rB9mW_tI/mqdefault.jpg",
-      "views": 1125,
+      "views": 1124,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3722,33 +3768,22 @@
       "title": "Robert De Niro'nun ikizlerinin annesi, model ve oyuncu Toukie Smith 74 yaşında hayatını kaybetti #Sh",
       "published": "2026-11-10T15:12:28Z",
       "thumbnail": "https://i.ytimg.com/vi/NzqO3RsOfYs/mqdefault.jpg",
-      "views": 988,
+      "views": 986,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
     },
     {
-      "videoId": "bh_giUntIPU",
-      "title": "Melike Şahin Oğlu Ali Robin'le Poz Verdi: Yakasındaki \"Diva Yorgun\" Yazılı Altın Takı Dikkat Çekti #",
-      "published": "2026-11-10T09:35:44Z",
-      "thumbnail": "https://i.ytimg.com/vi/bh_giUntIPU/mqdefault.jpg",
-      "views": 1081,
-      "likes": 1,
+      "videoId": "HeiJQ1Ki5oo",
+      "title": "Dünyada Ehliyet Yaş Sınırları Nasıl Belirleniyor? 14 vs 23 Yaş #shorts",
+      "published": "2026-11-14T09:00:54Z",
+      "thumbnail": "https://i.ytimg.com/vi/HeiJQ1Ki5oo/mqdefault.jpg",
+      "views": 114,
+      "likes": 0,
       "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "S6mcFgWearw",
-      "title": "Şafak Karalı Son Yolculuğuna Uğurlandı: Barış Falay'ın Veda Konuşması Salonu Sessizliğe Boğdu #Short",
-      "published": "2026-11-10T09:35:36Z",
-      "thumbnail": "https://i.ytimg.com/vi/S6mcFgWearw/mqdefault.jpg",
-      "views": 1358,
-      "likes": 3,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
     },
     {
       "videoId": "lijYYpc1wYQ",
@@ -3766,8 +3801,8 @@
       "title": "2027 Yerli Telefon İddiası Gerçek mi? ASELSAN ve 5G Gerçekleri #shorts",
       "published": "2026-11-13T09:00:47Z",
       "thumbnail": "https://i.ytimg.com/vi/-y7qLlFHzzw/mqdefault.jpg",
-      "views": 78,
-      "likes": 1,
+      "views": 89,
+      "likes": 2,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
@@ -3777,7 +3812,7 @@
       "title": "Bayraktar TB2 Nasıl Dron Anasına Dönüşüyor? #shorts",
       "published": "2026-11-12T17:11:50Z",
       "thumbnail": "https://i.ytimg.com/vi/ZQ3Y4rEzno0/mqdefault.jpg",
-      "views": 210,
+      "views": 215,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3799,7 +3834,7 @@
       "title": "Fosil Kemiğinde 68 Milyon Yıllık Kan Hücresi Nasıl Kaldı? #shorts",
       "published": "2026-11-11T18:54:59Z",
       "thumbnail": "https://i.ytimg.com/vi/10UwbrVjIXI/mqdefault.jpg",
-      "views": 183,
+      "views": 184,
       "likes": 2,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3810,7 +3845,7 @@
       "title": "4 Milyon Dolarlık Füzeyi 10 Dolarlık Lazer Nasıl Yendi? #shorts",
       "published": "2026-11-10T17:41:46Z",
       "thumbnail": "https://i.ytimg.com/vi/Aw6XMXOEXmY/mqdefault.jpg",
-      "views": 459,
+      "views": 456,
       "likes": 5,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3821,7 +3856,7 @@
       "title": "Kapalı Cihazlar Elektriğinizi Nasıl Çalıyor? #shorts",
       "published": "2026-11-10T16:00:52Z",
       "thumbnail": "https://i.ytimg.com/vi/jfenlGxLtnI/mqdefault.jpg",
-      "views": 333,
+      "views": 328,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3832,7 +3867,7 @@
       "title": "İnsan Hücresi Ölümü Engelleyebilir mi? #shorts",
       "published": "2026-11-10T09:00:42Z",
       "thumbnail": "https://i.ytimg.com/vi/3ilIeTS9VkA/mqdefault.jpg",
-      "views": 192,
+      "views": 190,
       "likes": 3,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3958,18 +3993,7 @@
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
-    },
-    {
-      "videoId": "UYjRIPR3Bbc",
-      "title": "1860'ta Bir Resim Göndermek 1 Saat Sürüyordu! 😱 #shorts",
-      "published": "2026-11-04T09:00:55Z",
-      "thumbnail": "https://i.ytimg.com/vi/UYjRIPR3Bbc/mqdefault.jpg",
-      "views": 132,
-      "likes": 1,
-      "comments": 1,
-      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
-      "channelTitle": "MerakLab"
     }
   ],
-  "lastUpdated": "2026-11-14T03:35:37Z"
+  "lastUpdated": "2026-11-14T10:57:34Z"
 }
