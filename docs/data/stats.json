@@ -1000,13 +1000,19 @@
           "subs": 47,
           "views": 112808,
           "videos": 165
+        },
+        {
+          "ts": "2026-11-14T16:55:26Z",
+          "subs": 50,
+          "views": 112808,
+          "videos": 167
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-14T10:57:34Z",
-        "subs": 47,
+        "ts": "2026-11-14T16:55:26Z",
+        "subs": 50,
         "views": 112808,
-        "videos": 165
+        "videos": 167
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -2051,10 +2057,16 @@
           "subs": 7,
           "views": 13794,
           "videos": 33
+        },
+        {
+          "ts": "2026-11-14T16:55:26Z",
+          "subs": 7,
+          "views": 13794,
+          "videos": 33
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-14T10:57:34Z",
+        "ts": "2026-11-14T16:55:26Z",
         "subs": 7,
         "views": 13794,
         "videos": 33
@@ -3036,10 +3048,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-14T16:55:26Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-14T10:57:34Z",
+        "ts": "2026-11-14T16:55:26Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -3301,10 +3319,16 @@
           "subs": 11,
           "views": 14096,
           "videos": 43
+        },
+        {
+          "ts": "2026-11-14T16:55:26Z",
+          "subs": 11,
+          "views": 14096,
+          "videos": 43
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-14T10:57:34Z",
+        "ts": "2026-11-14T16:55:26Z",
         "subs": 11,
         "views": 14096,
         "videos": 43
@@ -3317,7 +3341,7 @@
       "title": "11 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-11T01:42:12Z",
       "thumbnail": "https://i.ytimg.com/vi/8vGMIKYYeHY/mqdefault.jpg",
-      "views": 128,
+      "views": 129,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -3555,12 +3579,34 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "MPeJyp25e64",
+      "title": "Sosyal medyada gözden kaçmayan detay! Ekin Koç paylaştığı fotoğraflardan Alp Navruz’u tek tek sildi",
+      "published": "2026-11-14T13:44:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/MPeJyp25e64/mqdefault.jpg",
+      "views": 738,
+      "likes": 10,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "SacKqqJdsJs",
+      "title": "Bir döneme damga vurmuştu! Avril Lavigne ilk kez anne oldu #Shorts",
+      "published": "2026-11-14T13:44:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/SacKqqJdsJs/mqdefault.jpg",
+      "views": 124,
+      "likes": 1,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "bM5ghKNJfic",
       "title": "Gökberk Yıldırım'dan Aşk İtirafı: \"Bünyemin Aşka İhtiyacı Var\" #Shorts",
       "published": "2026-11-14T08:47:23Z",
       "thumbnail": "https://i.ytimg.com/vi/bM5ghKNJfic/mqdefault.jpg",
-      "views": 128,
-      "likes": 2,
+      "views": 572,
+      "likes": 5,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -3570,8 +3616,8 @@
       "title": "Semiramis Pekkan'dan yıllar sonra gelen itiraf: 'Müziği bırakmam için Ajda ricacı olmadı ama...' #Sh",
       "published": "2026-11-14T08:46:56Z",
       "thumbnail": "https://i.ytimg.com/vi/VnaByXhi8JQ/mqdefault.jpg",
-      "views": 367,
-      "likes": 4,
+      "views": 935,
+      "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -3592,7 +3638,7 @@
       "title": "Semiramis Pekkan yıllar sonra anlattı. \"Babam beni evlatlık vermeye kalkmış\" #Shorts",
       "published": "2026-11-13T20:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/FMByca6_FSs/mqdefault.jpg",
-      "views": 1164,
+      "views": 1178,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3603,7 +3649,7 @@
       "title": "Cemre Baysel, Beşiktaşlı Futbolcu Emirhan Topçu'yla Çıkan Aşk İddialarını Doğruladı #Shorts",
       "published": "2026-11-13T14:48:48Z",
       "thumbnail": "https://i.ytimg.com/vi/cBo2EW2LovI/mqdefault.jpg",
-      "views": 1099,
+      "views": 1112,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3614,7 +3660,7 @@
       "title": "Halit Ergenç'ten üç çocuğuyla ilgili dikkat çeken sözler: 'Katı bir babayım' #Shorts",
       "published": "2026-11-13T14:48:44Z",
       "thumbnail": "https://i.ytimg.com/vi/bLVokvsMZ8w/mqdefault.jpg",
-      "views": 1062,
+      "views": 1074,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3625,7 +3671,7 @@
       "title": "Kemanist Hande Küden, \"aşağılayan tavırları\" gerekçe göstererek orkestradan ayrılmıştı: Fazıl Say'da",
       "published": "2026-11-13T09:18:18Z",
       "thumbnail": "https://i.ytimg.com/vi/talsbBswmQ0/mqdefault.jpg",
-      "views": 330,
+      "views": 365,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3647,7 +3693,7 @@
       "title": "Johnny Depp 'iptal' yılları sonrası ilk kez beyaz perdede #Shorts",
       "published": "2026-11-12T20:22:18Z",
       "thumbnail": "https://i.ytimg.com/vi/B-t64DTy8D8/mqdefault.jpg",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3669,7 +3715,7 @@
       "title": "Cüneyt Arkın'ın ailesi 6 şirkete dava açtı: 'Tutamadığı tek söz buydu' #Shorts",
       "published": "2026-11-12T15:31:43Z",
       "thumbnail": "https://i.ytimg.com/vi/D2t-ecF8l0k/mqdefault.jpg",
-      "views": 997,
+      "views": 1002,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3691,7 +3737,7 @@
       "title": "2027 Coachella'nın kadrosu açıklandı: Dua Lipa, Tame Impala ve SZA sahne alacak #Shorts",
       "published": "2026-11-12T09:29:53Z",
       "thumbnail": "https://i.ytimg.com/vi/83dFQUt-zqA/mqdefault.jpg",
-      "views": 898,
+      "views": 900,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3702,7 +3748,7 @@
       "title": "Manifest'in kurucusu Tolga Akış, 'müstehcenlik' suçlamasıyla ilk kez hâkim karşısına çıkacak #Shorts",
       "published": "2026-11-12T09:29:47Z",
       "thumbnail": "https://i.ytimg.com/vi/ctCr_Yrrv9o/mqdefault.jpg",
-      "views": 31,
+      "views": 32,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3713,7 +3759,7 @@
       "title": "Siyasete atılmıştı! İbrahim Tatlıses'in eski eşi Ayşegül Yıldız şimdi bambaşka bir meslek yapıyor #S",
       "published": "2026-11-11T19:52:53Z",
       "thumbnail": "https://i.ytimg.com/vi/FxYvlO8LP_Q/mqdefault.jpg",
-      "views": 1060,
+      "views": 1061,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3753,33 +3799,11 @@
       "channelTitle": "VİP Magazin Gündemi"
     },
     {
-      "videoId": "8x0rB9mW_tI",
-      "title": "Bahattin Uygun kimdir, nereli, kaç yaşında vefat etti? Gürkan Uygun'un babası Bahattin Uygun neden ö",
-      "published": "2026-11-10T15:12:39Z",
-      "thumbnail": "https://i.ytimg.com/vi/8x0rB9mW_tI/mqdefault.jpg",
-      "views": 1124,
-      "likes": 1,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "NzqO3RsOfYs",
-      "title": "Robert De Niro'nun ikizlerinin annesi, model ve oyuncu Toukie Smith 74 yaşında hayatını kaybetti #Sh",
-      "published": "2026-11-10T15:12:28Z",
-      "thumbnail": "https://i.ytimg.com/vi/NzqO3RsOfYs/mqdefault.jpg",
-      "views": 986,
-      "likes": 2,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
       "videoId": "HeiJQ1Ki5oo",
       "title": "Dünyada Ehliyet Yaş Sınırları Nasıl Belirleniyor? 14 vs 23 Yaş #shorts",
       "published": "2026-11-14T09:00:54Z",
       "thumbnail": "https://i.ytimg.com/vi/HeiJQ1Ki5oo/mqdefault.jpg",
-      "views": 114,
+      "views": 158,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3801,7 +3825,7 @@
       "title": "2027 Yerli Telefon İddiası Gerçek mi? ASELSAN ve 5G Gerçekleri #shorts",
       "published": "2026-11-13T09:00:47Z",
       "thumbnail": "https://i.ytimg.com/vi/-y7qLlFHzzw/mqdefault.jpg",
-      "views": 89,
+      "views": 115,
       "likes": 2,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3812,8 +3836,8 @@
       "title": "Bayraktar TB2 Nasıl Dron Anasına Dönüşüyor? #shorts",
       "published": "2026-11-12T17:11:50Z",
       "thumbnail": "https://i.ytimg.com/vi/ZQ3Y4rEzno0/mqdefault.jpg",
-      "views": 215,
-      "likes": 0,
+      "views": 225,
+      "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
@@ -3995,5 +4019,5 @@
       "channelTitle": "MerakLab"
     }
   ],
-  "lastUpdated": "2026-11-14T10:57:34Z"
+  "lastUpdated": "2026-11-14T16:55:26Z"
 }
