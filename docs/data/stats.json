@@ -1018,12 +1018,18 @@
           "subs": 50,
           "views": 114212,
           "videos": 168
+        },
+        {
+          "ts": "2026-11-15T07:51:55Z",
+          "subs": 50,
+          "views": 117974,
+          "videos": 168
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-15T01:03:33Z",
+        "ts": "2026-11-15T07:51:55Z",
         "subs": 50,
-        "views": 114212,
+        "views": 117974,
         "videos": 168
       }
     },
@@ -2087,12 +2093,18 @@
           "subs": 7,
           "views": 13800,
           "videos": 33
+        },
+        {
+          "ts": "2026-11-15T07:51:55Z",
+          "subs": 7,
+          "views": 13802,
+          "videos": 33
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-15T01:03:33Z",
+        "ts": "2026-11-15T07:51:55Z",
         "subs": 7,
-        "views": 13800,
+        "views": 13802,
         "videos": 33
       }
     },
@@ -3090,10 +3102,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-15T07:51:55Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-15T01:03:33Z",
+        "ts": "2026-11-15T07:51:55Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -3373,12 +3391,18 @@
           "subs": 11,
           "views": 14133,
           "videos": 44
+        },
+        {
+          "ts": "2026-11-15T07:51:55Z",
+          "subs": 11,
+          "views": 14827,
+          "videos": 44
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-15T01:03:33Z",
+        "ts": "2026-11-15T07:51:55Z",
         "subs": 11,
-        "views": 14133,
+        "views": 14827,
         "videos": 44
       }
     }
@@ -3389,7 +3413,7 @@
       "title": "11 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-11T01:42:12Z",
       "thumbnail": "https://i.ytimg.com/vi/8vGMIKYYeHY/mqdefault.jpg",
-      "views": 130,
+      "views": 129,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -3400,7 +3424,7 @@
       "title": "10 Kasım güncel akaryakıt fiyatları #Shorts",
       "published": "2026-11-10T03:57:44Z",
       "thumbnail": "https://i.ytimg.com/vi/TIqnLGLLhC4/mqdefault.jpg",
-      "views": 569,
+      "views": 567,
       "likes": 0,
       "comments": 0,
       "channelId": "UCHQHkJNRPYtJtEgdtxCPeZQ",
@@ -3631,7 +3655,7 @@
       "title": "Ata Demirer’in \"Pervaneler\" filminden Ayvalık’a anlamlı hediye İhlas Haber Ajansı #Shorts",
       "published": "2026-11-14T18:27:53Z",
       "thumbnail": "https://i.ytimg.com/vi/vFG9pXAFo7c/mqdefault.jpg",
-      "views": 112,
+      "views": 114,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3653,7 +3677,7 @@
       "title": "Sosyal medyada gözden kaçmayan detay! Ekin Koç paylaştığı fotoğraflardan Alp Navruz’u tek tek sildi",
       "published": "2026-11-14T13:44:55Z",
       "thumbnail": "https://i.ytimg.com/vi/MPeJyp25e64/mqdefault.jpg",
-      "views": 1073,
+      "views": 1082,
       "likes": 11,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3664,7 +3688,7 @@
       "title": "Bir döneme damga vurmuştu! Avril Lavigne ilk kez anne oldu #Shorts",
       "published": "2026-11-14T13:44:49Z",
       "thumbnail": "https://i.ytimg.com/vi/SacKqqJdsJs/mqdefault.jpg",
-      "views": 141,
+      "views": 143,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3675,7 +3699,7 @@
       "title": "Gökberk Yıldırım'dan Aşk İtirafı: \"Bünyemin Aşka İhtiyacı Var\" #Shorts",
       "published": "2026-11-14T08:47:23Z",
       "thumbnail": "https://i.ytimg.com/vi/bM5ghKNJfic/mqdefault.jpg",
-      "views": 957,
+      "views": 972,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3708,7 +3732,7 @@
       "title": "Semiramis Pekkan yıllar sonra anlattı. \"Babam beni evlatlık vermeye kalkmış\" #Shorts",
       "published": "2026-11-13T20:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/FMByca6_FSs/mqdefault.jpg",
-      "views": 1185,
+      "views": 1187,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3730,7 +3754,7 @@
       "title": "Halit Ergenç'ten üç çocuğuyla ilgili dikkat çeken sözler: 'Katı bir babayım' #Shorts",
       "published": "2026-11-13T14:48:44Z",
       "thumbnail": "https://i.ytimg.com/vi/bLVokvsMZ8w/mqdefault.jpg",
-      "views": 1082,
+      "views": 1087,
       "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3741,7 +3765,7 @@
       "title": "Kemanist Hande Küden, \"aşağılayan tavırları\" gerekçe göstererek orkestradan ayrılmıştı: Fazıl Say'da",
       "published": "2026-11-13T09:18:18Z",
       "thumbnail": "https://i.ytimg.com/vi/talsbBswmQ0/mqdefault.jpg",
-      "views": 383,
+      "views": 388,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3752,7 +3776,7 @@
       "title": "Feyza Civelek: Kalbim Boş, Kariyerime Odaklandım #Shorts",
       "published": "2026-11-13T09:18:09Z",
       "thumbnail": "https://i.ytimg.com/vi/PiyjGojq3pU/mqdefault.jpg",
-      "views": 947,
+      "views": 948,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3829,7 +3853,7 @@
       "title": "Siyasete atılmıştı! İbrahim Tatlıses'in eski eşi Ayşegül Yıldız şimdi bambaşka bir meslek yapıyor #S",
       "published": "2026-11-11T19:52:53Z",
       "thumbnail": "https://i.ytimg.com/vi/FxYvlO8LP_Q/mqdefault.jpg",
-      "views": 1062,
+      "views": 1055,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3840,7 +3864,7 @@
       "title": "Türkan Şoray’a Trabzon Altın Taka Film Festivali’nde Onur Ödülü #Shorts",
       "published": "2026-11-11T19:52:47Z",
       "thumbnail": "https://i.ytimg.com/vi/6jItJTjSL2A/mqdefault.jpg",
-      "views": 979,
+      "views": 975,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3851,7 +3875,7 @@
       "title": "Türk Dizilerinin 1 Milyar Dolarlık İnanılmaz İhracat Gücü #shorts",
       "published": "2026-11-14T17:01:13Z",
       "thumbnail": "https://i.ytimg.com/vi/sXdVzbIuGmU/mqdefault.jpg",
-      "views": 130,
+      "views": 131,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3862,7 +3886,7 @@
       "title": "Dünyada Ehliyet Yaş Sınırları Nasıl Belirleniyor? 14 vs 23 Yaş #shorts",
       "published": "2026-11-14T09:00:54Z",
       "thumbnail": "https://i.ytimg.com/vi/HeiJQ1Ki5oo/mqdefault.jpg",
-      "views": 457,
+      "views": 597,
       "likes": 5,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3884,7 +3908,7 @@
       "title": "2027 Yerli Telefon İddiası Gerçek mi? ASELSAN ve 5G Gerçekleri #shorts",
       "published": "2026-11-13T09:00:47Z",
       "thumbnail": "https://i.ytimg.com/vi/-y7qLlFHzzw/mqdefault.jpg",
-      "views": 180,
+      "views": 199,
       "likes": 3,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3917,7 +3941,7 @@
       "title": "Fosil Kemiğinde 68 Milyon Yıllık Kan Hücresi Nasıl Kaldı? #shorts",
       "published": "2026-11-11T18:54:59Z",
       "thumbnail": "https://i.ytimg.com/vi/10UwbrVjIXI/mqdefault.jpg",
-      "views": 184,
+      "views": 179,
       "likes": 2,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3928,7 +3952,7 @@
       "title": "4 Milyon Dolarlık Füzeyi 10 Dolarlık Lazer Nasıl Yendi? #shorts",
       "published": "2026-11-10T17:41:46Z",
       "thumbnail": "https://i.ytimg.com/vi/Aw6XMXOEXmY/mqdefault.jpg",
-      "views": 456,
+      "views": 454,
       "likes": 5,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3939,7 +3963,7 @@
       "title": "Kapalı Cihazlar Elektriğinizi Nasıl Çalıyor? #shorts",
       "published": "2026-11-10T16:00:52Z",
       "thumbnail": "https://i.ytimg.com/vi/jfenlGxLtnI/mqdefault.jpg",
-      "views": 328,
+      "views": 327,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4067,5 +4091,5 @@
       "channelTitle": "MerakLab"
     }
   ],
-  "lastUpdated": "2026-11-15T01:03:33Z"
+  "lastUpdated": "2026-11-15T07:51:55Z"
 }
