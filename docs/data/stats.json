@@ -1024,13 +1024,19 @@
           "subs": 50,
           "views": 117974,
           "videos": 168
+        },
+        {
+          "ts": "2026-11-15T15:23:56Z",
+          "subs": 51,
+          "views": 117974,
+          "videos": 173
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-15T07:51:55Z",
-        "subs": 50,
+        "ts": "2026-11-15T15:23:56Z",
+        "subs": 51,
         "views": 117974,
-        "videos": 168
+        "videos": 173
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -2099,10 +2105,16 @@
           "subs": 7,
           "views": 13802,
           "videos": 33
+        },
+        {
+          "ts": "2026-11-15T15:23:56Z",
+          "subs": 7,
+          "views": 13802,
+          "videos": 33
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-15T07:51:55Z",
+        "ts": "2026-11-15T15:23:56Z",
         "subs": 7,
         "views": 13802,
         "videos": 33
@@ -3108,10 +3120,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-15T15:23:56Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-15T07:51:55Z",
+        "ts": "2026-11-15T15:23:56Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -3397,13 +3415,19 @@
           "subs": 11,
           "views": 14827,
           "videos": 44
+        },
+        {
+          "ts": "2026-11-15T15:23:56Z",
+          "subs": 11,
+          "views": 15029,
+          "videos": 45
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-15T07:51:55Z",
+        "ts": "2026-11-15T15:23:56Z",
         "subs": 11,
-        "views": 14827,
-        "videos": 44
+        "views": 15029,
+        "videos": 45
       }
     }
   },
@@ -3651,11 +3675,55 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "iNL2oXtVScU",
+      "title": "Bankadaki parası 60 milyon #Shorts",
+      "published": "2026-11-15T14:12:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/iNL2oXtVScU/mqdefault.jpg",
+      "views": 75,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "5Ydd2l7-pPM",
+      "title": "Leya Kırşan Deniz Kızı Marmara Filminin Başrolü Oldu: Çekimler Mersin'de Başlıyor! #Shorts",
+      "published": "2026-11-15T14:12:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/5Ydd2l7-pPM/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "U4otGZCXJH0",
+      "title": "56 yaşındaki Zeynep Casalini 10 yıl önce boşandığı eşiyle yeniden evlendi #Shorts",
+      "published": "2026-11-15T08:59:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/U4otGZCXJH0/mqdefault.jpg",
+      "views": 940,
+      "likes": 2,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "i-O8ualy7G8",
+      "title": "Zeynep Casalini eski eşiyle evlendi. Seneler sonra ikinci nikah #Shorts",
+      "published": "2026-11-15T08:59:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/i-O8ualy7G8/mqdefault.jpg",
+      "views": 576,
+      "likes": 3,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "vFG9pXAFo7c",
       "title": "Ata Demirer’in \"Pervaneler\" filminden Ayvalık’a anlamlı hediye İhlas Haber Ajansı #Shorts",
       "published": "2026-11-14T18:27:53Z",
       "thumbnail": "https://i.ytimg.com/vi/vFG9pXAFo7c/mqdefault.jpg",
-      "views": 114,
+      "views": 120,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3677,7 +3745,7 @@
       "title": "Sosyal medyada gözden kaçmayan detay! Ekin Koç paylaştığı fotoğraflardan Alp Navruz’u tek tek sildi",
       "published": "2026-11-14T13:44:55Z",
       "thumbnail": "https://i.ytimg.com/vi/MPeJyp25e64/mqdefault.jpg",
-      "views": 1082,
+      "views": 1096,
       "likes": 11,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3699,7 +3767,7 @@
       "title": "Gökberk Yıldırım'dan Aşk İtirafı: \"Bünyemin Aşka İhtiyacı Var\" #Shorts",
       "published": "2026-11-14T08:47:23Z",
       "thumbnail": "https://i.ytimg.com/vi/bM5ghKNJfic/mqdefault.jpg",
-      "views": 972,
+      "views": 983,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3710,7 +3778,7 @@
       "title": "Semiramis Pekkan'dan yıllar sonra gelen itiraf: 'Müziği bırakmam için Ajda ricacı olmadı ama...' #Sh",
       "published": "2026-11-14T08:46:56Z",
       "thumbnail": "https://i.ytimg.com/vi/VnaByXhi8JQ/mqdefault.jpg",
-      "views": 959,
+      "views": 964,
       "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3732,7 +3800,7 @@
       "title": "Semiramis Pekkan yıllar sonra anlattı. \"Babam beni evlatlık vermeye kalkmış\" #Shorts",
       "published": "2026-11-13T20:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/FMByca6_FSs/mqdefault.jpg",
-      "views": 1187,
+      "views": 1190,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3743,7 +3811,7 @@
       "title": "Cemre Baysel, Beşiktaşlı Futbolcu Emirhan Topçu'yla Çıkan Aşk İddialarını Doğruladı #Shorts",
       "published": "2026-11-13T14:48:48Z",
       "thumbnail": "https://i.ytimg.com/vi/cBo2EW2LovI/mqdefault.jpg",
-      "views": 1120,
+      "views": 1124,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3754,7 +3822,7 @@
       "title": "Halit Ergenç'ten üç çocuğuyla ilgili dikkat çeken sözler: 'Katı bir babayım' #Shorts",
       "published": "2026-11-13T14:48:44Z",
       "thumbnail": "https://i.ytimg.com/vi/bLVokvsMZ8w/mqdefault.jpg",
-      "views": 1087,
+      "views": 1088,
       "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3765,7 +3833,7 @@
       "title": "Kemanist Hande Küden, \"aşağılayan tavırları\" gerekçe göstererek orkestradan ayrılmıştı: Fazıl Say'da",
       "published": "2026-11-13T09:18:18Z",
       "thumbnail": "https://i.ytimg.com/vi/talsbBswmQ0/mqdefault.jpg",
-      "views": 388,
+      "views": 403,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3776,7 +3844,7 @@
       "title": "Feyza Civelek: Kalbim Boş, Kariyerime Odaklandım #Shorts",
       "published": "2026-11-13T09:18:09Z",
       "thumbnail": "https://i.ytimg.com/vi/PiyjGojq3pU/mqdefault.jpg",
-      "views": 948,
+      "views": 951,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3820,62 +3888,29 @@
       "title": "Melisa Aslı Pamuk ile Yusuf Yazıcı'dan müjdeli haber: İkinci kez anne ve baba oluyorlar #Shorts",
       "published": "2026-11-12T15:31:41Z",
       "thumbnail": "https://i.ytimg.com/vi/LncYa5Tx5co/mqdefault.jpg",
-      "views": 1011,
+      "views": 1015,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
     },
     {
-      "videoId": "83dFQUt-zqA",
-      "title": "2027 Coachella'nın kadrosu açıklandı: Dua Lipa, Tame Impala ve SZA sahne alacak #Shorts",
-      "published": "2026-11-12T09:29:53Z",
-      "thumbnail": "https://i.ytimg.com/vi/83dFQUt-zqA/mqdefault.jpg",
-      "views": 900,
-      "likes": 2,
+      "videoId": "CsreWvxbkfs",
+      "title": "Dünyanın Gizli 'Mini Ayları' Yörüngeye Nasıl Giriyor? #shorts",
+      "published": "2026-11-15T09:01:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/CsreWvxbkfs/mqdefault.jpg",
+      "views": 126,
+      "likes": 1,
       "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "ctCr_Yrrv9o",
-      "title": "Manifest'in kurucusu Tolga Akış, 'müstehcenlik' suçlamasıyla ilk kez hâkim karşısına çıkacak #Shorts",
-      "published": "2026-11-12T09:29:47Z",
-      "thumbnail": "https://i.ytimg.com/vi/ctCr_Yrrv9o/mqdefault.jpg",
-      "views": 32,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "FxYvlO8LP_Q",
-      "title": "Siyasete atılmıştı! İbrahim Tatlıses'in eski eşi Ayşegül Yıldız şimdi bambaşka bir meslek yapıyor #S",
-      "published": "2026-11-11T19:52:53Z",
-      "thumbnail": "https://i.ytimg.com/vi/FxYvlO8LP_Q/mqdefault.jpg",
-      "views": 1055,
-      "likes": 2,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "6jItJTjSL2A",
-      "title": "Türkan Şoray’a Trabzon Altın Taka Film Festivali’nde Onur Ödülü #Shorts",
-      "published": "2026-11-11T19:52:47Z",
-      "thumbnail": "https://i.ytimg.com/vi/6jItJTjSL2A/mqdefault.jpg",
-      "views": 975,
-      "likes": 6,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
     },
     {
       "videoId": "sXdVzbIuGmU",
       "title": "Türk Dizilerinin 1 Milyar Dolarlık İnanılmaz İhracat Gücü #shorts",
       "published": "2026-11-14T17:01:13Z",
       "thumbnail": "https://i.ytimg.com/vi/sXdVzbIuGmU/mqdefault.jpg",
-      "views": 131,
+      "views": 132,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3886,7 +3921,7 @@
       "title": "Dünyada Ehliyet Yaş Sınırları Nasıl Belirleniyor? 14 vs 23 Yaş #shorts",
       "published": "2026-11-14T09:00:54Z",
       "thumbnail": "https://i.ytimg.com/vi/HeiJQ1Ki5oo/mqdefault.jpg",
-      "views": 597,
+      "views": 699,
       "likes": 5,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3908,7 +3943,7 @@
       "title": "2027 Yerli Telefon İddiası Gerçek mi? ASELSAN ve 5G Gerçekleri #shorts",
       "published": "2026-11-13T09:00:47Z",
       "thumbnail": "https://i.ytimg.com/vi/-y7qLlFHzzw/mqdefault.jpg",
-      "views": 199,
+      "views": 215,
       "likes": 3,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -3919,7 +3954,7 @@
       "title": "Bayraktar TB2 Nasıl Dron Anasına Dönüşüyor? #shorts",
       "published": "2026-11-12T17:11:50Z",
       "thumbnail": "https://i.ytimg.com/vi/ZQ3Y4rEzno0/mqdefault.jpg",
-      "views": 236,
+      "views": 237,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4078,18 +4113,7 @@
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
-    },
-    {
-      "videoId": "tzFs0iCxiao",
-      "title": "140 Yıl Önceki Elektrikli Köpek Neydi? 🐶⚡ #shorts",
-      "published": "2026-11-05T09:00:51Z",
-      "thumbnail": "https://i.ytimg.com/vi/tzFs0iCxiao/mqdefault.jpg",
-      "views": 61,
-      "likes": 1,
-      "comments": 0,
-      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
-      "channelTitle": "MerakLab"
     }
   ],
-  "lastUpdated": "2026-11-15T07:51:55Z"
+  "lastUpdated": "2026-11-15T15:23:56Z"
 }
