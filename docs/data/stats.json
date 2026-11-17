@@ -1054,13 +1054,19 @@
           "subs": 53,
           "views": 122532,
           "videos": 179
+        },
+        {
+          "ts": "2026-11-17T00:48:08Z",
+          "subs": 54,
+          "views": 122747,
+          "videos": 181
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-16T17:00:28Z",
-        "subs": 53,
-        "views": 122532,
-        "videos": 179
+        "ts": "2026-11-17T00:48:08Z",
+        "subs": 54,
+        "views": 122747,
+        "videos": 181
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -2159,12 +2165,18 @@
           "subs": 7,
           "views": 13799,
           "videos": 33
+        },
+        {
+          "ts": "2026-11-17T00:48:08Z",
+          "subs": 7,
+          "views": 13800,
+          "videos": 33
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-16T17:00:28Z",
+        "ts": "2026-11-17T00:48:08Z",
         "subs": 7,
-        "views": 13799,
+        "views": 13800,
         "videos": 33
       }
     },
@@ -3198,10 +3210,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-17T00:48:08Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-16T17:00:28Z",
+        "ts": "2026-11-17T00:48:08Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -3517,13 +3535,19 @@
           "subs": 11,
           "views": 15496,
           "videos": 47
+        },
+        {
+          "ts": "2026-11-17T00:48:08Z",
+          "subs": 11,
+          "views": 15604,
+          "videos": 49
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-16T17:00:28Z",
+        "ts": "2026-11-17T00:48:08Z",
         "subs": 11,
-        "views": 15496,
-        "videos": 47
+        "views": 15604,
+        "videos": 49
       }
     }
   },
@@ -3771,12 +3795,34 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "-rAfJIOsySA",
+      "title": "2027 Grammy Ödülleri'nde RAYE fırtınası: 11 adaylıkla rekor kırdı #Shorts",
+      "published": "2026-11-16T22:29:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/-rAfJIOsySA/mqdefault.jpg",
+      "views": 180,
+      "likes": 4,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "lHl5cHalvRo",
+      "title": "Robert Pattinson kimdir? Yeni James Bond Robert Pattinson'ın tüm yapımları ve en iyi filmleri... #Sh",
+      "published": "2026-11-16T22:29:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/lHl5cHalvRo/mqdefault.jpg",
+      "views": 15,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "Tc2pca7yb34",
       "title": "Şifanur Gül ve Berk Bakioğlu nişanlandı: Mutlu günlerini böyle duyurdular #Shorts",
       "published": "2026-11-16T16:15:52Z",
       "thumbnail": "https://i.ytimg.com/vi/Tc2pca7yb34/mqdefault.jpg",
-      "views": 2,
-      "likes": 0,
+      "views": 982,
+      "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -3786,8 +3832,8 @@
       "title": "“Bekar Gezelim” şarkısıyla tanınan Grup Laçin'in solisti Ali Abacı hayatını kaybetti #Shorts",
       "published": "2026-11-16T16:15:33Z",
       "thumbnail": "https://i.ytimg.com/vi/sJbJBfBD_aA/mqdefault.jpg",
-      "views": 19,
-      "likes": 1,
+      "views": 750,
+      "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -3797,8 +3843,8 @@
       "title": "Oğuzhan Koç ve Hazal Subaşı'ndan kira krizi sonrası taşınma: Yeni adreslerine yerleştiler #Shorts",
       "published": "2026-11-16T09:11:33Z",
       "thumbnail": "https://i.ytimg.com/vi/Ger5jeU1z0s/mqdefault.jpg",
-      "views": 939,
-      "likes": 6,
+      "views": 968,
+      "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -3808,8 +3854,8 @@
       "title": "Kutsi üçüncü kez evlendi! Sevda Sönmez ile sürpriz nikah! Kutsi'nin eşi Sevda Sönmez kimdir, mesleği",
       "published": "2026-11-16T09:11:31Z",
       "thumbnail": "https://i.ytimg.com/vi/kvoxMN3bvao/mqdefault.jpg",
-      "views": 299,
-      "likes": 1,
+      "views": 552,
+      "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -3830,7 +3876,7 @@
       "title": "Kadir İnanır’ın mirasında para ’bilmecesi’! 60 milyon TL detayı gündemde: Evlerini neden sattı? #Sho",
       "published": "2026-11-15T19:04:54Z",
       "thumbnail": "https://i.ytimg.com/vi/bZ3WoEkxz-k/mqdefault.jpg",
-      "views": 944,
+      "views": 948,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3852,8 +3898,8 @@
       "title": "Leya Kırşan Deniz Kızı Marmara Filminin Başrolü Oldu: Çekimler Mersin'de Başlıyor! #Shorts",
       "published": "2026-11-15T14:12:16Z",
       "thumbnail": "https://i.ytimg.com/vi/5Ydd2l7-pPM/mqdefault.jpg",
-      "views": 197,
-      "likes": 3,
+      "views": 225,
+      "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -3863,7 +3909,7 @@
       "title": "56 yaşındaki Zeynep Casalini 10 yıl önce boşandığı eşiyle yeniden evlendi #Shorts",
       "published": "2026-11-15T08:59:05Z",
       "thumbnail": "https://i.ytimg.com/vi/U4otGZCXJH0/mqdefault.jpg",
-      "views": 985,
+      "views": 995,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3874,7 +3920,7 @@
       "title": "Zeynep Casalini eski eşiyle evlendi. Seneler sonra ikinci nikah #Shorts",
       "published": "2026-11-15T08:59:01Z",
       "thumbnail": "https://i.ytimg.com/vi/i-O8ualy7G8/mqdefault.jpg",
-      "views": 934,
+      "views": 938,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3885,7 +3931,7 @@
       "title": "Ata Demirer’in \"Pervaneler\" filminden Ayvalık’a anlamlı hediye İhlas Haber Ajansı #Shorts",
       "published": "2026-11-14T18:27:53Z",
       "thumbnail": "https://i.ytimg.com/vi/vFG9pXAFo7c/mqdefault.jpg",
-      "views": 125,
+      "views": 130,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3907,7 +3953,7 @@
       "title": "Sosyal medyada gözden kaçmayan detay! Ekin Koç paylaştığı fotoğraflardan Alp Navruz’u tek tek sildi",
       "published": "2026-11-14T13:44:55Z",
       "thumbnail": "https://i.ytimg.com/vi/MPeJyp25e64/mqdefault.jpg",
-      "views": 1104,
+      "views": 1109,
       "likes": 11,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3929,7 +3975,7 @@
       "title": "Gökberk Yıldırım'dan Aşk İtirafı: \"Bünyemin Aşka İhtiyacı Var\" #Shorts",
       "published": "2026-11-14T08:47:23Z",
       "thumbnail": "https://i.ytimg.com/vi/bM5ghKNJfic/mqdefault.jpg",
-      "views": 1008,
+      "views": 1018,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3962,33 +4008,33 @@
       "title": "Semiramis Pekkan yıllar sonra anlattı. \"Babam beni evlatlık vermeye kalkmış\" #Shorts",
       "published": "2026-11-13T20:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/FMByca6_FSs/mqdefault.jpg",
-      "views": 1194,
+      "views": 1195,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
     },
     {
-      "videoId": "cBo2EW2LovI",
-      "title": "Cemre Baysel, Beşiktaşlı Futbolcu Emirhan Topçu'yla Çıkan Aşk İddialarını Doğruladı #Shorts",
-      "published": "2026-11-13T14:48:48Z",
-      "thumbnail": "https://i.ytimg.com/vi/cBo2EW2LovI/mqdefault.jpg",
-      "views": 1139,
-      "likes": 7,
+      "videoId": "6LW_aAyH99k",
+      "title": "Nvidia: Deri Ceketli Trilyon Dolar İmparatorluğu",
+      "published": "2026-11-16T19:53:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/6LW_aAyH99k/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
       "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
     },
     {
-      "videoId": "bLVokvsMZ8w",
-      "title": "Halit Ergenç'ten üç çocuğuyla ilgili dikkat çeken sözler: 'Katı bir babayım' #Shorts",
-      "published": "2026-11-13T14:48:44Z",
-      "thumbnail": "https://i.ytimg.com/vi/bLVokvsMZ8w/mqdefault.jpg",
-      "views": 1101,
-      "likes": 8,
+      "videoId": "XR2SJZflTrA",
+      "title": "Voyager 1 Dünyadan 25 Milyar Km Uzakta Nasıl İletişim Kuruyor? #shorts",
+      "published": "2026-11-16T17:00:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/XR2SJZflTrA/mqdefault.jpg",
+      "views": 0,
+      "likes": 0,
       "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
     },
     {
       "videoId": "2kwvcwS4YbM",
@@ -4006,7 +4052,7 @@
       "title": "Avrupa Müzelerini Hedef Alan Yüksek Teknolojili Hırsızlıklar ve Gizli Planlar",
       "published": "2026-11-15T17:02:49Z",
       "thumbnail": "https://i.ytimg.com/vi/h023g4VLfaA/mqdefault.jpg",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4028,7 +4074,7 @@
       "title": "Türk Dizilerinin 1 Milyar Dolarlık İnanılmaz İhracat Gücü #shorts",
       "published": "2026-11-14T17:01:13Z",
       "thumbnail": "https://i.ytimg.com/vi/sXdVzbIuGmU/mqdefault.jpg",
-      "views": 133,
+      "views": 136,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4039,7 +4085,7 @@
       "title": "Dünyada Ehliyet Yaş Sınırları Nasıl Belirleniyor? 14 vs 23 Yaş #shorts",
       "published": "2026-11-14T09:00:54Z",
       "thumbnail": "https://i.ytimg.com/vi/HeiJQ1Ki5oo/mqdefault.jpg",
-      "views": 920,
+      "views": 921,
       "likes": 6,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4061,8 +4107,8 @@
       "title": "2027 Yerli Telefon İddiası Gerçek mi? ASELSAN ve 5G Gerçekleri #shorts",
       "published": "2026-11-13T09:00:47Z",
       "thumbnail": "https://i.ytimg.com/vi/-y7qLlFHzzw/mqdefault.jpg",
-      "views": 216,
-      "likes": 3,
+      "views": 217,
+      "likes": 4,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
@@ -4138,7 +4184,7 @@
       "title": "Sam Altman'ın Yükselişi ve Düşüşü: AI Dünyasının Kaptanı",
       "published": "2026-11-09T18:48:38Z",
       "thumbnail": "https://i.ytimg.com/vi/sWhAZ6h54K4/mqdefault.jpg",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4160,7 +4206,7 @@
       "title": "MacBook Pro Nasıl Devrim Yaptı? Intel'den M3'e İnanılmaz Güç! #shorts",
       "published": "2026-11-08T16:00:55Z",
       "thumbnail": "https://i.ytimg.com/vi/gOO5lkSyVj0/mqdefault.jpg",
-      "views": 569,
+      "views": 572,
       "likes": 4,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4187,29 +4233,7 @@
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
-    },
-    {
-      "videoId": "43k33o95u7k",
-      "title": "Elektriksiz Su Bilgisayarları Nasıl Çalışır? 💧💻 #shorts",
-      "published": "2026-11-07T09:01:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/43k33o95u7k/mqdefault.jpg",
-      "views": 847,
-      "likes": 6,
-      "comments": 0,
-      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
-      "channelTitle": "MerakLab"
-    },
-    {
-      "videoId": "k2HDJS37Ry0",
-      "title": "İnternetten Önce Yer Altında Uçan Postalar Vardı! #shorts",
-      "published": "2026-11-06T16:01:15Z",
-      "thumbnail": "https://i.ytimg.com/vi/k2HDJS37Ry0/mqdefault.jpg",
-      "views": 6,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
-      "channelTitle": "MerakLab"
     }
   ],
-  "lastUpdated": "2026-11-16T17:00:28Z"
+  "lastUpdated": "2026-11-17T00:48:08Z"
 }
