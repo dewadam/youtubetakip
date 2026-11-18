@@ -1072,13 +1072,19 @@
           "subs": 56,
           "views": 126830,
           "videos": 183
+        },
+        {
+          "ts": "2026-11-18T00:58:23Z",
+          "subs": 56,
+          "views": 126830,
+          "videos": 185
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-17T18:11:36Z",
+        "ts": "2026-11-18T00:58:23Z",
         "subs": 56,
         "views": 126830,
-        "videos": 183
+        "videos": 185
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -2195,10 +2201,16 @@
           "subs": 7,
           "views": 13801,
           "videos": 33
+        },
+        {
+          "ts": "2026-11-18T00:58:23Z",
+          "subs": 7,
+          "views": 13801,
+          "videos": 33
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-17T18:11:36Z",
+        "ts": "2026-11-18T00:58:23Z",
         "subs": 7,
         "views": 13801,
         "videos": 33
@@ -3252,10 +3264,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-18T00:58:23Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-17T18:11:36Z",
+        "ts": "2026-11-18T00:58:23Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -3589,10 +3607,16 @@
           "subs": 11,
           "views": 15624,
           "videos": 51
+        },
+        {
+          "ts": "2026-11-18T00:58:23Z",
+          "subs": 11,
+          "views": 15624,
+          "videos": 51
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-17T18:11:36Z",
+        "ts": "2026-11-18T00:58:23Z",
         "subs": 11,
         "views": 15624,
         "videos": 51
@@ -3843,12 +3867,34 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "N8PXzK4S8-0",
+      "title": "Yüzükler takıldı, tarih not edildi! Oyuncu Şifanur Gül ve Berk Bakioğlu nişanlandı: İşte dönüm nokta",
+      "published": "2026-11-17T21:18:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/N8PXzK4S8-0/mqdefault.jpg",
+      "views": 244,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "inEoRXwhj4U",
+      "title": "Sinem Kobal'dan aile saadeti paylaşımı: Kenan İmirzalıoğlu ve kızlarıyla Antalya'da #Shorts",
+      "published": "2026-11-17T21:17:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/inEoRXwhj4U/mqdefault.jpg",
+      "views": 281,
+      "likes": 1,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "pELJdLf6MNQ",
       "title": "İngilizlere ‘Haysiyet’i anlattı #Shorts",
       "published": "2026-11-17T10:24:22Z",
       "thumbnail": "https://i.ytimg.com/vi/pELJdLf6MNQ/mqdefault.jpg",
-      "views": 90,
-      "likes": 1,
+      "views": 146,
+      "likes": 0,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -3858,8 +3904,8 @@
       "title": "Beyonce, 100 kez Grammy ödülüne aday gösterilen ilk sanatçı oldu #Shorts",
       "published": "2026-11-17T10:24:13Z",
       "thumbnail": "https://i.ytimg.com/vi/xPQYR-MUE_g/mqdefault.jpg",
-      "views": 75,
-      "likes": 1,
+      "views": 152,
+      "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -3869,7 +3915,7 @@
       "title": "2027 Grammy Ödülleri'nde RAYE fırtınası: 11 adaylıkla rekor kırdı #Shorts",
       "published": "2026-11-16T22:29:56Z",
       "thumbnail": "https://i.ytimg.com/vi/-rAfJIOsySA/mqdefault.jpg",
-      "views": 212,
+      "views": 213,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3880,7 +3926,7 @@
       "title": "Robert Pattinson kimdir? Yeni James Bond Robert Pattinson'ın tüm yapımları ve en iyi filmleri... #Sh",
       "published": "2026-11-16T22:29:52Z",
       "thumbnail": "https://i.ytimg.com/vi/lHl5cHalvRo/mqdefault.jpg",
-      "views": 23,
+      "views": 24,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3891,7 +3937,7 @@
       "title": "Şifanur Gül ve Berk Bakioğlu nişanlandı: Mutlu günlerini böyle duyurdular #Shorts",
       "published": "2026-11-16T16:15:52Z",
       "thumbnail": "https://i.ytimg.com/vi/Tc2pca7yb34/mqdefault.jpg",
-      "views": 1002,
+      "views": 1009,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3902,7 +3948,7 @@
       "title": "“Bekar Gezelim” şarkısıyla tanınan Grup Laçin'in solisti Ali Abacı hayatını kaybetti #Shorts",
       "published": "2026-11-16T16:15:33Z",
       "thumbnail": "https://i.ytimg.com/vi/sJbJBfBD_aA/mqdefault.jpg",
-      "views": 933,
+      "views": 999,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3913,7 +3959,7 @@
       "title": "Oğuzhan Koç ve Hazal Subaşı'ndan kira krizi sonrası taşınma: Yeni adreslerine yerleştiler #Shorts",
       "published": "2026-11-16T09:11:33Z",
       "thumbnail": "https://i.ytimg.com/vi/Ger5jeU1z0s/mqdefault.jpg",
-      "views": 1043,
+      "views": 1076,
       "likes": 7,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3924,7 +3970,7 @@
       "title": "Kutsi üçüncü kez evlendi! Sevda Sönmez ile sürpriz nikah! Kutsi'nin eşi Sevda Sönmez kimdir, mesleği",
       "published": "2026-11-16T09:11:31Z",
       "thumbnail": "https://i.ytimg.com/vi/kvoxMN3bvao/mqdefault.jpg",
-      "views": 648,
+      "views": 710,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3946,7 +3992,7 @@
       "title": "Kadir İnanır’ın mirasında para ’bilmecesi’! 60 milyon TL detayı gündemde: Evlerini neden sattı? #Sho",
       "published": "2026-11-15T19:04:54Z",
       "thumbnail": "https://i.ytimg.com/vi/bZ3WoEkxz-k/mqdefault.jpg",
-      "views": 977,
+      "views": 1018,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3968,7 +4014,7 @@
       "title": "Leya Kırşan Deniz Kızı Marmara Filminin Başrolü Oldu: Çekimler Mersin'de Başlıyor! #Shorts",
       "published": "2026-11-15T14:12:16Z",
       "thumbnail": "https://i.ytimg.com/vi/5Ydd2l7-pPM/mqdefault.jpg",
-      "views": 293,
+      "views": 303,
       "likes": 6,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3979,7 +4025,7 @@
       "title": "56 yaşındaki Zeynep Casalini 10 yıl önce boşandığı eşiyle yeniden evlendi #Shorts",
       "published": "2026-11-15T08:59:05Z",
       "thumbnail": "https://i.ytimg.com/vi/U4otGZCXJH0/mqdefault.jpg",
-      "views": 997,
+      "views": 998,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -3990,7 +4036,7 @@
       "title": "Zeynep Casalini eski eşiyle evlendi. Seneler sonra ikinci nikah #Shorts",
       "published": "2026-11-15T08:59:01Z",
       "thumbnail": "https://i.ytimg.com/vi/i-O8ualy7G8/mqdefault.jpg",
-      "views": 941,
+      "views": 947,
       "likes": 3,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4001,7 +4047,7 @@
       "title": "Ata Demirer’in \"Pervaneler\" filminden Ayvalık’a anlamlı hediye İhlas Haber Ajansı #Shorts",
       "published": "2026-11-14T18:27:53Z",
       "thumbnail": "https://i.ytimg.com/vi/vFG9pXAFo7c/mqdefault.jpg",
-      "views": 131,
+      "views": 139,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4023,7 +4069,7 @@
       "title": "Sosyal medyada gözden kaçmayan detay! Ekin Koç paylaştığı fotoğraflardan Alp Navruz’u tek tek sildi",
       "published": "2026-11-14T13:44:55Z",
       "thumbnail": "https://i.ytimg.com/vi/MPeJyp25e64/mqdefault.jpg",
-      "views": 1111,
+      "views": 1118,
       "likes": 11,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4034,30 +4080,8 @@
       "title": "Bir döneme damga vurmuştu! Avril Lavigne ilk kez anne oldu #Shorts",
       "published": "2026-11-14T13:44:49Z",
       "thumbnail": "https://i.ytimg.com/vi/SacKqqJdsJs/mqdefault.jpg",
-      "views": 144,
+      "views": 146,
       "likes": 0,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "bM5ghKNJfic",
-      "title": "Gökberk Yıldırım'dan Aşk İtirafı: \"Bünyemin Aşka İhtiyacı Var\" #Shorts",
-      "published": "2026-11-14T08:47:23Z",
-      "thumbnail": "https://i.ytimg.com/vi/bM5ghKNJfic/mqdefault.jpg",
-      "views": 1031,
-      "likes": 7,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "VnaByXhi8JQ",
-      "title": "Semiramis Pekkan'dan yıllar sonra gelen itiraf: 'Müziği bırakmam için Ajda ricacı olmadı ama...' #Sh",
-      "published": "2026-11-14T08:46:56Z",
-      "thumbnail": "https://i.ytimg.com/vi/VnaByXhi8JQ/mqdefault.jpg",
-      "views": 968,
-      "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -4067,7 +4091,7 @@
       "title": "İnterneti Kapatabilecek Gizli Tehlike! #shorts",
       "published": "2026-11-17T17:00:50Z",
       "thumbnail": "https://i.ytimg.com/vi/8KrsD4brZ3Q/mqdefault.jpg",
-      "views": 0,
+      "views": 98,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4078,8 +4102,8 @@
       "title": "PS5 Pro Neden GTA 6'yı 60 FPS Çalıştıramaz? #shorts",
       "published": "2026-11-17T09:00:47Z",
       "thumbnail": "https://i.ytimg.com/vi/o1rO0ye_6Co/mqdefault.jpg",
-      "views": 365,
-      "likes": 1,
+      "views": 440,
+      "likes": 2,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
@@ -4155,7 +4179,7 @@
       "title": "Dünyada Ehliyet Yaş Sınırları Nasıl Belirleniyor? 14 vs 23 Yaş #shorts",
       "published": "2026-11-14T09:00:54Z",
       "thumbnail": "https://i.ytimg.com/vi/HeiJQ1Ki5oo/mqdefault.jpg",
-      "views": 922,
+      "views": 924,
       "likes": 6,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4177,7 +4201,7 @@
       "title": "2027 Yerli Telefon İddiası Gerçek mi? ASELSAN ve 5G Gerçekleri #shorts",
       "published": "2026-11-13T09:00:47Z",
       "thumbnail": "https://i.ytimg.com/vi/-y7qLlFHzzw/mqdefault.jpg",
-      "views": 221,
+      "views": 223,
       "likes": 4,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4243,7 +4267,7 @@
       "title": "İnsan Hücresi Ölümü Engelleyebilir mi? #shorts",
       "published": "2026-11-10T09:00:42Z",
       "thumbnail": "https://i.ytimg.com/vi/3ilIeTS9VkA/mqdefault.jpg",
-      "views": 192,
+      "views": 194,
       "likes": 3,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4283,5 +4307,5 @@
       "channelTitle": "MerakLab"
     }
   ],
-  "lastUpdated": "2026-11-17T18:11:36Z"
+  "lastUpdated": "2026-11-18T00:58:23Z"
 }
