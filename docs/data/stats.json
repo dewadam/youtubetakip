@@ -1144,12 +1144,18 @@
           "subs": 62,
           "views": 134107,
           "videos": 201
+        },
+        {
+          "ts": "2026-11-21T08:00:47Z",
+          "subs": 62,
+          "views": 135121,
+          "videos": 201
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-21T00:49:05Z",
+        "ts": "2026-11-21T08:00:47Z",
         "subs": 62,
-        "views": 134107,
+        "views": 135121,
         "videos": 201
       }
     },
@@ -2339,12 +2345,18 @@
           "subs": 7,
           "views": 13815,
           "videos": 33
+        },
+        {
+          "ts": "2026-11-21T08:00:47Z",
+          "subs": 7,
+          "views": 13819,
+          "videos": 33
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-21T00:49:05Z",
+        "ts": "2026-11-21T08:00:47Z",
         "subs": 7,
-        "views": 13815,
+        "views": 13819,
         "videos": 33
       }
     },
@@ -3468,10 +3480,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-21T08:00:47Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-21T00:49:05Z",
+        "ts": "2026-11-21T08:00:47Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -3877,12 +3895,18 @@
           "subs": 13,
           "views": 17424,
           "videos": 57
+        },
+        {
+          "ts": "2026-11-21T08:00:47Z",
+          "subs": 13,
+          "views": 17689,
+          "videos": 57
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-21T00:49:05Z",
+        "ts": "2026-11-21T08:00:47Z",
         "subs": 13,
-        "views": 17424,
+        "views": 17689,
         "videos": 57
       }
     },
@@ -3950,12 +3974,18 @@
           "subs": 20,
           "views": 40969,
           "videos": 97
+        },
+        {
+          "ts": "2026-11-21T08:00:47Z",
+          "subs": 21,
+          "views": 41497,
+          "videos": 97
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-21T00:49:05Z",
-        "subs": 20,
-        "views": 40969,
+        "ts": "2026-11-21T08:00:47Z",
+        "subs": 21,
+        "views": 41497,
         "videos": 97
       }
     }
@@ -4208,7 +4238,7 @@
       "title": "Larry Poindexter neden öldü? Larry Poindexter kimdir, kaç yaşında, hangi dizi ve filmlerde oynadı? #",
       "published": "2026-11-20T20:42:27Z",
       "thumbnail": "https://i.ytimg.com/vi/TFiXTkT20js/mqdefault.jpg",
-      "views": 81,
+      "views": 123,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4219,7 +4249,7 @@
       "title": "25 Kasım | Kadın oyuncular: ‘Kadınların özgürlük mücadelesi, insanlığın özgürlük mücadelesidir’ #Sho",
       "published": "2026-11-20T20:42:21Z",
       "thumbnail": "https://i.ytimg.com/vi/6dGYa5cLRC4/mqdefault.jpg",
-      "views": 151,
+      "views": 212,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4230,8 +4260,8 @@
       "title": "Sinem Ünsal'ın zıt renk tercihi dikkat çekti: \"Bugün böyle hoşuma gitti\" #Shorts",
       "published": "2026-11-20T15:42:59Z",
       "thumbnail": "https://i.ytimg.com/vi/SK7ehWsbxoE/mqdefault.jpg",
-      "views": 672,
-      "likes": 7,
+      "views": 794,
+      "likes": 8,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -4241,7 +4271,7 @@
       "title": "Kadın sanatçılardan 25 Kasım mesajı: Kadın özgür değilse adalet ve barış da yok #Shorts",
       "published": "2026-11-20T15:42:56Z",
       "thumbnail": "https://i.ytimg.com/vi/U-YCLyBA97M/mqdefault.jpg",
-      "views": 211,
+      "views": 261,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4252,8 +4282,8 @@
       "title": "Murat Boz'dan kahramanlara teşekkür ziyareti #Shorts",
       "published": "2026-11-20T09:51:04Z",
       "thumbnail": "https://i.ytimg.com/vi/ZQ-kCucUBaw/mqdefault.jpg",
-      "views": 495,
-      "likes": 6,
+      "views": 534,
+      "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -4263,7 +4293,7 @@
       "title": "Yonca Lodi'den 'Yaprak Dökümü Leyla' #Shorts",
       "published": "2026-11-20T09:50:56Z",
       "thumbnail": "https://i.ytimg.com/vi/DtvxvYxMWVQ/mqdefault.jpg",
-      "views": 136,
+      "views": 139,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4274,7 +4304,7 @@
       "title": "Eski Bond Pierce Brosnan'dan yeni James Bond'a destek. \"Yolculuğun tadını çıkar\" #Shorts",
       "published": "2026-11-19T20:57:38Z",
       "thumbnail": "https://i.ytimg.com/vi/4biEAuZO5Bs/mqdefault.jpg",
-      "views": 54,
+      "views": 70,
       "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4285,7 +4315,7 @@
       "title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum #Short",
       "published": "2026-11-19T20:57:37Z",
       "thumbnail": "https://i.ytimg.com/vi/IkWrycqe_Aw/mqdefault.jpg",
-      "views": 715,
+      "views": 785,
       "likes": 9,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4296,7 +4326,7 @@
       "title": "Türkan Şoray, COP31'de Yeşilçam yıllarını anlattı: Karavan yoktu, arabada giyiniyorduk #Shorts",
       "published": "2026-11-19T15:59:31Z",
       "thumbnail": "https://i.ytimg.com/vi/7APt--dwArw/mqdefault.jpg",
-      "views": 357,
+      "views": 386,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4329,7 +4359,7 @@
       "title": "Tarık Papuççuoğlu huzurevi iddialarını yalanladı: 'Sigortalı çalıştığım şirketin misafirhanesinde ka",
       "published": "2026-11-19T10:02:39Z",
       "thumbnail": "https://i.ytimg.com/vi/ipgrGZM0nXE/mqdefault.jpg",
-      "views": 705,
+      "views": 740,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4373,7 +4403,7 @@
       "title": "Dilber Ay'ın eşi İbrahim Karakaş nişanlandı: 'Tavukları Pişirmişem' şarkılı kutlama tepki çekti #Sho",
       "published": "2026-11-18T09:54:36Z",
       "thumbnail": "https://i.ytimg.com/vi/cv4-y_6VhTI/mqdefault.jpg",
-      "views": 1385,
+      "views": 1394,
       "likes": 7,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4395,7 +4425,7 @@
       "title": "Sinem Kobal'dan aile saadeti paylaşımı: Kenan İmirzalıoğlu ve kızlarıyla Antalya'da #Shorts",
       "published": "2026-11-17T21:17:55Z",
       "thumbnail": "https://i.ytimg.com/vi/inEoRXwhj4U/mqdefault.jpg",
-      "views": 1014,
+      "views": 1009,
       "likes": 9,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4428,8 +4458,8 @@
       "title": "Ölene Kadar Dans Ettiren Ölümcül Salgın: 1518 Tanzplage #shorts",
       "published": "2026-11-20T17:01:00Z",
       "thumbnail": "https://i.ytimg.com/vi/ApdXOJ_j6q8/mqdefault.jpg",
-      "views": 127,
-      "likes": 1,
+      "views": 213,
+      "likes": 2,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
@@ -4439,7 +4469,7 @@
       "title": "Sıcak Su Soğuk Sudan Daha Hızlı Donabilir mi? ❄️ #shorts",
       "published": "2026-11-20T09:01:13Z",
       "thumbnail": "https://i.ytimg.com/vi/MEqj45EtIbw/mqdefault.jpg",
-      "views": 138,
+      "views": 149,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4450,8 +4480,8 @@
       "title": "Nükleer Reaktörlerdeki Mavi Işığın Şok Edici Nedeni #shorts",
       "published": "2026-11-19T17:00:52Z",
       "thumbnail": "https://i.ytimg.com/vi/sA3zoMUDHok/mqdefault.jpg",
-      "views": 530,
-      "likes": 3,
+      "views": 561,
+      "likes": 4,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
@@ -4648,7 +4678,7 @@
       "title": "ŞOK 18-24 Kasım Aktüel: Paşabahçe Cam Saklama Kabı 275 TL",
       "published": "2026-11-20T20:15:20Z",
       "thumbnail": "https://i.ytimg.com/vi/9k9F8AggNRs/mqdefault.jpg",
-      "views": 8,
+      "views": 12,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4659,7 +4689,7 @@
       "title": "A101 19 Kasım Aktüel: Philips 65 inç 4K TV 38.999 TL",
       "published": "2026-11-20T19:35:13Z",
       "thumbnail": "https://i.ytimg.com/vi/utL0UAr0N0g/mqdefault.jpg",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4670,7 +4700,7 @@
       "title": "A101 26 Kasım Aktüel: Kiwi Kahve Makinesi 1.599 TL",
       "published": "2026-11-20T18:55:00Z",
       "thumbnail": "https://i.ytimg.com/vi/j2aRnSVjgK8/mqdefault.jpg",
-      "views": 44,
+      "views": 62,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4681,7 +4711,7 @@
       "title": "A101 21 Kasım Aktüel: Papia Tuvalet Kağıdı 119,50 TL",
       "published": "2026-11-20T18:14:51Z",
       "thumbnail": "https://i.ytimg.com/vi/7IlwoYb5w6I/mqdefault.jpg",
-      "views": 234,
+      "views": 249,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4692,7 +4722,7 @@
       "title": "BİM 20 Kasım Broşürü Geldi: VIP Kahve 54 TL & Jucy Nektar",
       "published": "2026-11-20T14:33:57Z",
       "thumbnail": "https://i.ytimg.com/vi/CRrqjXJd5Fo/mqdefault.jpg",
-      "views": 451,
+      "views": 477,
       "likes": 1,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4703,7 +4733,7 @@
       "title": "BİM 27 Kasım Broşürü: Pirge Soyacak 169 TL & Düzeneçler",
       "published": "2026-11-20T13:53:32Z",
       "thumbnail": "https://i.ytimg.com/vi/Mnnu8n3WebI/mqdefault.jpg",
-      "views": 322,
+      "views": 355,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4714,8 +4744,8 @@
       "title": "ŞOK 18-24 Kasım Aktüel: Palmolive Duş Jeli 79 TL",
       "published": "2026-11-20T13:13:00Z",
       "thumbnail": "https://i.ytimg.com/vi/cmBNo4LwcqU/mqdefault.jpg",
-      "views": 275,
-      "likes": 0,
+      "views": 340,
+      "likes": 1,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
       "channelTitle": "İndirimLab"
@@ -4725,7 +4755,7 @@
       "title": "BİM 20 Kasım Aktüel: Peros Matik 8 kg Deterjan 349 TL",
       "published": "2026-11-20T12:31:37Z",
       "thumbnail": "https://i.ytimg.com/vi/182SVQZMuLg/mqdefault.jpg",
-      "views": 247,
+      "views": 279,
       "likes": 1,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4736,7 +4766,7 @@
       "title": "ŞOK 18-24 Kasım Aktüel: Blendax Şampuan 500 ml 129 TL",
       "published": "2026-11-20T10:04:41Z",
       "thumbnail": "https://i.ytimg.com/vi/TPvmnRXZw34/mqdefault.jpg",
-      "views": 203,
+      "views": 234,
       "likes": 1,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4747,7 +4777,7 @@
       "title": "A101 19 Kasım Aktüel: Altus 55\" TV 22.999 TL",
       "published": "2026-11-20T01:22:29Z",
       "thumbnail": "https://i.ytimg.com/vi/iuKJv2eCqRc/mqdefault.jpg",
-      "views": 307,
+      "views": 325,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4758,7 +4788,7 @@
       "title": "A101 19 Kasım Aktüel Pati Broşürü: Royal Canin Mamalar Geldi",
       "published": "2026-11-20T00:42:18Z",
       "thumbnail": "https://i.ytimg.com/vi/D7pZaJO5RSA/mqdefault.jpg",
-      "views": 306,
+      "views": 333,
       "likes": 1,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4769,7 +4799,7 @@
       "title": "A101 19-22 Kasım Manav Broşürü: İthal Muz 114,90 TL",
       "published": "2026-11-20T00:02:17Z",
       "thumbnail": "https://i.ytimg.com/vi/bLZigFjRZ60/mqdefault.jpg",
-      "views": 181,
+      "views": 209,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4780,8 +4810,8 @@
       "title": "A101 19 Kasım Aktüel: Zoe 1000 Parça Puzzle 99,50 TL",
       "published": "2026-11-19T20:06:46Z",
       "thumbnail": "https://i.ytimg.com/vi/y4z844rCvyU/mqdefault.jpg",
-      "views": 582,
-      "likes": 0,
+      "views": 592,
+      "likes": 1,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
       "channelTitle": "İndirimLab"
@@ -4791,7 +4821,7 @@
       "title": "ŞOK 18-24 Kasım Aktüel: Nestle Coffee Mate 625 gr 199 TL",
       "published": "2026-11-19T12:05:48Z",
       "thumbnail": "https://i.ytimg.com/vi/UY_JJIuPaQo/mqdefault.jpg",
-      "views": 270,
+      "views": 277,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4864,5 +4894,5 @@
       "channelTitle": "İndirimLab"
     }
   ],
-  "lastUpdated": "2026-11-21T00:49:05Z"
+  "lastUpdated": "2026-11-21T08:00:47Z"
 }
