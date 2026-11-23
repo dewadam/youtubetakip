@@ -1192,13 +1192,19 @@
           "subs": 68,
           "views": 139765,
           "videos": 213
+        },
+        {
+          "ts": "2026-11-23T12:08:34Z",
+          "subs": 68,
+          "views": 139965,
+          "videos": 215
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-23T02:57:52Z",
+        "ts": "2026-11-23T12:08:34Z",
         "subs": 68,
-        "views": 139765,
-        "videos": 213
+        "views": 139965,
+        "videos": 215
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -2435,12 +2441,18 @@
           "subs": 7,
           "views": 13826,
           "videos": 33
+        },
+        {
+          "ts": "2026-11-23T12:08:34Z",
+          "subs": 7,
+          "views": 13832,
+          "videos": 33
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-23T02:57:52Z",
+        "ts": "2026-11-23T12:08:34Z",
         "subs": 7,
-        "views": 13826,
+        "views": 13832,
         "videos": 33
       }
     },
@@ -3612,10 +3624,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-23T12:08:34Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-23T02:57:52Z",
+        "ts": "2026-11-23T12:08:34Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -4069,13 +4087,19 @@
           "subs": 14,
           "views": 18296,
           "videos": 61
+        },
+        {
+          "ts": "2026-11-23T12:08:34Z",
+          "subs": 15,
+          "views": 18310,
+          "videos": 62
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-23T02:57:52Z",
-        "subs": 14,
-        "views": 18296,
-        "videos": 61
+        "ts": "2026-11-23T12:08:34Z",
+        "subs": 15,
+        "views": 18310,
+        "videos": 62
       }
     },
     "UCYmOwFfLOjSHENET9FJaGIQ": {
@@ -4190,12 +4214,18 @@
           "subs": 23,
           "views": 47368,
           "videos": 110
+        },
+        {
+          "ts": "2026-11-23T12:08:34Z",
+          "subs": 23,
+          "views": 47557,
+          "videos": 110
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-23T02:57:52Z",
+        "ts": "2026-11-23T12:08:34Z",
         "subs": 23,
-        "views": 47368,
+        "views": 47557,
         "videos": 110
       }
     }
@@ -4444,12 +4474,34 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "xwR_j_ISTsg",
+      "title": "Muhteşem Yüzyıl'ın 5 Kadın Yıldızı 15 Yıl Sonra Buluştu! Taçlı Kareleri Olay Oldu #Shorts",
+      "published": "2026-11-23T10:29:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/xwR_j_ISTsg/mqdefault.jpg",
+      "views": 16,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "mubOjFa5ULU",
+      "title": "Emre Kınay'dan kızına duygusal doğum günü mesajı: Ömrüm sana feda olsun #Shorts",
+      "published": "2026-11-23T10:29:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/mubOjFa5ULU/mqdefault.jpg",
+      "views": 51,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "TZPQRlIlgEY",
       "title": "Şarkıcı Miley Cyrus, 4 yıllık ilişki yaşadığı Maxx Morando ile evlendi #Shorts",
       "published": "2026-11-22T19:58:11Z",
       "thumbnail": "https://i.ytimg.com/vi/TZPQRlIlgEY/mqdefault.jpg",
-      "views": 103,
-      "likes": 0,
+      "views": 184,
+      "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -4459,9 +4511,9 @@
       "title": "Çiğdem Batur'a sosyal medya paylaşımı nedeniyle soruşturma #Shorts",
       "published": "2026-11-22T19:58:10Z",
       "thumbnail": "https://i.ytimg.com/vi/3hZXzhPrKCo/mqdefault.jpg",
-      "views": 216,
-      "likes": 2,
-      "comments": 0,
+      "views": 313,
+      "likes": 3,
+      "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
     },
@@ -4470,7 +4522,7 @@
       "title": "Sel felaketinde mahsur kalmıştı! Murat Boz kendisini kurtaran kahramanları unutmadı #Shorts",
       "published": "2026-11-22T14:48:42Z",
       "thumbnail": "https://i.ytimg.com/vi/Y-CYA6jaKdA/mqdefault.jpg",
-      "views": 149,
+      "views": 156,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4481,7 +4533,7 @@
       "title": "Seda Bakan ailesi için kesenin ağzını sonuna kadar açtı! Sarıyer’deki yeni yuvasının bedeli dudak uç",
       "published": "2026-11-22T14:48:38Z",
       "thumbnail": "https://i.ytimg.com/vi/7BZSQAjgBR4/mqdefault.jpg",
-      "views": 435,
+      "views": 523,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4492,7 +4544,7 @@
       "title": "SEDA BAKAN KİMDİR, KAÇ YAŞINDA VE NERELİ? SEDA BAKAN'IN EŞİ KİM, KAÇ ÇOCUĞU VAR? SEDA BAKAN'IN YENİ",
       "published": "2026-11-22T09:31:27Z",
       "thumbnail": "https://i.ytimg.com/vi/jy8-6wtJYmQ/mqdefault.jpg",
-      "views": 452,
+      "views": 475,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4514,7 +4566,7 @@
       "title": "Yoğun bakımda tedavi gören Killa Hakan'ın sağlık durumunda son durum: Avukatı açıkladı #Shorts",
       "published": "2026-11-21T19:44:17Z",
       "thumbnail": "https://i.ytimg.com/vi/q0rbUqm8-jg/mqdefault.jpg",
-      "views": 714,
+      "views": 747,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4525,7 +4577,7 @@
       "title": "Kocaelili şarkıcı Elif Buse Doğan'dan dikkat çeken açıklamalar: “Müziğimle görülmek istiyorum” #Shor",
       "published": "2026-11-21T19:44:13Z",
       "thumbnail": "https://i.ytimg.com/vi/qLufgpMFqs8/mqdefault.jpg",
-      "views": 929,
+      "views": 1008,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4536,8 +4588,8 @@
       "title": "Acun Ilıcalı, Torunu Ela'nın Doğum Günü Paylaşımıyla Dikkat Çekti #Shorts",
       "published": "2026-11-21T14:52:27Z",
       "thumbnail": "https://i.ytimg.com/vi/KtKnE9D79TA/mqdefault.jpg",
-      "views": 951,
-      "likes": 3,
+      "views": 954,
+      "likes": 4,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -4547,7 +4599,7 @@
       "title": "Merve Dizdar'dan hamilelik pozları: Büyüyen karnını ilk kez böyle paylaştı #Shorts",
       "published": "2026-11-21T14:52:24Z",
       "thumbnail": "https://i.ytimg.com/vi/_n3fH6XGvFA/mqdefault.jpg",
-      "views": 900,
+      "views": 929,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4558,7 +4610,7 @@
       "title": "Mehmet Günsür Oğlu Ali İle Galada: \"Babasını Geçmiş Annesine Benziyor\" Yorumları Yağdı! #Shorts",
       "published": "2026-11-21T09:23:30Z",
       "thumbnail": "https://i.ytimg.com/vi/3-Kfj-VAn-4/mqdefault.jpg",
-      "views": 971,
+      "views": 972,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4569,8 +4621,8 @@
       "title": "Şarkıcı Yavuz Bingöl hastaneye kaldırıldı: Gece saatlerinde ameliyat olacak #Shorts",
       "published": "2026-11-21T09:23:22Z",
       "thumbnail": "https://i.ytimg.com/vi/1UxND4gS3yM/mqdefault.jpg",
-      "views": 930,
-      "likes": 5,
+      "views": 1006,
+      "likes": 6,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
@@ -4635,41 +4687,30 @@
       "title": "Yonca Lodi'den 'Yaprak Dökümü Leyla' #Shorts",
       "published": "2026-11-20T09:50:56Z",
       "thumbnail": "https://i.ytimg.com/vi/DtvxvYxMWVQ/mqdefault.jpg",
-      "views": 177,
+      "views": 179,
       "likes": 1,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
       "channelTitle": "VİP Magazin Gündemi"
     },
     {
-      "videoId": "4biEAuZO5Bs",
-      "title": "Eski Bond Pierce Brosnan'dan yeni James Bond'a destek. \"Yolculuğun tadını çıkar\" #Shorts",
-      "published": "2026-11-19T20:57:38Z",
-      "thumbnail": "https://i.ytimg.com/vi/4biEAuZO5Bs/mqdefault.jpg",
-      "views": 113,
-      "likes": 4,
+      "videoId": "XF-EiSl0jvo",
+      "title": "Hiç Yaşlanmayan ve Kesilse Bile Ölmeyen Canlı! #shorts",
+      "published": "2026-11-23T09:02:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/XF-EiSl0jvo/mqdefault.jpg",
+      "views": 4,
+      "likes": 0,
       "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "IkWrycqe_Aw",
-      "title": "Usta oyuncu Tarık Papuççuoğlu: Yatım katım oldu şimdi bir şirketin misafirhanesinde kalıyorum #Short",
-      "published": "2026-11-19T20:57:37Z",
-      "thumbnail": "https://i.ytimg.com/vi/IkWrycqe_Aw/mqdefault.jpg",
-      "views": 919,
-      "likes": 12,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
     },
     {
       "videoId": "5Nl7DYpC-dg",
       "title": "Uzayda Elmas Yağmuru Yağan Gezegenler! 💎 #shorts",
       "published": "2026-11-22T17:00:34Z",
       "thumbnail": "https://i.ytimg.com/vi/5Nl7DYpC-dg/mqdefault.jpg",
-      "views": 109,
-      "likes": 0,
+      "views": 143,
+      "likes": 2,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
@@ -4679,7 +4720,7 @@
       "title": "Hiçbir Dille Yazılmayan Gizemli Kitap: Voynich! #shorts",
       "published": "2026-11-22T09:01:11Z",
       "thumbnail": "https://i.ytimg.com/vi/h1exuB_vUwI/mqdefault.jpg",
-      "views": 92,
+      "views": 97,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4690,7 +4731,7 @@
       "title": "Mide Kendi Kendini Neden Eritemez? 🧪 #shorts",
       "published": "2026-11-21T17:01:15Z",
       "thumbnail": "https://i.ytimg.com/vi/eKoLFN3Kbjg/mqdefault.jpg",
-      "views": 182,
+      "views": 185,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4701,7 +4742,7 @@
       "title": "Evin İçinden Ülke Sınırı Geçen Kasaba: Baarle #shorts",
       "published": "2026-11-21T09:00:59Z",
       "thumbnail": "https://i.ytimg.com/vi/toRyhCEa5YI/mqdefault.jpg",
-      "views": 120,
+      "views": 122,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4734,7 +4775,7 @@
       "title": "Nükleer Reaktörlerdeki Mavi Işığın Şok Edici Nedeni #shorts",
       "published": "2026-11-19T17:00:52Z",
       "thumbnail": "https://i.ytimg.com/vi/sA3zoMUDHok/mqdefault.jpg",
-      "views": 590,
+      "views": 594,
       "likes": 6,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -4873,22 +4914,11 @@
       "channelTitle": "MerakLab"
     },
     {
-      "videoId": "lijYYpc1wYQ",
-      "title": "Sosyal Media Algoritmaları Sizi Nasıl Hapsediyor? #shorts",
-      "published": "2026-11-13T17:00:55Z",
-      "thumbnail": "https://i.ytimg.com/vi/lijYYpc1wYQ/mqdefault.jpg",
-      "views": 93,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
-      "channelTitle": "MerakLab"
-    },
-    {
       "videoId": "W_rh0cGY1TQ",
       "title": "Migros 19 Kasım Broşürü: Richland Tahıl Halkaları 74,95 TL",
       "published": "2026-11-22T20:04:36Z",
       "thumbnail": "https://i.ytimg.com/vi/W_rh0cGY1TQ/mqdefault.jpg",
-      "views": 68,
+      "views": 103,
       "likes": 1,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4910,7 +4940,7 @@
       "title": "Migros 19 Kasım Migroskop Broşürü: 7Days Kruvasan 29,90 TL",
       "published": "2026-11-22T10:04:06Z",
       "thumbnail": "https://i.ytimg.com/vi/B0Wj8WJoQPA/mqdefault.jpg",
-      "views": 80,
+      "views": 81,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4943,7 +4973,7 @@
       "title": "A101 21 Kasım Aktüel: Morfose Saç Spreyi 175 TL",
       "published": "2026-11-21T16:39:02Z",
       "thumbnail": "https://i.ytimg.com/vi/h3QLyIY1nTY/mqdefault.jpg",
-      "views": 141,
+      "views": 145,
       "likes": 1,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4954,7 +4984,7 @@
       "title": "BİM 21 Kasım Aktüel: Komili Zeytinyağı 265 TL",
       "published": "2026-11-21T15:58:39Z",
       "thumbnail": "https://i.ytimg.com/vi/Xs5qN4rrO1g/mqdefault.jpg",
-      "views": 207,
+      "views": 217,
       "likes": 1,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4965,7 +4995,7 @@
       "title": "A101 21 Kasım Aktüel: Elseve Şampuan 112,50 TL",
       "published": "2026-11-21T15:18:17Z",
       "thumbnail": "https://i.ytimg.com/vi/kCa3hotlFFY/mqdefault.jpg",
-      "views": 259,
+      "views": 396,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4976,7 +5006,7 @@
       "title": "Migros 21 Kasım Broşürü: Milka Bonibon 79,90 TL",
       "published": "2026-11-21T14:38:20Z",
       "thumbnail": "https://i.ytimg.com/vi/TdkQFTfFlzs/mqdefault.jpg",
-      "views": 94,
+      "views": 96,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -4987,7 +5017,7 @@
       "title": "A101 21 Kasım Aktüel: Orkide 649 TL, Lale 149 TL Broşür",
       "published": "2026-11-21T13:57:56Z",
       "thumbnail": "https://i.ytimg.com/vi/3Judq-gi9b4/mqdefault.jpg",
-      "views": 291,
+      "views": 319,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5009,7 +5039,7 @@
       "title": "A101 21 Kasım Aktüel: Colgate Diş Macunu 49,50 TL",
       "published": "2026-11-21T12:37:27Z",
       "thumbnail": "https://i.ytimg.com/vi/VDH7GG0CQjs/mqdefault.jpg",
-      "views": 117,
+      "views": 122,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5020,7 +5050,7 @@
       "title": "ŞOK 18-24 Kasım Aktüel: Lav Vega Cam Kase 225 TL",
       "published": "2026-11-21T10:06:09Z",
       "thumbnail": "https://i.ytimg.com/vi/-JDko_S4Z6I/mqdefault.jpg",
-      "views": 149,
+      "views": 169,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5042,7 +5072,7 @@
       "title": "A101 19 Kasım Aktüel: Philips 65 inç 4K TV 38.999 TL",
       "published": "2026-11-20T19:35:13Z",
       "thumbnail": "https://i.ytimg.com/vi/utL0UAr0N0g/mqdefault.jpg",
-      "views": 57,
+      "views": 58,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5104,5 +5134,5 @@
       "channelTitle": "İndirimLab"
     }
   ],
-  "lastUpdated": "2026-11-23T02:57:52Z"
+  "lastUpdated": "2026-11-23T12:08:34Z"
 }
