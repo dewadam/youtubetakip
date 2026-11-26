@@ -1246,13 +1246,19 @@
           "subs": 74,
           "views": 156744,
           "videos": 232
+        },
+        {
+          "ts": "2026-11-26T23:00:37Z",
+          "subs": 74,
+          "views": 157123,
+          "videos": 235
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-26T14:12:30Z",
+        "ts": "2026-11-26T23:00:37Z",
         "subs": 74,
-        "views": 156744,
-        "videos": 232
+        "views": 157123,
+        "videos": 235
       }
     },
     "UCHQHkJNRPYtJtEgdtxCPeZQ": {
@@ -2543,10 +2549,16 @@
           "subs": 7,
           "views": 13843,
           "videos": 33
+        },
+        {
+          "ts": "2026-11-26T23:00:37Z",
+          "subs": 7,
+          "views": 13843,
+          "videos": 33
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-26T14:12:30Z",
+        "ts": "2026-11-26T23:00:37Z",
         "subs": 7,
         "views": 13843,
         "videos": 33
@@ -3774,10 +3786,16 @@
           "subs": 0,
           "views": 6,
           "videos": 2
+        },
+        {
+          "ts": "2026-11-26T23:00:37Z",
+          "subs": 0,
+          "views": 6,
+          "videos": 2
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-26T14:12:30Z",
+        "ts": "2026-11-26T23:00:37Z",
         "subs": 0,
         "views": 6,
         "videos": 2
@@ -4285,13 +4303,19 @@
           "subs": 15,
           "views": 19358,
           "videos": 64
+        },
+        {
+          "ts": "2026-11-26T23:00:37Z",
+          "subs": 16,
+          "views": 19370,
+          "videos": 65
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-26T14:12:30Z",
-        "subs": 15,
-        "views": 19358,
-        "videos": 64
+        "ts": "2026-11-26T23:00:37Z",
+        "subs": 16,
+        "views": 19370,
+        "videos": 65
       }
     },
     "UCYmOwFfLOjSHENET9FJaGIQ": {
@@ -4460,13 +4484,19 @@
           "subs": 27,
           "views": 50444,
           "videos": 132
+        },
+        {
+          "ts": "2026-11-26T23:00:37Z",
+          "subs": 28,
+          "views": 52133,
+          "videos": 133
         }
       ],
       "lastSnapshot": {
-        "ts": "2026-11-26T14:12:30Z",
-        "subs": 27,
-        "views": 50444,
-        "videos": 132
+        "ts": "2026-11-26T23:00:37Z",
+        "subs": 28,
+        "views": 52133,
+        "videos": 133
       }
     }
   },
@@ -4714,11 +4744,55 @@
       "channelTitle": "Pufi Kids"
     },
     {
+      "videoId": "1frPe1J24Ys",
+      "title": "Oyuncu Çağla Demir hastanelik oldu! Bodrum'da düşerek omzunu kırdı #Shorts",
+      "published": "2026-11-26T21:52:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/1frPe1J24Ys/mqdefault.jpg",
+      "views": 28,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "-0mJt38-Rdk",
+      "title": "Ahmet Uluçay'ın \"Karpuz Kabuğundan Gemiler Yapmak\" filmi televizyonda yayımlanacak #Shorts",
+      "published": "2026-11-26T21:52:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/-0mJt38-Rdk/mqdefault.jpg",
+      "views": 4,
+      "likes": 0,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "K7fvdg5YdQw",
+      "title": "Mustafa Keser'in acı günü: 48 yıllık eşi Nilüfer Keser hayatını kaybetti #Shorts",
+      "published": "2026-11-26T17:14:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/K7fvdg5YdQw/mqdefault.jpg",
+      "views": 220,
+      "likes": 3,
+      "comments": 0,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
+      "videoId": "2eRsGUk0s84",
+      "title": "Mustafa Keser'in eşi Nilüfer Keser vefat etti! Nilüfer Keser neden öldü, hastalığı neydi, kaç yaşınd",
+      "published": "2026-11-26T17:13:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/2eRsGUk0s84/mqdefault.jpg",
+      "views": 539,
+      "likes": 8,
+      "comments": 1,
+      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
+      "channelTitle": "VİP Magazin Gündemi"
+    },
+    {
       "videoId": "L_s2v8HVZTA",
       "title": "SON DAKİKA | Ünlülere yönelik uyuşturucu soruşturması: 1 şarkıcı tutuklandı, 9 kişiye adli kontrol #",
       "published": "2026-11-26T10:37:04Z",
       "thumbnail": "https://i.ytimg.com/vi/L_s2v8HVZTA/mqdefault.jpg",
-      "views": 138,
+      "views": 374,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4740,7 +4814,7 @@
       "title": "Ünlülere uyuşturucu operasyonu: Özcan Deniz dahil 23 kişi gözaltında #Shorts",
       "published": "2026-11-25T21:58:44Z",
       "thumbnail": "https://i.ytimg.com/vi/Iash5WbtaLE/mqdefault.jpg",
-      "views": 10,
+      "views": 24,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4751,7 +4825,7 @@
       "title": "Leyla dizisi ne zaman başladı ve bitti, konusu ne? Leyla: Hayat... Aşk... Adalet dizisi Emmy Ödülü k",
       "published": "2026-11-25T17:31:45Z",
       "thumbnail": "https://i.ytimg.com/vi/YZN77y0UNNM/mqdefault.jpg",
-      "views": 373,
+      "views": 398,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4773,7 +4847,7 @@
       "title": "Can Bonomo Oğlu Roman'ı Okuldan Motosikletle Aldı: Eşi Öykü Karayel'in Ödülü İçin Konuştu! #Shorts",
       "published": "2026-11-25T11:01:53Z",
       "thumbnail": "https://i.ytimg.com/vi/AHlCIJPoRLM/mqdefault.jpg",
-      "views": 999,
+      "views": 1005,
       "likes": 6,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4784,7 +4858,7 @@
       "title": "Ünlülere uyuşturucu operasyonunda yeni dalga: Çok sayıda isim adliyede! Listede Özcan Deniz, Burcu Ö",
       "published": "2026-11-25T11:01:47Z",
       "thumbnail": "https://i.ytimg.com/vi/chIk8zo24fc/mqdefault.jpg",
-      "views": 893,
+      "views": 923,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4795,7 +4869,7 @@
       "title": "Rihanna ve A$AP Rocky Kusursuz Bir Uyum İçinde #Shorts",
       "published": "2026-11-24T22:45:20Z",
       "thumbnail": "https://i.ytimg.com/vi/T3cNUeXgRv4/mqdefault.jpg",
-      "views": 317,
+      "views": 315,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4839,7 +4913,7 @@
       "title": "Will Smith ve Jada Pinkett Smith'in 42 milyon dolarlık malikanesindeki müştemilatta yangın çıktı #Sh",
       "published": "2026-11-24T12:12:11Z",
       "thumbnail": "https://i.ytimg.com/vi/lNpJQcRkYIY/mqdefault.jpg",
-      "views": 63,
+      "views": 65,
       "likes": 0,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4850,7 +4924,7 @@
       "title": "Avrupa’da seyircili gala sürprizi! #Shorts",
       "published": "2026-11-24T12:12:09Z",
       "thumbnail": "https://i.ytimg.com/vi/jM_1VBXs2nU/mqdefault.jpg",
-      "views": 267,
+      "views": 268,
       "likes": 2,
       "comments": 0,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4872,7 +4946,7 @@
       "title": "Ediz Hun 87'nci yaşına adım attı: Eşi Berna Hun ile fotoğrafını paylaştı #Shorts",
       "published": "2026-11-24T00:17:28Z",
       "thumbnail": "https://i.ytimg.com/vi/irFOQtJ5Geo/mqdefault.jpg",
-      "views": 655,
+      "views": 656,
       "likes": 11,
       "comments": 1,
       "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
@@ -4890,56 +4964,23 @@
       "channelTitle": "VİP Magazin Gündemi"
     },
     {
-      "videoId": "klna3u15iTI",
-      "title": "Cansu Tosun'dan Erkan Kolçak Köstendil'e sürpriz! Eski eşini galada yalnız bırakmadı #Shorts",
-      "published": "2026-11-23T18:35:50Z",
-      "thumbnail": "https://i.ytimg.com/vi/klna3u15iTI/mqdefault.jpg",
-      "views": 993,
-      "likes": 5,
-      "comments": 1,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "xwR_j_ISTsg",
-      "title": "Muhteşem Yüzyıl'ın 5 Kadın Yıldızı 15 Yıl Sonra Buluştu! Taçlı Kareleri Olay Oldu #Shorts",
-      "published": "2026-11-23T10:29:38Z",
-      "thumbnail": "https://i.ytimg.com/vi/xwR_j_ISTsg/mqdefault.jpg",
-      "views": 653,
+      "videoId": "jbvwKkx6wYw",
+      "title": "Dokunabileceğiniz En Hafif Katı Madde: Aerogel! 🌫️ #shorts",
+      "published": "2026-11-26T17:00:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/jbvwKkx6wYw/mqdefault.jpg",
+      "views": 44,
       "likes": 2,
-      "comments": 1,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "mubOjFa5ULU",
-      "title": "Emre Kınay'dan kızına duygusal doğum günü mesajı: Ömrüm sana feda olsun #Shorts",
-      "published": "2026-11-23T10:29:35Z",
-      "thumbnail": "https://i.ytimg.com/vi/mubOjFa5ULU/mqdefault.jpg",
-      "views": 544,
-      "likes": 1,
       "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
-    },
-    {
-      "videoId": "TZPQRlIlgEY",
-      "title": "Şarkıcı Miley Cyrus, 4 yıllık ilişki yaşadığı Maxx Morando ile evlendi #Shorts",
-      "published": "2026-11-22T19:58:11Z",
-      "thumbnail": "https://i.ytimg.com/vi/TZPQRlIlgEY/mqdefault.jpg",
-      "views": 418,
-      "likes": 1,
-      "comments": 0,
-      "channelId": "UC578HZm7EzPbGp8hJKOUHbw",
-      "channelTitle": "VİP Magazin Gündemi"
+      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
+      "channelTitle": "MerakLab"
     },
     {
       "videoId": "7uLGh8C-TBg",
       "title": "Hiç Bitmeyen Şimşek Fırtınası Nerede? ⚡ #shorts",
       "published": "2026-11-26T09:01:04Z",
       "thumbnail": "https://i.ytimg.com/vi/7uLGh8C-TBg/mqdefault.jpg",
-      "views": 32,
-      "likes": 1,
+      "views": 90,
+      "likes": 3,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
@@ -4949,8 +4990,8 @@
       "title": "Güneşe Bakınca Neden Hapşırırız? ☀️🤧 #shorts",
       "published": "2026-11-25T18:03:21Z",
       "thumbnail": "https://i.ytimg.com/vi/4VE_Ksval_k/mqdefault.jpg",
-      "views": 107,
-      "likes": 1,
+      "views": 132,
+      "likes": 2,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
@@ -5070,7 +5111,7 @@
       "title": "NASA Astronotu Ne Kadar Kazar? #shorts",
       "published": "2026-11-18T09:01:07Z",
       "thumbnail": "https://i.ytimg.com/vi/Lw_AruAVKLI/mqdefault.jpg",
-      "views": 364,
+      "views": 365,
       "likes": 1,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -5103,7 +5144,7 @@
       "title": "Nvidia: Deri Ceketli Trilyon Dolar İmparatorluğu",
       "published": "2026-11-16T19:53:07Z",
       "thumbnail": "https://i.ytimg.com/vi/6LW_aAyH99k/mqdefault.jpg",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -5125,7 +5166,7 @@
       "title": "Yerin 1.500 Metre Altında Ne Aranıyor? Yeraltı Laboratuvarları #shorts",
       "published": "2026-11-16T09:01:10Z",
       "thumbnail": "https://i.ytimg.com/vi/2kwvcwS4YbM/mqdefault.jpg",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
@@ -5136,29 +5177,29 @@
       "title": "Avrupa Müzelerini Hedef Alan Yüksek Teknolojili Hırsızlıklar ve Gizli Planlar",
       "published": "2026-11-15T17:02:49Z",
       "thumbnail": "https://i.ytimg.com/vi/h023g4VLfaA/mqdefault.jpg",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0,
       "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
       "channelTitle": "MerakLab"
     },
     {
-      "videoId": "CsreWvxbkfs",
-      "title": "Dünyanın Gizli 'Mini Ayları' Yörüngeye Nasıl Giriyor? #shorts",
-      "published": "2026-11-15T09:01:11Z",
-      "thumbnail": "https://i.ytimg.com/vi/CsreWvxbkfs/mqdefault.jpg",
-      "views": 284,
-      "likes": 1,
+      "videoId": "1AaJDcav3WI",
+      "title": "ŞOK 28 Kasım Aktüel: Çamaşır Makinesi 21.999 TL",
+      "published": "2026-11-26T20:13:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/1AaJDcav3WI/mqdefault.jpg",
+      "views": 4,
+      "likes": 0,
       "comments": 0,
-      "channelId": "UCCnx6P_R_uEHPbK5P5gOJJg",
-      "channelTitle": "MerakLab"
+      "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
+      "channelTitle": "İndirimLab"
     },
     {
       "videoId": "yONfHA6oA24",
       "title": "A101 26 Kasım Aktüel: Tchibo Kahve Makinesi 12.499 TL",
       "published": "2026-11-26T12:54:06Z",
       "thumbnail": "https://i.ytimg.com/vi/yONfHA6oA24/mqdefault.jpg",
-      "views": 0,
+      "views": 7,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5169,7 +5210,7 @@
       "title": "Migros 26 Kasım Broşürü: Clear 3in1 159,95 TL",
       "published": "2026-11-26T12:13:47Z",
       "thumbnail": "https://i.ytimg.com/vi/2f4NuCs5W1U/mqdefault.jpg",
-      "views": 4,
+      "views": 10,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5180,7 +5221,7 @@
       "title": "Migros 26 Kasım Aktüel: Kinetex Duş Hortumu 129,95 TL",
       "published": "2026-11-26T11:33:28Z",
       "thumbnail": "https://i.ytimg.com/vi/aEvM8JHfVLA/mqdefault.jpg",
-      "views": 0,
+      "views": 7,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5191,7 +5232,7 @@
       "title": "A101 26 Kasım Aktüel: Xiaomi 15.799 TL, Altus Buzdolabı",
       "published": "2026-11-26T10:53:05Z",
       "thumbnail": "https://i.ytimg.com/vi/CxQXy43X41A/mqdefault.jpg",
-      "views": 3,
+      "views": 15,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5202,7 +5243,7 @@
       "title": "A101 26 Kasım Aktüel: Pati İndirimleri Başladı, Kedi Maması 25 TL",
       "published": "2026-11-26T10:12:37Z",
       "thumbnail": "https://i.ytimg.com/vi/k_ILKs4WoXM/mqdefault.jpg",
-      "views": 2,
+      "views": 7,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5213,7 +5254,7 @@
       "title": "A101 25 Kasım Aktüel: Freedo Dondurma Çeşitleri 77,50 TL",
       "published": "2026-11-26T06:25:20Z",
       "thumbnail": "https://i.ytimg.com/vi/gFFt2pY_4GI/mqdefault.jpg",
-      "views": 54,
+      "views": 51,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5224,7 +5265,7 @@
       "title": "BİM 2 Aralık Aktüel: PlayStation 5 49.000 TL ve Şömine Isıtıcı",
       "published": "2026-11-26T05:45:25Z",
       "thumbnail": "https://i.ytimg.com/vi/z4kK-IDWbgY/mqdefault.jpg",
-      "views": 48,
+      "views": 165,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5235,7 +5276,7 @@
       "title": "BİM 1 Aralık Aktüel: Pastavilla Makarna 26 TL",
       "published": "2026-11-26T05:04:51Z",
       "thumbnail": "https://i.ytimg.com/vi/MWO1SNoCRiQ/mqdefault.jpg",
-      "views": 116,
+      "views": 430,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5246,7 +5287,7 @@
       "title": "BİM 29 Kasım Aktüel: Kumtel XXL Midi Fırın 3.490 TL",
       "published": "2026-11-26T04:24:45Z",
       "thumbnail": "https://i.ytimg.com/vi/Fn6yDHl1oRI/mqdefault.jpg",
-      "views": 108,
+      "views": 280,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5257,7 +5298,7 @@
       "title": "Migros 19 Kasım - 2 Aralık Broşürü: Tadelle 3'lü Paket 129,90 TL",
       "published": "2026-11-26T03:44:46Z",
       "thumbnail": "https://i.ytimg.com/vi/vGN_WAkEasA/mqdefault.jpg",
-      "views": 36,
+      "views": 87,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5268,7 +5309,7 @@
       "title": "Migros 19 Kasım Aktüel: Asterion 3'lü Mikrofiber Bez 129,95 TL",
       "published": "2026-11-26T03:04:27Z",
       "thumbnail": "https://i.ytimg.com/vi/D45d7SluaiA/mqdefault.jpg",
-      "views": 14,
+      "views": 43,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5279,8 +5320,8 @@
       "title": "Migros 19 Kasım - 2 Aralık Broşürü: NK Oto Mikrofiber Bez 99,95 TL",
       "published": "2026-11-26T02:24:09Z",
       "thumbnail": "https://i.ytimg.com/vi/oeNHgntF8Lk/mqdefault.jpg",
-      "views": 68,
-      "likes": 0,
+      "views": 284,
+      "likes": 1,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
       "channelTitle": "İndirimLab"
@@ -5290,7 +5331,7 @@
       "title": "Migros 19 Kasım Aktüel: Clear Men Şampuan 159,95 TL",
       "published": "2026-11-26T01:43:53Z",
       "thumbnail": "https://i.ytimg.com/vi/1jeIfzCqINg/mqdefault.jpg",
-      "views": 66,
+      "views": 187,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5301,7 +5342,7 @@
       "title": "Migros 19 Kasım - 2 Aralık Broşürü: Milka Bonibon 3'lü 79,90 TL",
       "published": "2026-11-26T01:03:52Z",
       "thumbnail": "https://i.ytimg.com/vi/09nUqKM1GFg/mqdefault.jpg",
-      "views": 22,
+      "views": 115,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5312,7 +5353,7 @@
       "title": "ŞOK 25 Kasım Broşürü: Superfresh Milföy 159 TL",
       "published": "2026-11-26T00:23:26Z",
       "thumbnail": "https://i.ytimg.com/vi/NvHtL0XkPUU/mqdefault.jpg",
-      "views": 62,
+      "views": 144,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5323,7 +5364,7 @@
       "title": "ŞOK 28 Kasım Aktüel: Altus Çamaşır Makinesi 19.999 TL",
       "published": "2026-11-25T23:43:20Z",
       "thumbnail": "https://i.ytimg.com/vi/IHw_KULBhd4/mqdefault.jpg",
-      "views": 152,
+      "views": 353,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5334,7 +5375,7 @@
       "title": "BİM 23 Kasım Uygulamaya Özel Broşürü: Roborock Süpürge 13.999 TL",
       "published": "2026-11-25T23:03:09Z",
       "thumbnail": "https://i.ytimg.com/vi/pd_KIiljRug/mqdefault.jpg",
-      "views": 202,
+      "views": 252,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5345,7 +5386,7 @@
       "title": "BİM 25 Kasım Aktüel: Bolbol Mayonez 105 TL, Ketçap 75 TL",
       "published": "2026-11-25T22:23:03Z",
       "thumbnail": "https://i.ytimg.com/vi/-3ndZK31PXI/mqdefault.jpg",
-      "views": 127,
+      "views": 245,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
@@ -5356,23 +5397,12 @@
       "title": "BİM 23-29 Kasım Aktüel: Dijitsu 32 inç Android TV 7.599 TL",
       "published": "2026-11-25T21:42:55Z",
       "thumbnail": "https://i.ytimg.com/vi/tLzcfKT64C4/mqdefault.jpg",
-      "views": 65,
-      "likes": 0,
-      "comments": 0,
-      "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
-      "channelTitle": "İndirimLab"
-    },
-    {
-      "videoId": "F569o0v9cMA",
-      "title": "A101 25 Kasım Aktüel: Vera Ayçiçek Yağı 5 L 479 TL",
-      "published": "2026-11-25T21:02:31Z",
-      "thumbnail": "https://i.ytimg.com/vi/F569o0v9cMA/mqdefault.jpg",
-      "views": 372,
+      "views": 85,
       "likes": 0,
       "comments": 0,
       "channelId": "UCYmOwFfLOjSHENET9FJaGIQ",
       "channelTitle": "İndirimLab"
     }
   ],
-  "lastUpdated": "2026-11-26T14:12:30Z"
+  "lastUpdated": "2026-11-26T23:00:37Z"
 }
